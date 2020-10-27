@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://MqyGalaxy.github.io</id>
+    <title>MqyGalaxy | Blog • Posts by &#34;markdown&#34; tag</title>
+    <link href="https://MqyGalaxy.github.io" />
+    <updated>2020-10-25T05:55:02.032Z</updated>
+    <category term="HTML/CSS" />
+    <category term="Hexo" />
+    <category term="Markdown" />
+    <category term="游戏" />
+    <category term="ACG" />
+    <category term="明日方舟" />
+    <entry>
+        <id>https://mqygalaxy.github.io/MyBlog%203.0%20%E6%B5%8B%E8%AF%95%E4%BD%BF%E7%94%A8%E5%BC%80%E5%90%AF/</id>
+        <title>MyBlog 3.0 测试使用开启</title>
+        <link rel="alternate" href="https://mqygalaxy.github.io/MyBlog%203.0%20%E6%B5%8B%E8%AF%95%E4%BD%BF%E7%94%A8%E5%BC%80%E5%90%AF/"/>
+        <content type="html">&lt;p&gt;MyBlog 3.0 使用 Hexo/Markdown 制作静态博客，目前发布第一个文章作为测试。&lt;/p&gt;
+&lt;p&gt;之后会将 2.0 的全部类容移植其中，并添加全新的功能（如评论、搜索等）&lt;/p&gt;
+</content>
+        <category term="HTML/CSS" />
+        <category term="Hexo" />
+        <category term="Markdown" />
+        <updated>2020-10-25T05:55:02.032Z</updated>
+    </entry>
+</feed>
