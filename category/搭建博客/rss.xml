@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>MqyGalaxy | Blog • Posts by &#34;搭建博客&#34; category</title>
+        <link>https://MqyGalaxy.github.io</link>
+        <description></description>
+        <language>zh-CN</language>
+        <pubDate>Sun, 25 Oct 2020 13:55:02 +0800</pubDate>
+        <lastBuildDate>Sun, 25 Oct 2020 13:55:02 +0800</lastBuildDate>
+        <category>HTML/CSS</category>
+        <category>Hexo</category>
+        <category>Markdown</category>
+        <category>游戏</category>
+        <category>ACG</category>
+        <category>明日方舟</category>
+        <item>
+            <guid isPermalink="true">https://mqygalaxy.github.io/MyBlog%203.0%20%E6%B5%8B%E8%AF%95%E4%BD%BF%E7%94%A8%E5%BC%80%E5%90%AF/</guid>
+            <title>MyBlog 3.0 测试使用开启</title>
+            <link>https://mqygalaxy.github.io/MyBlog%203.0%20%E6%B5%8B%E8%AF%95%E4%BD%BF%E7%94%A8%E5%BC%80%E5%90%AF/</link>
+            <category>HTML/CSS</category>
+            <category>Hexo</category>
+            <category>Markdown</category>
+            <pubDate>Sun, 25 Oct 2020 13:55:02 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;MyBlog 3.0 使用 Hexo/Markdown 制作静态博客，目前发布第一个文章作为测试。&lt;/p&gt;
+&lt;p&gt;之后会将 2.0 的全部类容移植其中，并添加全新的功能（如评论、搜索等）&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>
