@@ -2,24 +2,26 @@
 <rss version="2.0">
     <channel>
         <title>MqyGalaxy | Blog</title>
+        <subtitle>爱好ACG的温馨小窝</subtitle>
+        <icon>https://mqygalaxy.github.io/images/favicon.ico</icon>
         <link>https://MqyGalaxy.github.io</link>
+        <author>
+          <name>MqyGalaxy</name>
+        </author>
         <description>爱好ACG的温馨小窝</description>
         <language>zh-CN,en,ja,default</language>
         <pubDate>Tue, 27 Oct 2020 09:30:48 +0800</pubDate>
         <lastBuildDate>Tue, 27 Oct 2020 09:30:48 +0800</lastBuildDate>
-        <category>HTML/CSS</category>
-        <category>Hexo</category>
-        <category>Markdown</category>
-        <category>游戏</category>
-        <category>ACG</category>
-        <category>明日方舟</category>
         <item>
             <guid isPermalink="true">https://mqygalaxy.github.io/game/arknights/1-5year/%E6%96%B0%E5%A2%9E%E5%86%85%E5%AE%B9/</guid>
             <title>新增内容</title>
             <link>https://mqygalaxy.github.io/game/arknights/1-5year/%E6%96%B0%E5%A2%9E%E5%86%85%E5%AE%B9/</link>
-            <category>游戏</category>
-            <category>ACG</category>
-            <category>明日方舟</category>
+            <category term="游戏" scheme="https://mqygalaxy.github.io/categories/game/" />
+            <category term="明日方舟专区" scheme="https://mqygalaxy.github.io/categories/game/arknights/" />
+            <category term="明日方舟 - 1.5周年活动" scheme="https://mqygalaxy.github.io/categories/game/arknights/1-5year/" />
+            <category term="游戏" scheme="https://mqygalaxy.github.io/tags/%E6%B8%B8%E6%88%8F/" />
+            <category term="ACG" scheme="https://mqygalaxy.github.io/tags/ACG/" />
+            <category term="明日方舟" scheme="https://mqygalaxy.github.io/tags/%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F/" />
             <pubDate>Tue, 27 Oct 2020 09:30:48 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;第八章-怒号光明-即将开启&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#第八章-怒号光明-即将开启&#34;&gt;#&lt;/a&gt; 第八章 【怒号光明】 即将开启&lt;/h1&gt;
 &lt;p&gt;第八章可能是罗德岛在龙门的最后一个篇章&lt;/p&gt;
@@ -94,9 +96,12 @@
             <guid isPermalink="true">https://mqygalaxy.github.io/game/arknights/1-5year/1.5%E5%91%A8%E5%B9%B4%E6%96%B0%E5%A2%9E%E5%B9%B2%E5%91%98%E5%8F%8A%E5%85%B6%E5%8F%98%E5%8A%A8/</guid>
             <title>1.5周年新增干员及其变动</title>
             <link>https://mqygalaxy.github.io/game/arknights/1-5year/1.5%E5%91%A8%E5%B9%B4%E6%96%B0%E5%A2%9E%E5%B9%B2%E5%91%98%E5%8F%8A%E5%85%B6%E5%8F%98%E5%8A%A8/</link>
-            <category>游戏</category>
-            <category>ACG</category>
-            <category>明日方舟</category>
+            <category term="游戏" scheme="https://mqygalaxy.github.io/categories/game/" />
+            <category term="明日方舟专区" scheme="https://mqygalaxy.github.io/categories/game/arknights/" />
+            <category term="明日方舟 - 1.5周年活动" scheme="https://mqygalaxy.github.io/categories/game/arknights/1-5year/" />
+            <category term="游戏" scheme="https://mqygalaxy.github.io/tags/%E6%B8%B8%E6%88%8F/" />
+            <category term="ACG" scheme="https://mqygalaxy.github.io/tags/ACG/" />
+            <category term="明日方舟" scheme="https://mqygalaxy.github.io/tags/%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F/" />
             <pubDate>Tue, 27 Oct 2020 09:28:48 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;新六星干员&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#新六星干员&#34;&gt;#&lt;/a&gt; 新六星干员&lt;/h1&gt;
 &lt;p&gt;你以为是迷送香？你以为是泥岩？其实鹰角两个都要哒！&lt;/p&gt;
@@ -181,45 +186,48 @@
             <guid isPermalink="true">https://mqygalaxy.github.io/game/arknights/1.5%E5%91%A8%E5%B9%B4%E6%B4%BB%E5%8A%A8%E9%A2%84%E8%A7%88/</guid>
             <title>明日方舟1.5周年活动 2020「感谢庆典」直播预览</title>
             <link>https://mqygalaxy.github.io/game/arknights/1.5%E5%91%A8%E5%B9%B4%E6%B4%BB%E5%8A%A8%E9%A2%84%E8%A7%88/</link>
-            <category>游戏</category>
-            <category>ACG</category>
-            <category>明日方舟</category>
+            <category term="游戏" scheme="https://mqygalaxy.github.io/categories/game/" />
+            <category term="明日方舟专区" scheme="https://mqygalaxy.github.io/categories/game/arknights/" />
+            <category term="明日方舟 - 1.5周年活动" scheme="https://mqygalaxy.github.io/categories/game/arknights/1-5year/" />
+            <category term="游戏" scheme="https://mqygalaxy.github.io/tags/%E6%B8%B8%E6%88%8F/" />
+            <category term="ACG" scheme="https://mqygalaxy.github.io/tags/ACG/" />
+            <category term="明日方舟" scheme="https://mqygalaxy.github.io/tags/%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F/" />
             <pubDate>Tue, 27 Oct 2020 09:26:48 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;1.5 周年活动，个人认为并不是为了周年的庆祝，而是方舟第一章故事的结束&lt;/p&gt;
 &lt;details&gt;&lt;summary&gt;《明日方舟》10.25感谢庆典直播录像（附字幕） @明日方舟&lt;/summary&gt;&lt;div&gt;
 &lt;iframe src=&#34;//player.bilibili.com/player.html?aid=755018101&amp;bvid=BV1Fr4y1w7Ls&amp;cid=250069109&amp;page=1&#34; scrolling=&#34;no&#34; border=&#34;0&#34; frameborder=&#34;no&#34; framespacing=&#34;0&#34; allowfullscreen=&#34;true&#34; style=&#34;width:100%;height:600px&#34;&gt; &lt;/iframe&gt;
 &lt;/div&gt;&lt;/details&gt;
-&lt;p&gt;#正义演讲&lt;/p&gt;
+&lt;h1 id=&#34;正义演讲&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#正义演讲&#34;&gt;#&lt;/a&gt; 正义演讲&lt;/h1&gt;
 &lt;p&gt;海猫：只有我不觉得尬，这样就会让观众很尴尬&lt;/p&gt;
-&lt;h1 id=&#34;第八章介绍&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#第八章介绍&#34;&gt;#&lt;/a&gt; 第八章介绍&lt;/h1&gt;
+&lt;h1 id=&#34;第八章介绍&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第八章介绍&#34;&gt;#&lt;/a&gt; 第八章介绍&lt;/h1&gt;
 &lt;p&gt;罗德岛与整合运动的最终决战&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;你将与凯尔希回到你最开始醒来的地方，寻求切断核心城的方法&lt;/li&gt;
-&lt;li&gt;阿米娅将会在迷送香等同伴的帮助下前往指挥塔寻找陈所在的地方，并与陈一起决战塔露拉，阻止核心城相撞&lt;br&gt;
-&lt;span class=&#34;spoiler&#34; title=&#34;...&#34;&gt;这样剧透真的没问题？rua 牛；非常重要？？？&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;阿米娅将会在迷送香等同伴的帮助下前往指挥塔寻找陈所在的地方，并与陈一起决战塔露拉，阻止核心城相撞&lt;br /&gt;
+&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;这样剧透真的没问题？rua 牛；非常重要？？？&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;在第八章中，将会以两条故事线交错叙述剧情&lt;br&gt;
+&lt;p&gt;在第八章中，将会以两条故事线交错叙述剧情&lt;br /&gt;
 阿米娅在与整合运动的对抗中成长，将在第八章中拾起最后一块关键的拼图&lt;/p&gt;
-&lt;h2 id=&#34;升变系统&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#升变系统&#34;&gt;#&lt;/a&gt; 升变系统&lt;/h2&gt;
-&lt;p&gt;升变后的阿米娅将获得近卫形态，实力将会增强，获得新的内容与语音&lt;br&gt;
+&lt;h2 id=&#34;升变系统&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#升变系统&#34;&gt;#&lt;/a&gt; 升变系统&lt;/h2&gt;
+&lt;p&gt;升变后的阿米娅将获得近卫形态，实力将会增强，获得新的内容与语音&lt;br /&gt;
  rua 牛：拿起造型十分相识的剑，并且手上还穿上了铠甲，感受到阿米娅对未来道路的决心&lt;/p&gt;
 &lt;div class=&#34;note info&#34;&gt;
-&lt;p&gt;携带阿米娅通过特定关卡，将会获得并自动切换为近卫形态&lt;br&gt;
-特定关卡入场条件需要阿米娅精二，不对其他条件限制&lt;br&gt;
-如果正在专精阿米娅的术士技能，则不会进行自动切换&lt;br&gt;
+&lt;p&gt;携带阿米娅通过特定关卡，将会获得并自动切换为近卫形态&lt;br /&gt;
+特定关卡入场条件需要阿米娅精二，不对其他条件限制&lt;br /&gt;
+如果正在专精阿米娅的术士技能，则不会进行自动切换&lt;br /&gt;
 升变后阿米娅可以切换术士与近卫状态，两个状态的养成数值不变&lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;&lt;strong&gt;升变系统为阿米娅专属系统&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;关于 &lt;strong&gt;&lt;ruby&gt;阿米娅&lt;rp&gt;【&lt;/rp&gt;&lt;rt&gt;Amiya&lt;/rt&gt;&lt;rp&gt;】&lt;/rp&gt;&lt;/ruby&gt;&lt;/strong&gt; &lt;span class=&#34;label warning&#34;&gt;升变&lt;/span&gt; ★★★★★ 详情请见：&lt;a href=&#34;/game/arknights/1-5year/1.5%E5%91%A8%E5%B9%B4%E6%96%B0%E5%A2%9E%E5%B9%B2%E5%91%98%E5%8F%8A%E5%85%B6%E5%8F%98%E5%8A%A8/&#34;&gt;1.5 周年新增干员及其变动&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;干员成长&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#干员成长&#34;&gt;#&lt;/a&gt; 干员成长&lt;/h2&gt;
-&lt;p&gt;成长后的干员会以全新的同名干员加入，如炎熔&lt;br&gt;
+&lt;p&gt;关于 &lt;strong&gt;&lt;ruby&gt;阿米娅&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;Amiya&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;&lt;/strong&gt; &lt;span class=&#34;label warning&#34;&gt;升变&lt;/span&gt; ★★★★★ 详情请见：&lt;a href=&#34;/game/arknights/1-5year/1.5%E5%91%A8%E5%B9%B4%E6%96%B0%E5%A2%9E%E5%B9%B2%E5%91%98%E5%8F%8A%E5%85%B6%E5%8F%98%E5%8A%A8/&#34;&gt;1.5 周年新增干员及其变动&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;干员成长&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#干员成长&#34;&gt;#&lt;/a&gt; 干员成长&lt;/h2&gt;
+&lt;p&gt;成长后的干员会以全新的同名干员加入，如炎熔&lt;br /&gt;
 详情请见：&lt;a href=&#34;/game/arknights/1-5year/1.5%E5%91%A8%E5%B9%B4%E6%96%B0%E5%A2%9E%E5%B9%B2%E5%91%98%E5%8F%8A%E5%85%B6%E5%8F%98%E5%8A%A8/&#34;&gt;1.5 周年新增干员及其变动&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&#34;新限定寻访&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#新限定寻访&#34;&gt;#&lt;/a&gt; 新限定寻访&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;&lt;ruby&gt;迷迭香&lt;rp&gt;【&lt;/rp&gt;&lt;rt&gt;Rosmontis&lt;/rt&gt;&lt;rp&gt;】&lt;/rp&gt;&lt;/ruby&gt;&lt;/strong&gt; &lt;span class=&#34;label danger&#34;&gt;限定&lt;/span&gt; ★★★★★★&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;ruby&gt;泥岩&lt;rp&gt;【&lt;/rp&gt;&lt;rt&gt;Mudrock&lt;/rt&gt;&lt;rp&gt;】&lt;/rp&gt;&lt;/ruby&gt;&lt;/strong&gt; ★★★★★★ &lt;span class=&#34;spoiler&#34; title=&#34;...&#34;&gt;精二：从兄贵到姐贵，冲国人特攻&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;海猫：大鲍勃真没有：D&lt;br&gt;
+&lt;h1 id=&#34;新限定寻访&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#新限定寻访&#34;&gt;#&lt;/a&gt; 新限定寻访&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;&lt;ruby&gt;迷迭香&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;Rosmontis&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;&lt;/strong&gt; &lt;span class=&#34;label danger&#34;&gt;限定&lt;/span&gt; ★★★★★★&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;ruby&gt;泥岩&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;Mudrock&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;&lt;/strong&gt; ★★★★★★ &lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;精二：从兄贵到姐贵，冲国人特攻&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;海猫：大鲍勃真没有：D&lt;br /&gt;
  详情请见：&lt;a href=&#34;/game/arknights/1-5year/1.5%E5%91%A8%E5%B9%B4%E6%96%B0%E5%A2%9E%E5%B9%B2%E5%91%98%E5%8F%8A%E5%85%B6%E5%8F%98%E5%8A%A8/&#34;&gt;1.5 周年新增干员及其变动&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;限定寻访机制修改&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#限定寻访机制修改&#34;&gt;#&lt;/a&gt; 限定寻访机制修改&lt;/h2&gt;
+&lt;h2 id=&#34;限定寻访机制修改&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#限定寻访机制修改&#34;&gt;#&lt;/a&gt; 限定寻访机制修改&lt;/h2&gt;
 &lt;p&gt;限定寻访进行分类：&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -248,11 +256,11 @@
 &lt;li&gt;新出限定干员会有&lt;strong&gt;不可获取期&lt;/strong&gt;，结束后才可加入限定寻访&lt;/li&gt;
 &lt;/ul&gt;
 &lt;div class=&#34;note info&#34;&gt;
-&lt;p&gt;【限定寻访・春节】干员【年】不会在 2021 年 1 月 1 日前加入任何限定寻访&lt;br&gt;
-【限定寻访・庆典】干员【W】不会在 2021 年 4 月 1 日前加入任何限定寻访&lt;br&gt;
+&lt;p&gt;【限定寻访・春节】干员【年】不会在 2021 年 1 月 1 日前加入任何限定寻访&lt;br /&gt;
+【限定寻访・庆典】干员【W】不会在 2021 年 4 月 1 日前加入任何限定寻访&lt;br /&gt;
 【限定寻访・庆典】干员【迷迭香】不会在 2021 年 10 月 1 日前加入任何限定寻访&lt;/p&gt;
 &lt;/div&gt;
-&lt;h1 id=&#34;新时装&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#新时装&#34;&gt;#&lt;/a&gt; 新时装&lt;/h1&gt;
+&lt;h1 id=&#34;新时装&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#新时装&#34;&gt;#&lt;/a&gt; 新时装&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;W&lt;/strong&gt; 恍惚&lt;/p&gt;
 &lt;div class=&#34;note info&#34;&gt;
 &lt;p&gt;在明年周年庆时，该时装也会同步复刻&lt;/p&gt;
@@ -260,34 +268,34 @@
 &lt;p&gt;&lt;strong&gt;德克萨斯&lt;/strong&gt; 意志&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;伊桑&lt;/strong&gt; 渗透&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;杜宾&lt;/strong&gt; 少尉&lt;/p&gt;
-&lt;h1 id=&#34;感谢庆典福利&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#感谢庆典福利&#34;&gt;#&lt;/a&gt; 感谢庆典福利&lt;/h1&gt;
+&lt;h1 id=&#34;感谢庆典福利&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#感谢庆典福利&#34;&gt;#&lt;/a&gt; 感谢庆典福利&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;首次登陆可获得&lt;strong&gt;十连限定寻访凭证&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;每日&lt;strong&gt;首次限定寻访免费&lt;/strong&gt;&lt;span class=&#34;label warning&#34;&gt;共计 14 次&lt;/span&gt;&lt;br&gt;
+&lt;li&gt;每日&lt;strong&gt;首次限定寻访免费&lt;/strong&gt;&lt;span class=&#34;label warning&#34;&gt;共计 14 次&lt;/span&gt;&lt;br /&gt;
 总共可以获得 24 次免费寻访&lt;/li&gt;
 &lt;li&gt;活动期间每日登陆可获取&lt;strong&gt;庆典礼盒&lt;/strong&gt;一个，在 200/300/800 合成玉中随机获得一份&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;第八章隐藏菜单&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#第八章隐藏菜单&#34;&gt;#&lt;/a&gt; 第八章隐藏菜单&lt;/h1&gt;
+&lt;h1 id=&#34;第八章隐藏彩蛋&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第八章隐藏彩蛋&#34;&gt;#&lt;/a&gt; 第八章隐藏彩蛋&lt;/h1&gt;
 &lt;p&gt;未知，估计为隐藏关卡&lt;/p&gt;
-&lt;h1 id=&#34;音角&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#音角&#34;&gt;#&lt;/a&gt; 音角&lt;/h1&gt;
+&lt;h1 id=&#34;音角&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#音角&#34;&gt;#&lt;/a&gt; 音角&lt;/h1&gt;
 &lt;p&gt;鹰角是一个被游戏耽误音乐公司 = =&lt;/p&gt;
-&lt;h1 id=&#34;剿灭作战新机制&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#剿灭作战新机制&#34;&gt;#&lt;/a&gt; 剿灭作战新机制&lt;/h1&gt;
+&lt;h1 id=&#34;剿灭作战新机制&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#剿灭作战新机制&#34;&gt;#&lt;/a&gt; 剿灭作战新机制&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;在常驻剿灭委托的基础上新增轮换剿灭委托&lt;/li&gt;
 &lt;li&gt;可以在模拟战中获得错过的物品（除了合成玉）&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;直播奖励兑换码&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#直播奖励兑换码&#34;&gt;#&lt;/a&gt; 直播奖励兑换码&lt;/h1&gt;
+&lt;h1 id=&#34;直播奖励兑换码&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#直播奖励兑换码&#34;&gt;#&lt;/a&gt; 直播奖励兑换码&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;GWSIX6JJA25P4QEK&lt;br&gt;
-&lt;sub&gt; 合成玉 x1200，龙门币 x20000，高级作战记录 x10，家具零件 x200&lt;/sub&gt;&lt;br&gt;
- 兑换有效期至：2020/10/31 23:59:59&lt;br&gt;
+&lt;li&gt;GWSIX6JJA25P4QEK&lt;br /&gt;
+&lt;sub&gt; 合成玉 x1200，龙门币 x20000，高级作战记录 x10，家具零件 x200&lt;/sub&gt;&lt;br /&gt;
+ 兑换有效期至：2020/10/31 23:59:59&lt;br /&gt;
 &lt;sub&gt; 邮件领取有效期至：发放后 30 日内&lt;/sub&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;div class=&#34;note info&#34;&gt;
-&lt;p&gt;在明日方舟官网登陆并在兑换界面输入兑换码即可&lt;br&gt;
+&lt;p&gt;在明日方舟官网登陆并在兑换界面输入兑换码即可&lt;br /&gt;
 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9hay5oeXBlcmdyeXBoLmNvbS8=&#34;&gt;明日方舟官网&lt;/span&gt;&lt;/p&gt;
 &lt;/div&gt;
-&lt;h1 id=&#34;干员秘录&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#干员秘录&#34;&gt;#&lt;/a&gt; 干员秘录&lt;/h1&gt;
+&lt;h1 id=&#34;干员秘录&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#干员秘录&#34;&gt;#&lt;/a&gt; 干员秘录&lt;/h1&gt;
 &lt;p&gt;干员个人剧情&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;预计在第一个版本中添加 10 位干员的个人剧情&lt;/li&gt;
@@ -295,37 +303,37 @@
 &lt;li&gt;在后续会逐渐完善&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;rua 牛：我要看白雪！&lt;/p&gt;
-&lt;h1 id=&#34;未来其他活动&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#未来其他活动&#34;&gt;#&lt;/a&gt; 未来其他活动&lt;/h1&gt;
-&lt;p&gt;在哥伦比亚，关于莱茵生命的故事&lt;br&gt;
+&lt;h1 id=&#34;未来其他活动&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#未来其他活动&#34;&gt;#&lt;/a&gt; 未来其他活动&lt;/h1&gt;
+&lt;p&gt;在哥伦比亚，关于莱茵生命的故事&lt;br /&gt;
 新干员：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;山&lt;/strong&gt; ★★★★★★&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;卡夫卡&lt;/strong&gt; ★★★★★&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;育碧联动与彩虹六号围攻进行联动&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#育碧联动与彩虹六号围攻进行联动&#34;&gt;#&lt;/a&gt; 育碧联动：与《彩虹六号 | 围攻》进行联动&lt;/h1&gt;
+&lt;h1 id=&#34;育碧联动与彩虹六号围攻进行联动&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#育碧联动与彩虹六号围攻进行联动&#34;&gt;#&lt;/a&gt; 育碧联动：与《彩虹六号 | 围攻》进行联动&lt;/h1&gt;
 &lt;p&gt;已知联动干员（共 4 名）：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;TACHANKA&lt;/strong&gt; ★★★★★ 活动赠送&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;其他三名将在活动中【限时寻访】获得&lt;br&gt;
+&lt;p&gt;其他三名将在活动中【限时寻访】获得&lt;br /&gt;
 将会有全新的玩法、内容与时装&lt;/p&gt;
-&lt;p&gt;大概将在 2021 年上半年上线&lt;br&gt;
-&lt;span class=&#34;spoiler&#34; title=&#34;...&#34;&gt;未曾设想的道路？！&lt;/span&gt;&lt;/p&gt;
-&lt;h1 id=&#34;线下活动明日方舟专场演出音律联觉&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#线下活动明日方舟专场演出音律联觉&#34;&gt;#&lt;/a&gt; 线下活动：明日方舟专场演出 | 音律联觉&lt;/h1&gt;
-&lt;p&gt;&lt;ruby&gt;灯光准备 即将上演&lt;rp&gt;【&lt;/rp&gt;&lt;rt&gt;2021&lt;/rt&gt;&lt;rp&gt;】&lt;/rp&gt;&lt;/ruby&gt;&lt;/p&gt;
-&lt;h1 id=&#34;其他联动企划&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#其他联动企划&#34;&gt;#&lt;/a&gt; 其他联动 / 企划&lt;/h1&gt;
+&lt;p&gt;大概将在 2021 年上半年上线&lt;br /&gt;
+&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;未曾设想的道路？！&lt;/span&gt;&lt;/p&gt;
+&lt;h1 id=&#34;线下活动明日方舟专场演出音律联觉&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#线下活动明日方舟专场演出音律联觉&#34;&gt;#&lt;/a&gt; 线下活动：明日方舟专场演出 | 音律联觉&lt;/h1&gt;
+&lt;p&gt;&lt;ruby&gt;灯光准备 即将上演&lt;rp&gt; (&lt;/rp&gt;&lt;rt&gt;2021&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;&lt;/p&gt;
+&lt;h1 id=&#34;其他联动企划&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#其他联动企划&#34;&gt;#&lt;/a&gt; 其他联动 / 企划&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;招商银行卡&lt;/li&gt;
 &lt;li&gt;i.T&lt;/li&gt;
 &lt;li&gt;铁三角&lt;/li&gt;
 &lt;li&gt;潮玩星球 线下主题咖啡店&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;鹰角创立的旗下品牌&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#鹰角创立的旗下品牌&#34;&gt;#&lt;/a&gt; 鹰角创立的旗下品牌&lt;/h2&gt;
+&lt;h2 id=&#34;鹰角创立的旗下品牌&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#鹰角创立的旗下品牌&#34;&gt;#&lt;/a&gt; 鹰角创立的旗下品牌&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;一拾山（服装）
 &lt;ul&gt;
-&lt;li&gt;浮叠工业系列服饰&lt;br&gt;
-&lt;span class=&#34;spoiler&#34; title=&#34;...&#34;&gt;罗德岛除了制药啥都干，游戏公司进军服装业&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;浮叠工业系列服饰&lt;br /&gt;
+&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;罗德岛除了制药啥都干，游戏公司进军服装业&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;朝陇山
@@ -337,18 +345,18 @@
 &lt;li&gt;OST 游戏原声带（至第六章）&lt;/li&gt;
 &lt;li&gt;明日方舟官方美术设定集&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;直播全服发放福利&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#直播全服发放福利&#34;&gt;#&lt;/a&gt; 直播全服发放福利&lt;/h1&gt;
+&lt;h1 id=&#34;直播全服发放福利&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#直播全服发放福利&#34;&gt;#&lt;/a&gt; 直播全服发放福利&lt;/h1&gt;
 &lt;p&gt;合成玉 x1800 龙门币 x20000，高级作战记录 x20，D32 钢 x1 双极纳米片 x1 聚合剂 x1&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;邮件领取有效期至：发放后 10 日内&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;最后&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#最后&#34;&gt;#&lt;/a&gt; 最后&lt;/h1&gt;
+&lt;h1 id=&#34;最后&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#最后&#34;&gt;#&lt;/a&gt; 最后&lt;/h1&gt;
 &lt;p&gt;新 PV，凯尔希？讲解世界观（泰拉世界大地图）&lt;/p&gt;
-&lt;h1 id=&#34;相关视频&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#相关视频&#34;&gt;#&lt;/a&gt; 相关视频&lt;/h1&gt;
-&lt;div class=&#34;tab&#34; data-id=&#34;id1&#34; data-title=&#34;《明日方舟》2020「感谢庆典」限时活动宣传PV&#34;&gt;
+&lt;h1 id=&#34;相关视频&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#相关视频&#34;&gt;#&lt;/a&gt; 相关视频&lt;/h1&gt;
+&lt;div class=&#34;tab&#34; data-id=&#34;id1&#34; data-title=&#34;2020「感谢庆典」限时活动宣传PV&#34;&gt;
 &lt;iframe src=&#34;//player.bilibili.com/player.html?aid=842521100&amp;bvid=BV1W54y1C7jy&amp;cid=249393993&amp;page=1&#34; scrolling=&#34;no&#34; border=&#34;0&#34; frameborder=&#34;no&#34; framespacing=&#34;0&#34; allowfullscreen=&#34;true&#34; style=&#34;width:100%;height:600px&#34;&gt; &lt;/iframe&gt;
 &lt;/div&gt;
-&lt;div class=&#34;tab&#34; data-id=&#34;id1&#34; data-title=&#34;《明日方舟》音律联觉 Ambience Synesthesia预告PV&#34;&gt;
+&lt;div class=&#34;tab&#34; data-id=&#34;id1&#34; data-title=&#34;音律联觉 Ambience Synesthesia预告PV&#34;&gt;
 &lt;iframe src=&#34;//player.bilibili.com/player.html?aid=245003355&amp;bvid=BV1rv411k7Wv&amp;cid=249495064&amp;page=1&#34; scrolling=&#34;no&#34; border=&#34;0&#34; frameborder=&#34;no&#34; framespacing=&#34;0&#34; allowfullscreen=&#34;true&#34; style=&#34;width:100%;height:600px&#34;&gt; &lt;/iframe&gt;
 &lt;/div&gt;
 &lt;div class=&#34;tab&#34; data-id=&#34;id1&#34; data-title=&#34;初探泰拉 TERRA EXPLORATION&#34;&gt;
@@ -360,9 +368,10 @@
             <guid isPermalink="true">https://mqygalaxy.github.io/MyBlog%203.0%20%E6%B5%8B%E8%AF%95%E4%BD%BF%E7%94%A8%E5%BC%80%E5%90%AF/</guid>
             <title>MyBlog 3.0 测试使用开启</title>
             <link>https://mqygalaxy.github.io/MyBlog%203.0%20%E6%B5%8B%E8%AF%95%E4%BD%BF%E7%94%A8%E5%BC%80%E5%90%AF/</link>
-            <category>HTML/CSS</category>
-            <category>Hexo</category>
-            <category>Markdown</category>
+            <category term="搭建博客" scheme="https://mqygalaxy.github.io/categories/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/" />
+            <category term="HTML/CSS" scheme="https://mqygalaxy.github.io/tags/HTML-CSS/" />
+            <category term="Hexo" scheme="https://mqygalaxy.github.io/tags/Hexo/" />
+            <category term="Markdown" scheme="https://mqygalaxy.github.io/tags/Markdown/" />
             <pubDate>Sun, 25 Oct 2020 13:55:02 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;MyBlog 3.0 使用 Hexo/Markdown 制作静态博客，目前发布第一个文章作为测试。&lt;/p&gt;
 &lt;p&gt;之后会将 2.0 的全部类容移植其中，并添加全新的功能（如评论、搜索等）&lt;/p&gt;
