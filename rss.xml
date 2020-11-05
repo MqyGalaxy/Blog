@@ -19,8 +19,8 @@
             <category term="游戏" scheme="https://mqygalaxy.github.io/categories/game/" />
             <category term="明日方舟专区" scheme="https://mqygalaxy.github.io/categories/game/arknights/" />
             <category term="明日方舟 - 1.5周年活动" scheme="https://mqygalaxy.github.io/categories/game/arknights/1-5year/" />
-            <category term="游戏" scheme="https://mqygalaxy.github.io/tags/%E6%B8%B8%E6%88%8F/" />
             <category term="ACG" scheme="https://mqygalaxy.github.io/tags/ACG/" />
+            <category term="游戏" scheme="https://mqygalaxy.github.io/tags/%E6%B8%B8%E6%88%8F/" />
             <category term="明日方舟" scheme="https://mqygalaxy.github.io/tags/%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F/" />
             <pubDate>Tue, 27 Oct 2020 09:30:48 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;第八章-怒号光明-即将开启&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第八章-怒号光明-即将开启&#34;&gt;#&lt;/a&gt; 第八章 【怒号光明】 即将开启&lt;/h1&gt;
@@ -111,8 +111,8 @@
             <category term="游戏" scheme="https://mqygalaxy.github.io/categories/game/" />
             <category term="明日方舟专区" scheme="https://mqygalaxy.github.io/categories/game/arknights/" />
             <category term="明日方舟 - 1.5周年活动" scheme="https://mqygalaxy.github.io/categories/game/arknights/1-5year/" />
-            <category term="游戏" scheme="https://mqygalaxy.github.io/tags/%E6%B8%B8%E6%88%8F/" />
             <category term="ACG" scheme="https://mqygalaxy.github.io/tags/ACG/" />
+            <category term="游戏" scheme="https://mqygalaxy.github.io/tags/%E6%B8%B8%E6%88%8F/" />
             <category term="明日方舟" scheme="https://mqygalaxy.github.io/tags/%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F/" />
             <pubDate>Tue, 27 Oct 2020 09:28:48 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;新六星干员&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#新六星干员&#34;&gt;#&lt;/a&gt; 新六星干员&lt;/h1&gt;
@@ -283,14 +283,14 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://mqygalaxy.github.io/game/arknights/1.5%E5%91%A8%E5%B9%B4%E6%B4%BB%E5%8A%A8%E9%A2%84%E8%A7%88/</guid>
+            <guid isPermalink="true">https://mqygalaxy.github.io/game/arknights/1-5year/1.5%E5%91%A8%E5%B9%B4%E6%B4%BB%E5%8A%A8%E9%A2%84%E8%A7%88/</guid>
             <title>明日方舟1.5周年活动 2020「感谢庆典」直播预览</title>
-            <link>https://mqygalaxy.github.io/game/arknights/1.5%E5%91%A8%E5%B9%B4%E6%B4%BB%E5%8A%A8%E9%A2%84%E8%A7%88/</link>
+            <link>https://mqygalaxy.github.io/game/arknights/1-5year/1.5%E5%91%A8%E5%B9%B4%E6%B4%BB%E5%8A%A8%E9%A2%84%E8%A7%88/</link>
             <category term="游戏" scheme="https://mqygalaxy.github.io/categories/game/" />
             <category term="明日方舟专区" scheme="https://mqygalaxy.github.io/categories/game/arknights/" />
             <category term="明日方舟 - 1.5周年活动" scheme="https://mqygalaxy.github.io/categories/game/arknights/1-5year/" />
-            <category term="游戏" scheme="https://mqygalaxy.github.io/tags/%E6%B8%B8%E6%88%8F/" />
             <category term="ACG" scheme="https://mqygalaxy.github.io/tags/ACG/" />
+            <category term="游戏" scheme="https://mqygalaxy.github.io/tags/%E6%B8%B8%E6%88%8F/" />
             <category term="明日方舟" scheme="https://mqygalaxy.github.io/tags/%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F/" />
             <pubDate>Tue, 27 Oct 2020 09:26:48 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;1.5 周年活动，个人认为并不是为了周年的庆祝，而是方舟第一章故事的结束&lt;/p&gt;
@@ -468,7 +468,7 @@
             <guid isPermalink="true">https://mqygalaxy.github.io/MyBlog%203.0%20%E6%B5%8B%E8%AF%95%E4%BD%BF%E7%94%A8%E5%BC%80%E5%90%AF/</guid>
             <title>MyBlog 3.0 测试使用开启</title>
             <link>https://mqygalaxy.github.io/MyBlog%203.0%20%E6%B5%8B%E8%AF%95%E4%BD%BF%E7%94%A8%E5%BC%80%E5%90%AF/</link>
-            <category term="搭建博客" scheme="https://mqygalaxy.github.io/categories/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/" />
+            <category term="搭建博客" scheme="https://mqygalaxy.github.io/categories/blog/" />
             <category term="HTML/CSS" scheme="https://mqygalaxy.github.io/tags/HTML-CSS/" />
             <category term="Hexo" scheme="https://mqygalaxy.github.io/tags/Hexo/" />
             <category term="Markdown" scheme="https://mqygalaxy.github.io/tags/Markdown/" />
@@ -496,6 +496,246 @@
 &lt;h3 id=&#34;deploy-to-remote-sites&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#deploy-to-remote-sites&#34;&gt;#&lt;/a&gt; Deploy to remote sites&lt;/h3&gt;
 &lt;figure class=&#34;highlight bash&#34;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&#34;gutter&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&#34;code&#34;&gt;&lt;pre&gt;&lt;span class=&#34;line&#34;&gt;$ hexo deploy&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
 &lt;p&gt;More info: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mvb25lLWNvbW1hbmQtZGVwbG95bWVudC5odG1s&#34;&gt;Deployment&lt;/span&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://mqygalaxy.github.io/game/minecraft/mcupdate/1-17/</guid>
+            <title>Minecraft 1.17更新预览</title>
+            <link>https://mqygalaxy.github.io/game/minecraft/mcupdate/1-17/</link>
+            <category term="游戏" scheme="https://mqygalaxy.github.io/categories/game/" />
+            <category term="Minecraft专区" scheme="https://mqygalaxy.github.io/categories/game/minecraft/" />
+            <category term="Minecraft专区-版本更新" scheme="https://mqygalaxy.github.io/categories/game/minecraft/mcupdate/" />
+            <category term="游戏" scheme="https://mqygalaxy.github.io/tags/%E6%B8%B8%E6%88%8F/" />
+            <category term="Minecraft我的世界" scheme="https://mqygalaxy.github.io/tags/Minecraft%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C/" />
+            <pubDate>Wed, 07 Oct 2020 10:26:48 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;这里是 MqyGalaxy~&lt;/p&gt;
+&lt;p&gt;在今年 10 月 4 日，Mojang 公布了 1.17 新快照（java 版）的更新内容&lt;br /&gt;
+本 up 求着慢人一步的原则，在这里梳理的更新类容，详见如下：&lt;/p&gt;
+&lt;div class=&#34;note danger&#34;&gt;
+&lt;p&gt;注意！本文带有猜测内容，请以实际内容为主！&lt;br /&gt;
+本文翻译可能与实际内容不符，请以实际内容为主！&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;本文带有借鉴内容，均会标注出处&lt;/p&gt;
+&lt;h1 id=&#34;更新主题洞穴与峭壁caves-cliffs&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#更新主题洞穴与峭壁caves-cliffs&#34;&gt;#&lt;/a&gt; 更新主题：洞穴与峭壁 Caves &amp;amp; Cliffs&lt;/h1&gt;
+&lt;p&gt;1.17 预定推出时间为 2021 年，与以往 1.16/1.15 版本不同，更新时间往往大于它们&lt;br /&gt;
+所以 1.17 目前推出的内容可能只有一半，是一个跨度 1 年的大更新&lt;/p&gt;
+&lt;div class=&#34;note info&#34;&gt;
+&lt;p&gt;1.17 官方预定更新时间为 2021 年夏天&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;首先是对应了主题，对洞穴 / 高山的地形生成进行了大更新&lt;br /&gt;
+洞穴群系更新了：繁茂洞穴 石笋洞穴，而高山则变得更加真实雄伟&lt;br /&gt;
+也就是说，本次更新对于主世界 y 轴的探索进行了深造&lt;/p&gt;
+&lt;h1 id=&#34;高山内容更新&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#高山内容更新&#34;&gt;#&lt;/a&gt; 高山内容更新&lt;/h1&gt;
+&lt;h2 id=&#34;新的生成机制&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#新的生成机制&#34;&gt;#&lt;/a&gt; 新的生成机制&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;新地形&lt;/strong&gt;&lt;br /&gt;
+高山的生成将会更加真实雄伟&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;雪块&lt;/strong&gt;&lt;br /&gt;
+玩家会陷入雪块中&lt;/p&gt;
+&lt;h2 id=&#34;新的生物&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#新的生物&#34;&gt;#&lt;/a&gt; 新的生物&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;山羊&lt;/strong&gt;&lt;br /&gt;
+跳跃能力强，能跳很高的距离&lt;br /&gt;
+会攻击生物，会造成一段击退效果&lt;/p&gt;
+&lt;h1 id=&#34;洞穴群系更新&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#洞穴群系更新&#34;&gt;#&lt;/a&gt; 洞穴群系更新&lt;/h1&gt;
+&lt;h2 id=&#34;新的生成机制-2&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#新的生成机制-2&#34;&gt;#&lt;/a&gt; 新的生成机制&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;洞穴&lt;/strong&gt;&lt;br /&gt;
+洞穴将生成的更大，更加的空旷&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;地下湖&lt;/strong&gt;&lt;br /&gt;
+在洞穴中会形成一些湖泊，你可以在上面划船，可能也会填充整个矿洞&lt;/p&gt;
+&lt;h2 id=&#34;繁茂洞穴&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#繁茂洞穴&#34;&gt;#&lt;/a&gt; 繁茂洞穴&lt;/h2&gt;
+&lt;p&gt;植物繁茂，花草丛生，会生成许多新植被，在地上会有一个小洞口直连洞穴&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;发光浆果、孢子花朵、杜鹃花&lt;/strong&gt;&lt;br /&gt;
+未知，但发光浆果作为整个洞穴的光源&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;浮萍植物&lt;/strong&gt;&lt;br /&gt;
+玩家可以站在该植物上（该植物顶部有碰撞体积），但站一段时间顶部会慢慢倾斜，最后玩家会掉下来（失去碰撞体积）&lt;/p&gt;
+&lt;h2 id=&#34;石笋洞穴&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#石笋洞穴&#34;&gt;#&lt;/a&gt; 石笋洞穴&lt;/h2&gt;
+&lt;p&gt;会分布 石笋 与 钟乳石（对应现实中喀斯特地貌）&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;石笋&lt;/strong&gt;&lt;br /&gt;
+会滴水，并且可以使用容器收集&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;钟乳石&lt;/strong&gt;&lt;br /&gt;
+会对生物造成刺伤，破坏根部会坠落，生长在矿洞顶部或底部&lt;/p&gt;
+&lt;h2 id=&#34;紫水晶洞&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#紫水晶洞&#34;&gt;#&lt;/a&gt; 紫水晶洞&lt;/h2&gt;
+&lt;p&gt;非常稀有，可以开采水晶碎片&lt;/p&gt;
+&lt;h2 id=&#34;其他植被生物矿石道具&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#其他植被生物矿石道具&#34;&gt;#&lt;/a&gt; 其他（植被 / 生物 / 矿石 / 道具）&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;含羞植被&lt;/strong&gt;&lt;br /&gt;
+会对声音（震动）产生反应，可以用于制作含羞侦测器，引发红石信号，也可以使用多个以达到无线传输，貌似可以使用羊毛隔音&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;循声守卫&lt;/strong&gt;&lt;br /&gt;
+会生成在很深的地下，听声辩位（震动 / 无法用视力检测玩家），攻击力很高（下界合金套也很难应对），已知为敌对生物&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;蝾螈&lt;/strong&gt;&lt;br /&gt;
+友好生物，洞穴水中的新生物，可以用水桶舀起&lt;br /&gt;
+被桶装后放出就会跟随玩家，帮助玩家在水下攻击敌对生物&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;铜矿&lt;/strong&gt;&lt;br /&gt;
+新矿物，可炼铜炼！都可以炼！可制作铜块、避雷针等&lt;br /&gt;
+铜在放置后会生成铜锈（青色？）随着时间变化越来越多直到整个方块&lt;/p&gt;
+&lt;h1 id=&#34;考古系统&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#考古系统&#34;&gt;#&lt;/a&gt; 考古系统&lt;/h1&gt;
+&lt;h2 id=&#34;玩法&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#玩法&#34;&gt;#&lt;/a&gt; 玩法&lt;/h2&gt;
+&lt;p&gt;由于介绍不够全面，这里只列出大部分玩法&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;遗迹&lt;/strong&gt;&lt;br /&gt;
+玩家可以在遗迹中考古挖掘矿石与古物&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;毛刷&lt;/strong&gt;&lt;br /&gt;
+玩家不能直接破坏方块，需要使用毛刷从泥土、沙砾中筛出古物与矿石&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;陶罐&lt;/strong&gt;&lt;br /&gt;
+玩家可以将古物粘在陶罐上，之后便可烧制成品&lt;/p&gt;
+&lt;h1 id=&#34;其他&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#其他&#34;&gt;#&lt;/a&gt; 其他&lt;/h1&gt;
+&lt;h2 id=&#34;生物&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#生物&#34;&gt;#&lt;/a&gt; 生物&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;发光鱿鱼&lt;/strong&gt;&lt;br /&gt;
+海底生物，移动光源，具有催眠效果（表现未知）&lt;br /&gt;
+为投票胜出生物&lt;/p&gt;
+&lt;h2 id=&#34;物品&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#物品&#34;&gt;#&lt;/a&gt; 物品&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;望远镜&lt;/strong&gt;&lt;br /&gt;
+与高清修复 mod 的 C 键用途相似，视角会有圆形黑边框，使用水晶碎片合成&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;避雷针&lt;/strong&gt;&lt;br /&gt;
+吸引雷电，能防止雷电劈中易燃物质（木制、羊毛等）&lt;br /&gt;
+其他用途待开发&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;口袋&lt;/strong&gt;&lt;br /&gt;
+可以收纳背包内的物品，可以堆叠总共 64 个不同物品（类似背包 mod）&lt;br /&gt;
+潜影盒直呼内行&lt;/p&gt;
+&lt;h1 id=&#34;最后&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#最后&#34;&gt;#&lt;/a&gt; 最后&lt;/h1&gt;
+&lt;p&gt;这次的洞穴更新更加丰富了 MC 的地底世界，而这正是玩家想要看到的，可以说，这次的更新是民意的胜利了&lt;/p&gt;
+&lt;p&gt;参考内容&lt;br /&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL3ZpZGVvL0JWMUZ2NDExazdaZz9mcm9tPXNlYXJjaCZzZWlkPTExNDk5MTUwOTg3MDMyNDY0OTc1&#34;&gt;bilibili - 洞穴更新成了！Minecraft 1.17 更新特性汇总！洞穴与峭壁更新！@WuGuangYao&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYmlsaWJpbGkuY29tL3ZpZGVvL0JWMXZWNDExMTdQZy8/c3BtX2lkX2Zyb209MzMzLjc4OC5yZWNvbW1lbmRfbW9yZV92aWRlby4w&#34;&gt;bilibili - 我的世界 1.17 新版本深度解读 @籽岷&lt;/span&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://mqygalaxy.github.io/website/blog/20200916/</guid>
+            <title>MyBlog将取消Gitee Pages部署</title>
+            <link>https://mqygalaxy.github.io/website/blog/20200916/</link>
+            <category term="前端设计" scheme="https://mqygalaxy.github.io/categories/website/" />
+            <category term="搭建博客" scheme="https://mqygalaxy.github.io/categories/website/blog/" />
+            <category term="搭建博客" scheme="https://mqygalaxy.github.io/tags/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/" />
+            <pubDate>Wed, 16 Sep 2020 09:26:48 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;这里是 MqyGalaxy~&lt;/p&gt;
+&lt;h1 id=&#34;博客将取消gitee-pages部署&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#博客将取消gitee-pages部署&#34;&gt;#&lt;/a&gt; 博客将取消 Gitee Pages 部署&lt;/h1&gt;
+&lt;p&gt;为什么要取消？&lt;/p&gt;
+&lt;p&gt;因为最近将再一次改变网页格式，一个网站存在两个不同的域名对于超链接实在是太麻烦了&lt;br /&gt;
+再加上本来就没钱买服务器等等各项需求品，动态的实现几乎很难&lt;br /&gt;
+整理博客难上加难，况且本来该网站也没用多少交互功能，存在两个仓库也没有必要&lt;/p&gt;
+&lt;p&gt;原本 Gitee Pages 搭建的用途是解决大陆加载过慢 / 无法进入的问题，但是由于 Github 现在也可以访问，只要按照以下方式即可正常使用：&lt;/p&gt;
+&lt;p&gt;建议使用 Chrome 浏览器（最好不要使用 IE，谁用谁知道）&lt;br /&gt;
+不要使用 QQ / 微信等软件自带浏览器进入，可能会导致加载过慢或者无法连接&lt;br /&gt;
+在博客添加新域名后，可以忽视上一项&lt;br /&gt;
+目前博客域名：&lt;a href=&#34;https://mqygalaxy.github.io&#34;&gt;https://mqygalaxy.github.io&lt;/a&gt; 将继续使用至新域名部署前&lt;br /&gt;
+而：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9tcXlnYWxheHkuZ2l0ZWUuaW8=&#34;&gt;https://mqygalaxy.gitee.io&lt;/span&gt; 将在不久后停止使用&lt;/p&gt;
+&lt;p&gt;如若您在访问：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL2dpdGVlLmlv&#34;&gt;gitee.io&lt;/span&gt; 域名时无法访问，请切换为：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL2dpdGh1Yi5pbw==&#34;&gt;github.io&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;域名再次变动时将会发出公告&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://mqygalaxy.github.io/life/20200909/</guid>
+            <title>视频更新情况以及UP之后走向</title>
+            <link>https://mqygalaxy.github.io/life/20200909/</link>
+            <category term="生活杂谈" scheme="https://mqygalaxy.github.io/categories/%E7%94%9F%E6%B4%BB%E6%9D%82%E8%B0%88/" />
+            <category term="生活杂谈" scheme="https://mqygalaxy.github.io/tags/%E7%94%9F%E6%B4%BB%E6%9D%82%E8%B0%88/" />
+            <pubDate>Wed, 09 Sep 2020 09:26:48 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;这里是 MqyGalaxy~&lt;/p&gt;
+&lt;p&gt;虽然这个博客一是静态，二没有后台，但我还是会在这里写一些东西（没有交互功能应该也没人看吧 QAQ）&lt;/p&gt;
+&lt;p&gt;在这篇博文中，我会说明接下来做为 UP 的走向以及之后的安排&lt;/p&gt;
+&lt;h1 id=&#34;为什么几个月没有更新视频了&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#为什么几个月没有更新视频了&#34;&gt;#&lt;/a&gt; 为什么几个月没有更新视频了？&lt;/h1&gt;
+&lt;p&gt;在这里我要向大家解释一下：&lt;/p&gt;
+&lt;p&gt;首先：在最近实在有自己重要的事情要忙，更新视频没有余力&lt;br /&gt;
+其次：最近在对前端制作下功夫，由于本人对此领域毫无研究，还在一步步的摸索&lt;br /&gt;
+由于现实生活和自己的兴趣而耽误了视频制作，虽然我的粉丝少到可怜，但还是要在这里向关注我的人道歉！&lt;/p&gt;
+&lt;h1 id=&#34;今后的视频内容走向&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#今后的视频内容走向&#34;&gt;#&lt;/a&gt; 今后的视频内容走向&lt;/h1&gt;
+&lt;p&gt;以下是我今后的视频内容走向：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;暂时减少制作游戏区视频&lt;/li&gt;
+&lt;li&gt;动画 MAD 制作&lt;/li&gt;
+&lt;li&gt;番剧类视频&lt;/li&gt;
+&lt;li&gt;生草视频&lt;/li&gt;
+&lt;li&gt;东方 Project 视频&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;因为个人以及他人的安排不同，很难像以前一样聚在一起打游戏录视频了，再加上现在本人所用的笔记本也带不动一些高级大作，游戏区的视频肯定会比以前少很多&lt;/p&gt;
+&lt;p&gt;因为对于媒体制作的爱好，从以前就已经开始剪 mad 了（虽然很菜，当然不排除本身硬件问题），会逐步剪辑更上一层楼的视频&lt;/p&gt;
+&lt;p&gt;都是老二刺螈了，不出些二刺螈的视频怎么行？？？？&lt;/p&gt;
+&lt;p&gt;个人也喜欢生草整活，最近比较生草的片段都会拿来整活的&lt;/p&gt;
+&lt;p&gt;虽然东方也是游戏，但其同人创作涉及范围广而且我是车车人，平常也会制作一些与东方有关的视频&lt;/p&gt;
+&lt;h1 id=&#34;今后自身的安排&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#今后自身的安排&#34;&gt;#&lt;/a&gt; 今后自身的安排&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;学业第一，如果爱好与学业冲突，非过激情况会优先选择学业&lt;/li&gt;
+&lt;li&gt;由于最近个人的现实生活，不会保证视频的更新内容与速度&lt;/li&gt;
+&lt;li&gt;到目前为止，除非本人今后的需求，目前制作的视频等内容仅为自身爱好，不强求观众充电 / 打钱&lt;/li&gt;
+&lt;li&gt;学习前端制作，创建属于自己真正的个人博客&lt;/li&gt;
+&lt;li&gt;关于非过激情况，目前我也说不清楚，但我不会轻易放弃自己的爱好！&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;我的视频不定期更新，也是因为自己的现实生活与视频创意 / 视频质量等原因，希望观众见谅！&lt;/p&gt;
+&lt;p&gt;我目前并不建议观众朋友给我充电或者是送礼，做视频就是为了爱好，不会强求收钱收礼&lt;/p&gt;
+&lt;p&gt;最后这个目标主要也是因为自己的爱好，有机会也会与大家谈谈&lt;/p&gt;
+&lt;h1 id=&#34;什么时候更新新视频&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#什么时候更新新视频&#34;&gt;#&lt;/a&gt; 什么时候更新新视频&lt;/h1&gt;
+&lt;p&gt;希腊奶～&lt;/p&gt;
+&lt;h1 id=&#34;以前的视频还会填坑吗&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#以前的视频还会填坑吗&#34;&gt;#&lt;/a&gt; 以前的视频还会填坑吗？&lt;/h1&gt;
+&lt;p&gt;看情况，如果是远古巨坑（无法填）或者是黑历史，我可能会看情况砍掉&lt;/p&gt;
+&lt;h1 id=&#34;为什么到现在也要坚持下去&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#为什么到现在也要坚持下去&#34;&gt;#&lt;/a&gt; 为什么到现在也要坚持下去？&lt;/h1&gt;
+&lt;p&gt;就像这个网站，就算没人看也会写下去，为的就是和你一样正在阅读的观众&lt;/p&gt;
+&lt;p&gt;我做视频从来也没求过三连，有就投币没就点赞，只要你能点赞让更多的人看到，我就已经很开心了&lt;/p&gt;
+&lt;p&gt;东方有一位制作同人游戏的大佬，他说做游戏的初衷就是为了满足自己的创作欲望，就是想做。我也一样，只要有人看到、有人点赞、有人评论、有人收藏，对于制作者心里肯定是很开心的&lt;/p&gt;
+&lt;h1 id=&#34;最后&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#最后&#34;&gt;#&lt;/a&gt; 最后&lt;/h1&gt;
+&lt;p&gt;现在我会坚持制作视频和编写博文，博客的内容也是制作视频的技巧或者 ACG 内容（技术还得看将来）&lt;/p&gt;
+&lt;p&gt;欢迎大家来我负责的游戏网站：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9heWEtcy1qb3VybmFsLXRyaXAtaW4tZ2F6ZWJvLnRrLw==&#34;&gt;射命丸文的酉间坊纪行&lt;/span&gt;&lt;br /&gt;
+虽然游戏为实验性作品还是不怎么成熟，但游戏本身还是非常好玩的东方 3D 剧情向同人游戏&lt;br /&gt;
+游戏制作：鵺酱心酱制作委员会&lt;br /&gt;
+正在逐步制作续作《寂静的故乡》重制版&lt;br /&gt;
+希望大家能游玩他们的游戏和推荐，这是对同人创作的最好的帮助！&lt;/p&gt;
+&lt;p&gt;最后，祝大家⑨月⑨日琪露诺日快乐！&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://mqygalaxy.github.io/acg/anime/20200727/</guid>
+            <title>关于7月新番（1）</title>
+            <link>https://mqygalaxy.github.io/acg/anime/20200727/</link>
+            <category term="ACG" scheme="https://mqygalaxy.github.io/categories/acg/" />
+            <category term="ACG" scheme="https://mqygalaxy.github.io/tags/ACG/" />
+            <category term="番剧杂谈" scheme="https://mqygalaxy.github.io/tags/%E7%95%AA%E5%89%A7%E6%9D%82%E8%B0%88/" />
+            <category term="番剧推荐" scheme="https://mqygalaxy.github.io/tags/%E7%95%AA%E5%89%A7%E6%8E%A8%E8%8D%90/" />
+            <category term="Anime" scheme="https://mqygalaxy.github.io/tags/Anime/" />
+            <pubDate>Mon, 27 Jul 2020 09:26:48 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;在这里来聊一下关于最近的 7 月新番和 7 月 “新” 番&lt;/p&gt;
+&lt;h1 id=&#34;刀剑神域-alicization-war-of-underworld-最终季&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#刀剑神域-alicization-war-of-underworld-最终季&#34;&gt;#&lt;/a&gt; 《刀剑神域 Alicization War of Underworld 最终季》&lt;/h1&gt;
+&lt;p&gt;首先是从 4 月延期的：《刀剑神域 Alicization War of Underworld 最终季》&lt;/p&gt;
+&lt;p&gt;在这里我要特别提下最近发生比较有争议的事情：&lt;/p&gt;
+&lt;p&gt;本番在第 15 集 “煽动” 评分大降，原因是中国玩家参加了反方红甲阵营。&lt;br /&gt;
+看过原作的朋友都应该清楚，中国 / 韩国玩家被 poh 煽动才参加战争的。中韩被谣言煽动原作实际并不 “轻易”，煽动成功的原因由多重负面影响导致且根本原因在日本方面 (来自 b 站评论)。川原老贼也道过歉，且在电击文库改版时还考虑过删不删除：&lt;/p&gt;
+&lt;p&gt;&lt;sub&gt;“在加百列、瓦沙克、克里达邪恶的计划之下，美国、韩国与中国的 VRMMO 玩家大举攻入 UnderWorld，与人界军和日本人玩家展开连番激战，我大约十年前左右在网路版写到这部分情节时，是存在「如果能成为让大家重新思考当时网路游戏世界排斥外国人玩家的风气」…… 这样的意图。但是长期以来都对自己描写的能力不足，导致反而只煽动了敌忾心这样的结果感到很愧疚。”&lt;/sub&gt;&lt;/p&gt;
+&lt;p&gt;&lt;sub&gt;作者原话&lt;/sub&gt;&lt;/p&gt;
+&lt;p&gt;在作为电击文库版加写与修改时，曾经想过把这些情节整个变更，但是又觉得这样也算是在逃避…… 结果，大致上的情节还是没有什么改变。&lt;/p&gt;
+&lt;p&gt;所以，希望大家理性爱国！事情要经过三思而后行！&lt;/p&gt;
+&lt;h1 id=&#34;高达创行者再起&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#高达创行者再起&#34;&gt;#&lt;/a&gt; 《高达创行者：再起》&lt;/h1&gt;
+&lt;p&gt;第二：《高达创行者：再起》&lt;/p&gt;
+&lt;p&gt;其前作《高达创行者》由于过于子供导致胶佬们的不满。&lt;br /&gt;
+但正如番名，高达创行者再起了。&lt;/p&gt;
+&lt;p&gt;虽然一开始从风见的幼稚行为使观众们表示不满，但是经历了第一季的大战后，从第二季开始所有人都成长成熟了起来。&lt;/p&gt;
+&lt;p&gt;剧情也进入了本作的高潮，虽然因为疫情原因导致原本的 4 月新番停播至 7 月，但还是无法减少观众对本作的热情，与前作产生了鲜明的对比。&lt;/p&gt;
+&lt;p&gt;“◯◯能赢，全套买齐！”&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt; 财团 b 的阴谋&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;三上陆出来挨打 (恼)&lt;/span&gt;&lt;/p&gt;
+&lt;h1 id=&#34;某科学的超电磁炮t&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#某科学的超电磁炮t&#34;&gt;#&lt;/a&gt; 《某科学的超电磁炮 T》&lt;/h1&gt;
+&lt;p&gt;同停播但在最近复播的有：《某科学的超电磁炮 T》硬核年番&lt;/p&gt;
+&lt;p&gt;因为魔禁、约战、大爷的崩坏，J.C.STAFF 最近口碑一直在掉，甚至有人担心超炮 T 是不是也会遭受魔爪。&lt;/p&gt;
+&lt;p&gt;反而，最近疫情严重，JC 制作的超炮不但没有拉跨，反而还登上了 9.8（b 站）的高分。超炮和地下城可是亲生儿女，怎么能和捡来的大爷约战做对比？&lt;/p&gt;
+&lt;p&gt;现在超炮已经复播，地下城第三季也延期至 2021 年了。希望 JC 保持自己拥有的实力吧&lt;/p&gt;
+&lt;h1 id=&#34;宝石幻想-光芒重现&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#宝石幻想-光芒重现&#34;&gt;#&lt;/a&gt; 《宝石幻想 光芒重现》&lt;/h1&gt;
+&lt;p&gt;最后再来讲讲本季度最惨的番：《宝石幻想 光芒重现》&lt;/p&gt;
+&lt;p&gt;至 2020 年 7 月 27 日上午 8：42，本番只有 1630913 播放量，324741 追番数。从第一集几十万播放量，第二集更新后也就几万播放（现涨到 20w）。&lt;/p&gt;
+&lt;p&gt;那么，这部番不好吗？本番是拥有异世界魔法题材的偶像番，由于剧情轻松悠闲不符合多少人的胃口，这部番就成为了想起来就看想不起来就算了的作品。而且偶像番在国内也并不怎么符合大众胃口，知名的 LoveLive、中等的 BanG Dream！、不知名的偶像大师 im@s 都基本上成为了圈内自嗨与车万一样称为 “电子越共” 而其圈内本身也有一些偏见。宝石幻想 光芒重现的出现，目前最多也只能得到圈内少数人的关注。&lt;/p&gt;
+&lt;p&gt;当然，作品本身质量也是相当不错的，除了到目前位置还没成团之外（反正我习惯看了，日常不好吗？），音乐 / 特效 / 3D / 作画质量都很高，轻松的日常也能让你在繁忙之中歇息。&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://mqygalaxy.github.io/life/20200713/</guid>
+            <title>未来属于我们！</title>
+            <link>https://mqygalaxy.github.io/life/20200713/</link>
+            <category term="生活杂谈" scheme="https://mqygalaxy.github.io/categories/%E7%94%9F%E6%B4%BB%E6%9D%82%E8%B0%88/" />
+            <category term="生活杂谈" scheme="https://mqygalaxy.github.io/tags/%E7%94%9F%E6%B4%BB%E6%9D%82%E8%B0%88/" />
+            <pubDate>Mon, 13 Jul 2020 09:26:48 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;首先，非常感谢大家能够在百忙之中点进这个页面。&lt;/p&gt;
+&lt;p&gt;我虽然身为 24 班的一员，但是在寒假期间出国，并没有与大家一起共同奋战。在照片里看到了大家备考冲刺的样子，感觉现在的我完全就不像一名学生。&lt;br /&gt;
+这次的大考是决定人生的第一场大考，我在这里先祝愿大家考试顺利，金榜题名，最后考上自己心仪的学校。&lt;/p&gt;
+&lt;p&gt;我现在身在美国，大家都知道美国最近的疫情和暴动；但是不用担心，人类总会战胜无情疫情，光明总会照亮无尽的黑暗。许多同学和家人也问过我现在在美国这边生活有没有什么困难，虽然由于疫情原因许多事情无法办理，但是在生活上目前还没有什么问题。更别说像我这种 &lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;宅&lt;/span&gt; ，天天在家里也会摸索一些语言的代码，并且感叹着为什么不学好英语！！希望班主任看到了别打我！！，现在也会自己学习了，可能也是因为环境的变化吧。&lt;/p&gt;
+&lt;p&gt;个人的爱好也没有停下来过，最近时间变多了，也开始深入研究 Pr、Ps、Ae、Fl（Adobe Premiere/Photoshop/After Effects/Flash，其中 Pr 为剪辑软件，Ae 为特效软件，Ps 为图像软件，Fl 为多媒体创作程序），也在使用 Hexo/Markdown 制作个人 blog（博客），也正是大家所看到的这个网站，希望以后我能自己设计一个主题吧。&lt;/p&gt;
+&lt;p&gt;最近也给部分同学发了加油的 QQ，因为没有加太多人而且大家都有自己的事情，所以也没有多少同学收到，在这里和大家道歉，但是我是有这片心意的。&lt;br /&gt;
+我也要对班主任道歉，我在与自己父亲的对话中了解到，因为我的离开对班主任造成了一些影响，也希望班主任能够体谅。&lt;/p&gt;
+&lt;p&gt;人生路漫漫，希望大家在今后的道路中保持自己的初心，坚持自己的爱好，这些在未来都是很重要的甘露。&lt;/p&gt;
+&lt;p&gt;我在制作这个页面的时候，大家应该还在考场上努力奋斗，看到这个页面时应该已经考完了吧，未来的道路还很长，良好的心态很重要。&lt;/p&gt;
+&lt;p&gt;在这篇文章的下方有一个留言板，如果大家有意的话，可以在下方留言&lt;/p&gt;
+&lt;p&gt;最后，再次感谢大家看到这里。&lt;/p&gt;
  ]]></description>
         </item>
     </channel>
