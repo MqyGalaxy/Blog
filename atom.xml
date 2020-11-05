@@ -2,13 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MqyGalaxy.github.io</id>
     <title>MqyGalaxy | Blog</title>
-    <subtitle>爱好ACG的温馨小窝</subtitle>
-    <icon>https://mqygalaxy.github.io/images/favicon.ico</icon>
     <link href="https://MqyGalaxy.github.io" />
-    <author>
-      <name>MqyGalaxy</name>
-    </author>
     <updated>2020-10-27T01:30:48.000Z</updated>
+    <category term="HTML/CSS" />
+    <category term="Hexo" />
+    <category term="Markdown" />
+    <category term="游戏" />
+    <category term="ACG" />
+    <category term="明日方舟" />
     <entry>
         <id>https://mqygalaxy.github.io/game/arknights/1-5year/%E6%96%B0%E5%A2%9E%E5%86%85%E5%AE%B9/</id>
         <title>新增内容</title>
@@ -93,12 +94,9 @@
 【情报凭证】商店内物品将在活动开启时在原有的商品数量上进行叠加补货及新增其他商品&lt;/p&gt;
 &lt;/div&gt;
 </content>
-        <category term="游戏" scheme="https://mqygalaxy.github.io/categories/game/" />
-        <category term="明日方舟专区" scheme="https://mqygalaxy.github.io/categories/game/arknights/" />
-        <category term="明日方舟 - 1.5周年活动" scheme="https://mqygalaxy.github.io/categories/game/arknights/1-5year/" />
-        <category term="游戏" scheme="https://mqygalaxy.github.io/tags/%E6%B8%B8%E6%88%8F/" />
-        <category term="ACG" scheme="https://mqygalaxy.github.io/tags/ACG/" />
-        <category term="明日方舟" scheme="https://mqygalaxy.github.io/tags/%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F/" />
+        <category term="游戏" />
+        <category term="ACG" />
+        <category term="明日方舟" />
         <updated>2020-10-27T01:30:48.000Z</updated>
     </entry>
     <entry>
@@ -271,12 +269,9 @@
 &lt;p&gt;&lt;strong&gt;未来干员的强化以及成长，将会出现新的同名干员&lt;/strong&gt;&lt;br /&gt;
 如：炎熔，烘炉示岁 活动中出现的立绘已确定为成长后的炎熔&lt;/p&gt;
 </content>
-        <category term="游戏" scheme="https://mqygalaxy.github.io/categories/game/" />
-        <category term="明日方舟专区" scheme="https://mqygalaxy.github.io/categories/game/arknights/" />
-        <category term="明日方舟 - 1.5周年活动" scheme="https://mqygalaxy.github.io/categories/game/arknights/1-5year/" />
-        <category term="游戏" scheme="https://mqygalaxy.github.io/tags/%E6%B8%B8%E6%88%8F/" />
-        <category term="ACG" scheme="https://mqygalaxy.github.io/tags/ACG/" />
-        <category term="明日方舟" scheme="https://mqygalaxy.github.io/tags/%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F/" />
+        <category term="游戏" />
+        <category term="ACG" />
+        <category term="明日方舟" />
         <updated>2020-10-27T01:28:48.000Z</updated>
     </entry>
     <entry>
@@ -453,12 +448,9 @@
 &lt;iframe src=&#34;//player.bilibili.com/player.html?aid=797533252&amp;bvid=BV1Hy4y1r7k7&amp;cid=249617495&amp;page=1&#34; scrolling=&#34;no&#34; border=&#34;0&#34; frameborder=&#34;no&#34; framespacing=&#34;0&#34; allowfullscreen=&#34;true&#34; style=&#34;width:100%;height:600px&#34;&gt; &lt;/iframe&gt;
 &lt;/div&gt;
 </content>
-        <category term="游戏" scheme="https://mqygalaxy.github.io/categories/game/" />
-        <category term="明日方舟专区" scheme="https://mqygalaxy.github.io/categories/game/arknights/" />
-        <category term="明日方舟 - 1.5周年活动" scheme="https://mqygalaxy.github.io/categories/game/arknights/1-5year/" />
-        <category term="游戏" scheme="https://mqygalaxy.github.io/tags/%E6%B8%B8%E6%88%8F/" />
-        <category term="ACG" scheme="https://mqygalaxy.github.io/tags/ACG/" />
-        <category term="明日方舟" scheme="https://mqygalaxy.github.io/tags/%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F/" />
+        <category term="游戏" />
+        <category term="ACG" />
+        <category term="明日方舟" />
         <updated>2020-10-27T01:26:48.000Z</updated>
     </entry>
     <entry>
@@ -468,10 +460,9 @@
         <content type="html">&lt;p&gt;MyBlog 3.0 使用 Hexo/Markdown 制作静态博客，目前发布第一个文章作为测试。&lt;/p&gt;
 &lt;p&gt;之后会将 2.0 的全部类容移植其中，并添加全新的功能（如评论、搜索等）&lt;/p&gt;
 </content>
-        <category term="搭建博客" scheme="https://mqygalaxy.github.io/categories/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/" />
-        <category term="HTML/CSS" scheme="https://mqygalaxy.github.io/tags/HTML-CSS/" />
-        <category term="Hexo" scheme="https://mqygalaxy.github.io/tags/Hexo/" />
-        <category term="Markdown" scheme="https://mqygalaxy.github.io/tags/Markdown/" />
+        <category term="HTML/CSS" />
+        <category term="Hexo" />
+        <category term="Markdown" />
         <updated>2020-10-25T05:55:02.032Z</updated>
     </entry>
     <entry>
