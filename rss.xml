@@ -2,24 +2,26 @@
 <rss version="2.0">
     <channel>
         <title>MqyGalaxy | Blog</title>
+        <subtitle>爱好ACG的温馨小窝</subtitle>
+        <icon>https://mqygalaxy.github.io/images/favicon.ico</icon>
         <link>https://MqyGalaxy.github.io</link>
+        <author>
+          <name>MqyGalaxy</name>
+        </author>
         <description>学习与爱好为基础搭建的个人博客</description>
         <language>zh-CN,en,ja,default</language>
         <pubDate>Tue, 27 Oct 2020 09:30:48 +0800</pubDate>
         <lastBuildDate>Tue, 27 Oct 2020 09:30:48 +0800</lastBuildDate>
-        <category>HTML/CSS</category>
-        <category>Hexo</category>
-        <category>Markdown</category>
-        <category>游戏</category>
-        <category>ACG</category>
-        <category>明日方舟</category>
         <item>
             <guid isPermalink="true">https://mqygalaxy.github.io/game/arknights/1-5year/%E6%96%B0%E5%A2%9E%E5%86%85%E5%AE%B9/</guid>
             <title>新增内容</title>
             <link>https://mqygalaxy.github.io/game/arknights/1-5year/%E6%96%B0%E5%A2%9E%E5%86%85%E5%AE%B9/</link>
-            <category>游戏</category>
-            <category>ACG</category>
-            <category>明日方舟</category>
+            <category term="游戏" scheme="https://mqygalaxy.github.io/categories/game/" />
+            <category term="明日方舟专区" scheme="https://mqygalaxy.github.io/categories/game/arknights/" />
+            <category term="明日方舟 - 1.5周年活动" scheme="https://mqygalaxy.github.io/categories/game/arknights/1-5year/" />
+            <category term="游戏" scheme="https://mqygalaxy.github.io/tags/%E6%B8%B8%E6%88%8F/" />
+            <category term="ACG" scheme="https://mqygalaxy.github.io/tags/ACG/" />
+            <category term="明日方舟" scheme="https://mqygalaxy.github.io/tags/%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F/" />
             <pubDate>Tue, 27 Oct 2020 09:30:48 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;第八章-怒号光明-即将开启&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第八章-怒号光明-即将开启&#34;&gt;#&lt;/a&gt; 第八章 【怒号光明】 即将开启&lt;/h1&gt;
 &lt;p&gt;第八章可能是罗德岛在龙门的最后一个篇章&lt;/p&gt;
@@ -106,9 +108,12 @@
             <guid isPermalink="true">https://mqygalaxy.github.io/game/arknights/1-5year/1.5%E5%91%A8%E5%B9%B4%E6%96%B0%E5%A2%9E%E5%B9%B2%E5%91%98%E5%8F%8A%E5%85%B6%E5%8F%98%E5%8A%A8/</guid>
             <title>1.5周年新增干员及其变动</title>
             <link>https://mqygalaxy.github.io/game/arknights/1-5year/1.5%E5%91%A8%E5%B9%B4%E6%96%B0%E5%A2%9E%E5%B9%B2%E5%91%98%E5%8F%8A%E5%85%B6%E5%8F%98%E5%8A%A8/</link>
-            <category>游戏</category>
-            <category>ACG</category>
-            <category>明日方舟</category>
+            <category term="游戏" scheme="https://mqygalaxy.github.io/categories/game/" />
+            <category term="明日方舟专区" scheme="https://mqygalaxy.github.io/categories/game/arknights/" />
+            <category term="明日方舟 - 1.5周年活动" scheme="https://mqygalaxy.github.io/categories/game/arknights/1-5year/" />
+            <category term="游戏" scheme="https://mqygalaxy.github.io/tags/%E6%B8%B8%E6%88%8F/" />
+            <category term="ACG" scheme="https://mqygalaxy.github.io/tags/ACG/" />
+            <category term="明日方舟" scheme="https://mqygalaxy.github.io/tags/%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F/" />
             <pubDate>Tue, 27 Oct 2020 09:28:48 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;新六星干员&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#新六星干员&#34;&gt;#&lt;/a&gt; 新六星干员&lt;/h1&gt;
 &lt;p&gt;你以为是迷送香？你以为是泥岩？其实鹰角两个都要哒！&lt;/p&gt;
@@ -281,9 +286,12 @@
             <guid isPermalink="true">https://mqygalaxy.github.io/game/arknights/1.5%E5%91%A8%E5%B9%B4%E6%B4%BB%E5%8A%A8%E9%A2%84%E8%A7%88/</guid>
             <title>明日方舟1.5周年活动 2020「感谢庆典」直播预览</title>
             <link>https://mqygalaxy.github.io/game/arknights/1.5%E5%91%A8%E5%B9%B4%E6%B4%BB%E5%8A%A8%E9%A2%84%E8%A7%88/</link>
-            <category>游戏</category>
-            <category>ACG</category>
-            <category>明日方舟</category>
+            <category term="游戏" scheme="https://mqygalaxy.github.io/categories/game/" />
+            <category term="明日方舟专区" scheme="https://mqygalaxy.github.io/categories/game/arknights/" />
+            <category term="明日方舟 - 1.5周年活动" scheme="https://mqygalaxy.github.io/categories/game/arknights/1-5year/" />
+            <category term="游戏" scheme="https://mqygalaxy.github.io/tags/%E6%B8%B8%E6%88%8F/" />
+            <category term="ACG" scheme="https://mqygalaxy.github.io/tags/ACG/" />
+            <category term="明日方舟" scheme="https://mqygalaxy.github.io/tags/%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F/" />
             <pubDate>Tue, 27 Oct 2020 09:26:48 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;1.5 周年活动，个人认为并不是为了周年的庆祝，而是方舟第一章故事的结束&lt;/p&gt;
 &lt;details&gt;&lt;summary&gt;《明日方舟》10.25感谢庆典直播录像（附字幕） @明日方舟&lt;/summary&gt;&lt;div&gt;
@@ -460,9 +468,10 @@
             <guid isPermalink="true">https://mqygalaxy.github.io/MyBlog%203.0%20%E6%B5%8B%E8%AF%95%E4%BD%BF%E7%94%A8%E5%BC%80%E5%90%AF/</guid>
             <title>MyBlog 3.0 测试使用开启</title>
             <link>https://mqygalaxy.github.io/MyBlog%203.0%20%E6%B5%8B%E8%AF%95%E4%BD%BF%E7%94%A8%E5%BC%80%E5%90%AF/</link>
-            <category>HTML/CSS</category>
-            <category>Hexo</category>
-            <category>Markdown</category>
+            <category term="搭建博客" scheme="https://mqygalaxy.github.io/categories/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/" />
+            <category term="HTML/CSS" scheme="https://mqygalaxy.github.io/tags/HTML-CSS/" />
+            <category term="Hexo" scheme="https://mqygalaxy.github.io/tags/Hexo/" />
+            <category term="Markdown" scheme="https://mqygalaxy.github.io/tags/Markdown/" />
             <pubDate>Sun, 25 Oct 2020 13:55:02 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;MyBlog 3.0 使用 Hexo/Markdown 制作静态博客，目前发布第一个文章作为测试。&lt;/p&gt;
 &lt;p&gt;之后会将 2.0 的全部类容移植其中，并添加全新的功能（如评论、搜索等）&lt;/p&gt;
