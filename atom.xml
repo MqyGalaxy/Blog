@@ -10,9 +10,9 @@
     </author>
     <updated>2020-11-18T21:26:48.000Z</updated>
     <entry>
-        <id>https://mqygalaxy.github.io/acg/acgtalk/20201119/post-1/</id>
+        <id>https://mqygalaxy.github.io/acg/acgtalk/20201119/</id>
         <title>现在亚文化所面临的问题</title>
-        <link rel="alternate" href="https://mqygalaxy.github.io/acg/acgtalk/20201119/post-1/"/>
+        <link rel="alternate" href="https://mqygalaxy.github.io/acg/acgtalk/20201119/"/>
         <content type="html">&lt;p&gt;这里是 MqyGalaxy~&lt;/p&gt;
 &lt;div class=&#34;media-container&#34;&gt;&lt;div class=&#34;player&#34; data-type=&#34;audio&#34; data-src=&#39;[&#34;https://music.163.com/song?id=1484844664&#34;]&#39;&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;p&gt;我本来是打算出视频的，但是因为实在是有点忙碌没时间用于视频制作&lt;br /&gt;
@@ -34,7 +34,8 @@
 但这不代表着我们不同意大众化，只是业界的风评实在是太差了：就好比水弹被禁止、马保国走红……&lt;br /&gt;
  我们希望更多人了解圈内的同时，也希望业界风气有好的地方&lt;/p&gt;
 </content>
-        <category term="ACG杂谈" scheme="https://mqygalaxy.github.io/categories/acgtalk/" />
+        <category term="ACG" scheme="https://mqygalaxy.github.io/categories/acg/" />
+        <category term="ACG杂谈" scheme="https://mqygalaxy.github.io/categories/acg/acgtalk/" />
         <category term="ACG" scheme="https://mqygalaxy.github.io/tags/ACG/" />
         <category term="杂谈" scheme="https://mqygalaxy.github.io/tags/%E6%9D%82%E8%B0%88/" />
         <updated>2020-11-18T21:26:48.000Z</updated>
