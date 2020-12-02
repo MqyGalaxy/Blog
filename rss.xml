@@ -10,8 +10,20 @@
         </author>
         <description>学习与爱好为基础搭建的个人博客</description>
         <language>zh-CN,en,ja,default</language>
-        <pubDate>Wed, 02 Dec 2020 01:26:48 +0800</pubDate>
-        <lastBuildDate>Wed, 02 Dec 2020 01:26:48 +0800</lastBuildDate>
+        <pubDate>Wed, 02 Dec 2020 10:39:48 +0800</pubDate>
+        <lastBuildDate>Wed, 02 Dec 2020 10:39:48 +0800</lastBuildDate>
+        <item>
+            <guid isPermalink="true">https://mqygalaxy.github.io/announcement/</guid>
+            <title>公告：MyBlog 3.0 测试使用开启</title>
+            <link>https://mqygalaxy.github.io/announcement/</link>
+            <category term="公告" scheme="https://mqygalaxy.github.io/categories/%E5%85%AC%E5%91%8A/" />
+            <category term="公告" scheme="https://mqygalaxy.github.io/tags/%E5%85%AC%E5%91%8A/" />
+            <pubDate>Wed, 02 Dec 2020 10:39:48 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;MyBlog 目前还在进行规划，您现在所看到的主页并不是最终完成的内容&lt;br /&gt;
+目前打算在小站中塞下学习笔记、ACG、爱好等内容&lt;br /&gt;
+如若内容过于复杂，则打算将学习笔记腾到分站&lt;/p&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">https://mqygalaxy.github.io/study/Intro-to-Economics&amp;Personal-Finance/credit/</guid>
             <title>Credit = The ability to borrow</title>
@@ -955,19 +967,6 @@ Hexo 安装可能需要一段时间，中途可能出现几个报错，可以先
 &lt;iframe src=&#34;https://player.bilibili.com/player.html?aid=797533252&amp;bvid=BV1Hy4y1r7k7&amp;cid=249617495&amp;page=1&amp;high_quality=1&#34; scrolling=&#34;no&#34; border=&#34;0&#34; frameborder=&#34;no&#34; framespacing=&#34;0&#34; allowfullscreen=&#34;true&#34; style=&#34;position: absolute; width:100%; height:100%; left: 0; top: 0;&#34;&gt; &lt;/iframe&gt;
 &lt;/div&gt;
 &lt;/div&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">https://mqygalaxy.github.io/announcement/</guid>
-            <title>公告：MyBlog 3.0 测试使用开启</title>
-            <link>https://mqygalaxy.github.io/announcement/</link>
-            <category term="公告" scheme="https://mqygalaxy.github.io/categories/%E5%85%AC%E5%91%8A/" />
-            <category term="HTML/CSS" scheme="https://mqygalaxy.github.io/tags/HTML-CSS/" />
-            <category term="Hexo" scheme="https://mqygalaxy.github.io/tags/Hexo/" />
-            <category term="Markdown" scheme="https://mqygalaxy.github.io/tags/Markdown/" />
-            <pubDate>Sun, 25 Oct 2020 13:55:02 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;MyBlog 3.0 使用 Hexo/Markdown 制作静态博客，目前发布第一个文章作为测试。&lt;/p&gt;
-&lt;p&gt;之后会将 2.0 的全部类容移植其中，并添加全新的功能（如评论、搜索等）&lt;/p&gt;
  ]]></description>
         </item>
         <item>

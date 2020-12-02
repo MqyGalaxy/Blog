@@ -7,6 +7,17 @@
     "home_page_url": "https://MqyGalaxy.github.io",
     "items": [
         {
+            "id": "https://mqygalaxy.github.io/announcement/",
+            "url": "https://mqygalaxy.github.io/announcement/",
+            "title": "公告：MyBlog 3.0 测试使用开启",
+            "date_published": "2020-12-02T02:39:48.000Z",
+            "content_html": "<p>MyBlog 目前还在进行规划，您现在所看到的主页并不是最终完成的内容<br />\n目前打算在小站中塞下学习笔记、ACG、爱好等内容<br />\n如若内容过于复杂，则打算将学习笔记腾到分站</p>\n",
+            "tags": [
+                "公告",
+                "公告"
+            ]
+        },
+        {
             "id": "https://mqygalaxy.github.io/study/Intro-to-Economics&Personal-Finance/credit/",
             "url": "https://mqygalaxy.github.io/study/Intro-to-Economics&Personal-Finance/credit/",
             "title": "Credit = The ability to borrow",
@@ -93,19 +104,6 @@
                 "ACG",
                 "游戏",
                 "明日方舟"
-            ]
-        },
-        {
-            "id": "https://mqygalaxy.github.io/announcement/",
-            "url": "https://mqygalaxy.github.io/announcement/",
-            "title": "公告：MyBlog 3.0 测试使用开启",
-            "date_published": "2020-10-25T05:55:02.032Z",
-            "content_html": "<p>MyBlog 3.0 使用 Hexo/Markdown 制作静态博客，目前发布第一个文章作为测试。</p>\n<p>之后会将 2.0 的全部类容移植其中，并添加全新的功能（如评论、搜索等）</p>\n",
-            "tags": [
-                "公告",
-                "HTML/CSS",
-                "Hexo",
-                "Markdown"
             ]
         },
         {

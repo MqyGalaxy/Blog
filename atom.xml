@@ -8,7 +8,19 @@
     <author>
       <name>MqyGalaxy</name>
     </author>
-    <updated>2020-12-01T17:26:48.000Z</updated>
+    <updated>2020-12-02T02:39:48.000Z</updated>
+    <entry>
+        <id>https://mqygalaxy.github.io/announcement/</id>
+        <title>公告：MyBlog 3.0 测试使用开启</title>
+        <link rel="alternate" href="https://mqygalaxy.github.io/announcement/"/>
+        <content type="html">&lt;p&gt;MyBlog 目前还在进行规划，您现在所看到的主页并不是最终完成的内容&lt;br /&gt;
+目前打算在小站中塞下学习笔记、ACG、爱好等内容&lt;br /&gt;
+如若内容过于复杂，则打算将学习笔记腾到分站&lt;/p&gt;
+</content>
+        <category term="公告" scheme="https://mqygalaxy.github.io/categories/%E5%85%AC%E5%91%8A/" />
+        <category term="公告" scheme="https://mqygalaxy.github.io/tags/%E5%85%AC%E5%91%8A/" />
+        <updated>2020-12-02T02:39:48.000Z</updated>
+    </entry>
     <entry>
         <id>https://mqygalaxy.github.io/study/Intro-to-Economics&amp;Personal-Finance/credit/</id>
         <title>Credit = The ability to borrow</title>
@@ -953,19 +965,6 @@ Hexo 安装可能需要一段时间，中途可能出现几个报错，可以先
         <category term="游戏" scheme="https://mqygalaxy.github.io/tags/%E6%B8%B8%E6%88%8F/" />
         <category term="明日方舟" scheme="https://mqygalaxy.github.io/tags/%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F/" />
         <updated>2020-10-27T01:26:48.000Z</updated>
-    </entry>
-    <entry>
-        <id>https://mqygalaxy.github.io/announcement/</id>
-        <title>公告：MyBlog 3.0 测试使用开启</title>
-        <link rel="alternate" href="https://mqygalaxy.github.io/announcement/"/>
-        <content type="html">&lt;p&gt;MyBlog 3.0 使用 Hexo/Markdown 制作静态博客，目前发布第一个文章作为测试。&lt;/p&gt;
-&lt;p&gt;之后会将 2.0 的全部类容移植其中，并添加全新的功能（如评论、搜索等）&lt;/p&gt;
-</content>
-        <category term="公告" scheme="https://mqygalaxy.github.io/categories/%E5%85%AC%E5%91%8A/" />
-        <category term="HTML/CSS" scheme="https://mqygalaxy.github.io/tags/HTML-CSS/" />
-        <category term="Hexo" scheme="https://mqygalaxy.github.io/tags/Hexo/" />
-        <category term="Markdown" scheme="https://mqygalaxy.github.io/tags/Markdown/" />
-        <updated>2020-10-25T05:55:02.032Z</updated>
     </entry>
     <entry>
         <id>https://mqygalaxy.github.io/hello-world/</id>
