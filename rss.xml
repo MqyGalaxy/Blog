@@ -10,8 +10,68 @@
         </author>
         <description>学习与爱好为基础搭建的个人博客</description>
         <language>zh-CN,en,ja,default</language>
-        <pubDate>Wed, 02 Dec 2020 10:39:48 +0800</pubDate>
-        <lastBuildDate>Wed, 02 Dec 2020 10:39:48 +0800</lastBuildDate>
+        <pubDate>Tue, 08 Dec 2020 09:26:48 +0800</pubDate>
+        <lastBuildDate>Tue, 08 Dec 2020 09:26:48 +0800</lastBuildDate>
+        <item>
+            <guid isPermalink="true">https://mqygalaxy.github.io/website/htmlcss/20201208/post-1/</guid>
+            <title>再见，Flash</title>
+            <link>https://mqygalaxy.github.io/website/htmlcss/20201208/post-1/</link>
+            <category term="前端设计" scheme="https://mqygalaxy.github.io/categories/website/" />
+            <category term="HTML/CSS" scheme="https://mqygalaxy.github.io/categories/website/htmlcss/" />
+            <category term="Flash" scheme="https://mqygalaxy.github.io/tags/Flash/" />
+            <category term="HTML/CSS" scheme="https://mqygalaxy.github.io/tags/HTML-CSS/" />
+            <pubDate>Tue, 08 Dec 2020 09:26:48 +0800</pubDate>
+            <description><![CDATA[ &lt;div class=&#34;note info&#34;&gt;
+&lt;p&gt;文章参考了&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly96aC53aWtpcGVkaWEub3JnL3dpa2kvQWRvYmVfRmxhc2g=&#34;&gt;维基百科&lt;/span&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;note warning&#34;&gt;
+&lt;p&gt;文章可能有疏漏，如有错误可以在评论区订正&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;早在 2017 年 7 月 25 日，Adobe 宣布了在 2020 年停止对 Flash 的更新；&lt;br /&gt;
+2020 年一开始，Google Chrome 也宣布在 12 月停止对 Flash 的兼容；&lt;br /&gt;
+而现在已经到了 2020 年 12 月，Flash 马上就要离开我们了。&lt;/p&gt;
+&lt;h1 id=&#34;什么是flashflash-player为什么要使用它&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#什么是flashflash-player为什么要使用它&#34;&gt;#&lt;/a&gt; 什么是 Flash/Flash Player？为什么要使用它？&lt;/h1&gt;
+&lt;p&gt;Flash 为&lt;strong&gt; Adobe Flash&lt;/strong&gt;，原为 Macromedia 公司开发的&lt;strong&gt; FutureSplash&lt;/strong&gt;，在 Macromedia 被 Adobe 收购并入后改名为 Adobe Flash。&lt;br /&gt;
+Flash 大多数应用于多媒体内容，比如视频 / 矢量动画，其播放器&lt;strong&gt; Adobe Flash Player&lt;/strong&gt; 在当时被广泛应用于网页，号称全世界 97% 的网络浏览器都内置 Flash Player。&lt;/p&gt;
+&lt;p&gt;相信在当时大多数人，包括我都使用过 Flash Player，无论是看视频网站，还是网页小游戏都要使用你电脑中下载的 Flash Player。&lt;br /&gt;
+当时依靠 Flash Player 的矢量图形技术来最小化文件大小以及节省网络带宽和下载时间，Flash 成为当时网页中的小游戏、动画、广告、图形界面的常用格式。&lt;/p&gt;
+&lt;p&gt;也就是说，利用 Flash Player 既可以美化网页，又可以节省读者的网络带宽：比如视频网站、小游戏网站都依靠 Flash 来运行。&lt;/p&gt;
+&lt;h1 id=&#34;为什么淘汰flash&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#为什么淘汰flash&#34;&gt;#&lt;/a&gt; 为什么淘汰 Flash？&lt;/h1&gt;
+&lt;p&gt;那么，Flash 这么方便，为什么反而要淘汰它呢？&lt;/p&gt;
+&lt;p&gt;虽然 Flash 提供了许多便利，但其安全问题困扰了大多数用户多年。&lt;br /&gt;
+对 Flash 的批评有：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;禁止使用 Flash，可以阻挡大部分的加密绑架软件 ——Flash 的漏洞及提供过高的权限，使得私下加密用户文件的勒索软件多选择 Flash。&lt;/li&gt;
+&lt;li&gt;会在用户电脑上存留资料（Flash cookies）&lt;/li&gt;
+&lt;li&gt;消耗过多电脑资源
+&lt;ul&gt;
+&lt;li&gt;一些网页上的 Flash 要使用高性能的电脑才能满足其需求。&lt;/li&gt;
+&lt;li&gt;Flash 的影音自 10.1 版开始已经可利用电脑上的硬件加速。&lt;br /&gt;
+因此多数网络浏览器都自带或者可以加装阻挡 Flash 的功能组件。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;对 Unicode 字集的支持不完整。&lt;/li&gt;
+&lt;li&gt;在设计不良的 Flash 应用程序里，常发生内存泄漏与存储器违规访问。由于 Flash 的 RunTime 并未完整的拦截这些异常代码，因此常常会导致浏览器的进程崩溃。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;相信大家也用过大陆版的 Flash Player，在上海剑圣网络科技有限公司（即 2144）和其分公司重庆重橙网络科技有限公司宣布获得了 Adobe Flash Player 在中国大陆地区的独家代理发行权后，中国大陆的用户在访问 Adobe Flash Player 的下载页面时，会自动跳转到 2144 公司网站域名下的下载页面，同时会默认捆绑下载 2144 游戏中心，且取消勾选的位置较为隐蔽。而且会搜集用户隐私暴露给第三方。&lt;br /&gt;
+而且国区特供 Flash Player 还内嵌流氓软件，不定时弹出广告窗口（比如 FF 新闻）。&lt;/p&gt;
+&lt;p&gt;虽然以上问题已经足够说明了原因，而淘汰 Flash 的最根本的原因是已经有了更好的技术：&lt;br /&gt;
+&lt;span class=&#34;orange&#34;&gt;HTML5&lt;/span&gt;&lt;/p&gt;
+&lt;h1 id=&#34;html5-更好的技术&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#html5-更好的技术&#34;&gt;#&lt;/a&gt; HTML5 更好的技术&lt;/h1&gt;
+&lt;p&gt;HTML5 是 HTML 最新的修订版本。在广义论及 HTML5 时，指的是 HTML、CSS 和 JavaScript 在内的技术组合。&lt;br /&gt;
+HTML5 的诞生的初衷：希望能够减少网页浏览器对于需要插件的丰富性网络应用服务（Plug-in-Based Rich Internet Application，RIA），例如：Adobe Flash、Microsoft Silverlight 与 Oracle JavaFX 的需求，并且提供更多能有效加强网络应用的标准集。&lt;/p&gt;
+&lt;p&gt;HTML5 添加了许多新的语法特征，特别是包括了 &lt;span class=&#34;label&#34;&gt;video&lt;/span&gt;、&lt;span class=&#34;label&#34;&gt;audio&lt;/span&gt; 和 &lt;span class=&#34;label&#34;&gt;canvas&lt;/span&gt; 元素，集成了 SVG（可缩放矢量图形），分别应用于网站的视频、音频、图形和图像。&lt;br /&gt;
+HTML5 无需在本地下载任何应用，一些浏览器（比如 Chrome/Edge 等）支持 HTML5。（比如 IE 不支持 HTML5）&lt;/p&gt;
+&lt;p&gt;HTML5 的功能不仅可以代替 Flash，而且在一些部分比 Flash 更加便利。&lt;br /&gt;
+现在大部分网站都使用 HTML5 而不是 Flash，只有少部分或者老网站依旧使用 Flash。&lt;/p&gt;
+&lt;h1 id=&#34;再见flash&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#再见flash&#34;&gt;#&lt;/a&gt; 再见，Flash。&lt;/h1&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuYmxvZy5nb29nbGUvcHJvZHVjdHMvY2hyb21lL3NheWluZy1nb29kYnllLWZsYXNoLWNocm9tZS8=&#34;&gt;Chrome 在 2020 年 12 月不再支持 Flash Player&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;如今，Flash 已经逐渐的离开了我们的视线。&lt;br /&gt;
+Flash 在曾经的辉煌，1999 年的网络动画时代，2005 年的 Flash Video 时代与 2008 年的 Web Game 时代。&lt;br /&gt;
+而在未来的某一天，可能下一代的人们都不知道 Flash，也可能只能在 wiki 百科上看到 Flash 的介绍；但它曾经陪伴我们的身影，永远停留在我们的心里。&lt;/p&gt;
+&lt;p&gt;再见，Flash。&lt;/p&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">https://mqygalaxy.github.io/announcement/</guid>
             <title>公告：MyBlog 3.0 测试使用开启</title>
