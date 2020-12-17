@@ -7,6 +7,17 @@
     "home_page_url": "https://MqyGalaxy.github.io",
     "items": [
         {
+            "id": "https://mqygalaxy.github.io/announcement/",
+            "url": "https://mqygalaxy.github.io/announcement/",
+            "title": "公告：LeanCloud后台暂时无法使用",
+            "date_published": "2020-12-18T02:39:48.000Z",
+            "content_html": "<div class=\"note info\">\n<p>MyBlog 目前还在进行规划，您现在所看到的主页并不是最终完成的内容<br />\n目前打算在小站中塞下学习笔记、ACG、爱好等内容<br />\n如若内容过于复杂，则打算将学习笔记腾到分站</p>\n</div>\n<p>最近 LeanCloud 后台出了点问题，评论、说说和阅读数无法使用；<br />\n而且 “artitalk” 和网站主题的冲突导致也一些问题。<br />\n以上内容会进行修改。<br />\n在恢复前无法进行评论等功能，如果有事或者添加友链可以发邮箱至 <code>mqygalaxy#gmail.com</code>  将 #改成 @就行了。</p>\n<p>Recently, there was a problem in the LeanCloud background, and the comment, &quot;talk&quot; and read counts were unavailable;<br />\nAnd the conflict between &quot;artitalk&quot; and the theme of the website caused some problems.<br />\nthe above content will be revised.<br />\nIt is not possible to comment and other functions before recovery. If you have something or add a friend chain, you can send an email to  <code>mqygalaxy#gmail.com</code>  and change # to @.</p>\n",
+            "tags": [
+                "公告",
+                "公告"
+            ]
+        },
+        {
             "id": "https://mqygalaxy.github.io/website/htmlcss/20201208/post-1/",
             "url": "https://mqygalaxy.github.io/website/htmlcss/20201208/post-1/",
             "title": "再见，Flash",
@@ -17,17 +28,6 @@
                 "HTML/CSS",
                 "Flash",
                 "HTML/CSS"
-            ]
-        },
-        {
-            "id": "https://mqygalaxy.github.io/announcement/",
-            "url": "https://mqygalaxy.github.io/announcement/",
-            "title": "公告：MyBlog 3.0 测试使用开启",
-            "date_published": "2020-12-02T02:39:48.000Z",
-            "content_html": "<p>MyBlog 目前还在进行规划，您现在所看到的主页并不是最终完成的内容<br />\n目前打算在小站中塞下学习笔记、ACG、爱好等内容<br />\n如若内容过于复杂，则打算将学习笔记腾到分站</p>\n",
-            "tags": [
-                "公告",
-                "公告"
             ]
         },
         {
