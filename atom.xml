@@ -8,10 +8,10 @@
     <author>
       <name>MqyGalaxy</name>
     </author>
-    <updated>2020-12-18T02:39:48.000Z</updated>
+    <updated>2020-12-18T17:39:00.000Z</updated>
     <entry>
         <id>https://mqygalaxy.github.io/announcement/</id>
-        <title>公告：LeanCloud后台暂时无法使用</title>
+        <title>公告：关于LeanCloud已经修复</title>
         <link rel="alternate" href="https://mqygalaxy.github.io/announcement/"/>
         <content type="html">&lt;div class=&#34;note info&#34;&gt;
 &lt;p&gt;MyBlog 目前还在进行规划，您现在所看到的主页并不是最终完成的内容&lt;br /&gt;
@@ -25,7 +25,7 @@ But the conflict between &amp;quot;artitalk&amp;quot; and the theme still exists
 </content>
         <category term="公告" scheme="https://mqygalaxy.github.io/categories/%E5%85%AC%E5%91%8A/" />
         <category term="公告" scheme="https://mqygalaxy.github.io/tags/%E5%85%AC%E5%91%8A/" />
-        <updated>2020-12-18T02:39:48.000Z</updated>
+        <updated>2020-12-18T17:39:00.000Z</updated>
     </entry>
     <entry>
         <id>https://mqygalaxy.github.io/website/htmlcss/20201208/post-1/</id>
