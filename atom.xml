@@ -62,6 +62,21 @@
         <updated>2021-01-01T05:56:48.000Z</updated>
     </entry>
     <entry>
+        <id>https://mqygalaxy.github.io/announcement/</id>
+        <title>公告：新年快乐!</title>
+        <link rel="alternate" href="https://mqygalaxy.github.io/announcement/"/>
+        <content type="html">&lt;div class=&#34;note info&#34;&gt;
+&lt;p&gt;MyBlog 目前还在进行规划，您现在所看到的主页并不是最终完成的内容&lt;br /&gt;
+目前打算在小站中塞下学习笔记、ACG、爱好等内容&lt;br /&gt;
+如若内容过于复杂，则打算将学习笔记腾到分站&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;2021！加油！&lt;/p&gt;
+</content>
+        <category term="公告" scheme="https://mqygalaxy.github.io/categories/%E5%85%AC%E5%91%8A/" />
+        <category term="公告" scheme="https://mqygalaxy.github.io/tags/%E5%85%AC%E5%91%8A/" />
+        <updated>2020-12-31T16:00:00.000Z</updated>
+    </entry>
+    <entry>
         <id>https://mqygalaxy.github.io/acg/anime/summary/20201230/post-1/</id>
         <title>2020年10月新番总结(1)</title>
         <link rel="alternate" href="https://mqygalaxy.github.io/acg/anime/summary/20201230/post-1/"/>
@@ -139,23 +154,6 @@
         <category term="番剧推荐" scheme="https://mqygalaxy.github.io/tags/%E7%95%AA%E5%89%A7%E6%8E%A8%E8%8D%90/" />
         <category term="Anime" scheme="https://mqygalaxy.github.io/tags/Anime/" />
         <updated>2020-12-30T01:26:48.000Z</updated>
-    </entry>
-    <entry>
-        <id>https://mqygalaxy.github.io/announcement/</id>
-        <title>公告：Merry Christmas!</title>
-        <link rel="alternate" href="https://mqygalaxy.github.io/announcement/"/>
-        <content type="html">&lt;div class=&#34;note info&#34;&gt;
-&lt;p&gt;MyBlog 目前还在进行规划，您现在所看到的主页并不是最终完成的内容&lt;br /&gt;
-目前打算在小站中塞下学习笔记、ACG、爱好等内容&lt;br /&gt;
-如若内容过于复杂，则打算将学习笔记腾到分站&lt;/p&gt;
-&lt;/div&gt;
-&lt;p&gt;米娜！圣诞快乐 DA⭐ZE！&lt;br /&gt;
-谢谢大家来小站玩！&lt;/p&gt;
-&lt;p&gt;Hi guys! Merry Christmas!&lt;/p&gt;
-</content>
-        <category term="公告" scheme="https://mqygalaxy.github.io/categories/%E5%85%AC%E5%91%8A/" />
-        <category term="公告" scheme="https://mqygalaxy.github.io/tags/%E5%85%AC%E5%91%8A/" />
-        <updated>2020-12-24T16:00:00.000Z</updated>
     </entry>
     <entry>
         <id>https://mqygalaxy.github.io/website/htmlcss/20201208/post-1/</id>
