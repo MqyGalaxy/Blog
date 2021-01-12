@@ -8,7 +8,24 @@
     <author>
       <name>MqyGalaxy</name>
     </author>
-    <updated>2021-01-01T05:56:48.000Z</updated>
+    <updated>2021-01-11T16:00:00.000Z</updated>
+    <entry>
+        <id>https://mqygalaxy.github.io/announcement/</id>
+        <title>公告：新年快乐!</title>
+        <link rel="alternate" href="https://mqygalaxy.github.io/announcement/"/>
+        <content type="html">&lt;div class=&#34;note info&#34;&gt;
+&lt;p&gt;MyBlog 目前还在进行规划，您现在所看到的主页并不是最终完成的内容&lt;br /&gt;
+目前打算在小站中塞下学习笔记、ACG、爱好等内容&lt;br /&gt;
+如若内容过于复杂，则打算将学习笔记腾到分站&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;因为说说的冲突和朋友的建议，我把说说页面修改成留言版了。&lt;br /&gt;
+以后有事也在里面唠嗑吧～！&lt;br /&gt;
+欢迎大家进来唠嗑！&lt;/p&gt;
+</content>
+        <category term="公告" scheme="https://mqygalaxy.github.io/categories/%E5%85%AC%E5%91%8A/" />
+        <category term="公告" scheme="https://mqygalaxy.github.io/tags/%E5%85%AC%E5%91%8A/" />
+        <updated>2021-01-11T16:00:00.000Z</updated>
+    </entry>
     <entry>
         <id>https://mqygalaxy.github.io/life/20210101/post-1/</id>
         <title>2020年，我和MyBlog</title>
@@ -60,21 +77,6 @@
         <category term="生活杂谈" scheme="https://mqygalaxy.github.io/categories/%E7%94%9F%E6%B4%BB%E6%9D%82%E8%B0%88/" />
         <category term="生活杂谈" scheme="https://mqygalaxy.github.io/tags/%E7%94%9F%E6%B4%BB%E6%9D%82%E8%B0%88/" />
         <updated>2021-01-01T05:56:48.000Z</updated>
-    </entry>
-    <entry>
-        <id>https://mqygalaxy.github.io/announcement/</id>
-        <title>公告：新年快乐!</title>
-        <link rel="alternate" href="https://mqygalaxy.github.io/announcement/"/>
-        <content type="html">&lt;div class=&#34;note info&#34;&gt;
-&lt;p&gt;MyBlog 目前还在进行规划，您现在所看到的主页并不是最终完成的内容&lt;br /&gt;
-目前打算在小站中塞下学习笔记、ACG、爱好等内容&lt;br /&gt;
-如若内容过于复杂，则打算将学习笔记腾到分站&lt;/p&gt;
-&lt;/div&gt;
-&lt;p&gt;2021！加油！&lt;/p&gt;
-</content>
-        <category term="公告" scheme="https://mqygalaxy.github.io/categories/%E5%85%AC%E5%91%8A/" />
-        <category term="公告" scheme="https://mqygalaxy.github.io/tags/%E5%85%AC%E5%91%8A/" />
-        <updated>2020-12-31T16:00:00.000Z</updated>
     </entry>
     <entry>
         <id>https://mqygalaxy.github.io/acg/anime/summary/20201230/post-1/</id>
