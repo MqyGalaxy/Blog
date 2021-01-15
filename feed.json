@@ -9,9 +9,9 @@
         {
             "id": "https://mqygalaxy.github.io/announcement/",
             "url": "https://mqygalaxy.github.io/announcement/",
-            "title": "公告：新年快乐!",
-            "date_published": "2021-01-11T16:00:00.000Z",
-            "content_html": "<div class=\"note info\">\n<p>MyBlog 目前还在进行规划，您现在所看到的主页并不是最终完成的内容<br />\n目前打算在小站中塞下学习笔记、ACG、爱好等内容<br />\n如若内容过于复杂，则打算将学习笔记腾到分站</p>\n</div>\n<p>因为说说的冲突和朋友的建议，我把说说页面修改成留言版了。<br />\n以后有事也在里面唠嗑吧～！<br />\n欢迎大家进来唠嗑！</p>\n",
+            "title": "公告：修复评论",
+            "date_published": "2021-01-16T03:14:00.000Z",
+            "content_html": "<div class=\"note info\">\n<p>MyBlog 目前还在进行规划，您现在所看到的主页并不是最终完成的内容<br />\n目前打算在小站中塞下学习笔记、ACG、爱好等内容<br />\n如若内容过于复杂，则打算将学习笔记腾到分站</p>\n</div>\n<p>LeanCloud 别抽风了求你了 QAQ</p>\n",
             "tags": [
                 "公告",
                 "公告"
