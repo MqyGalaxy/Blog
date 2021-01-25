@@ -698,6 +698,10 @@ Hexo 安装可能需要一段时间，中途可能出现几个报错，可以先
 建议打开强制 https &lt;code&gt;Enforce HTTPS&lt;/code&gt;  来保证自己的网站安全&lt;br /&gt;
  &lt;code&gt;github.io&lt;/code&gt;  会固定开启强制 https&lt;/p&gt;
 &lt;p&gt;所以如果没有能力最好就使用 &lt;code&gt;github.io&lt;/code&gt; ，既不会被歧视也好用，就是不怎么好看 = =&lt;/p&gt;
+&lt;h3 id=&#34;自定义域名补充&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#自定义域名补充&#34;&gt;#&lt;/a&gt; 自定义域名补充&lt;/h3&gt;
+&lt;p&gt;当你从本地 &lt;code&gt;hexo d&lt;/code&gt;  上传本地文件后，发现域名从自定义域名变回了 GitHub 域名。&lt;br /&gt;
+在 &lt;code&gt;\source&lt;/code&gt;  中新建一个名为  &lt;code&gt;CNAME&lt;/code&gt;  的文件 (无后缀)，并在里面写入自己的自定义域名。&lt;br /&gt;
+最后再次上传就可以了&lt;/p&gt;
 &lt;h1 id=&#34;最后&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#最后&#34;&gt;#&lt;/a&gt; 最后&lt;/h1&gt;
 &lt;p&gt;部署一个 Hexo 框架的静态博客其实非常简单，但很多想要尝试的小白萌新看到这么繁杂的过程，觉得非常麻烦就放弃了，其实这个过程上手后你会觉得非常简单的 = =&lt;br /&gt;
  如果有任何问题 / 错误 / 补充请在评论区回复，我会看到并回答 / 纠正 / 补充的！&lt;br /&gt;
