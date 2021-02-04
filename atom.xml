@@ -10,24 +10,6 @@
     </author>
     <updated>2021-02-04T01:41:00.000Z</updated>
     <entry>
-        <id>https://blog.moeqy.com/announcement/</id>
-        <title>公告：!换!域!名!了!</title>
-        <link rel="alternate" href="https://blog.moeqy.com/announcement/"/>
-        <content type="html">&lt;div class=&#34;note info&#34;&gt;
-&lt;p&gt;MyBlog 目前还在进行规划，您现在所看到的主页并不是最终完成的内容&lt;br /&gt;
-目前打算在小站中塞下学习笔记、ACG、爱好等内容&lt;br /&gt;
-如若内容过于复杂，则打算将学习笔记腾到分站&lt;/p&gt;
-&lt;/div&gt;
-&lt;p&gt;小站重新上线。由于域名审核的原因，中途突然关闭一段时间。现已经全部恢复正常！&lt;/p&gt;
-&lt;p&gt;MyBlog 的域名正式地从 &lt;code&gt;mqygalaxy.github.io&lt;/code&gt;  更换为 &lt;code&gt;blog.moeqy.com&lt;/code&gt;  啦！&lt;br /&gt;
-可惜可贺可喜可贺。&lt;br /&gt;
-从今往后不出意外将固定为此域名。&lt;/p&gt;
-</content>
-        <category term="公告" scheme="https://blog.moeqy.com/categories/%E5%85%AC%E5%91%8A/" />
-        <category term="公告" scheme="https://blog.moeqy.com/tags/%E5%85%AC%E5%91%8A/" />
-        <updated>2021-02-04T01:41:00.000Z</updated>
-    </entry>
-    <entry>
         <id>https://blog.moeqy.com/Chinese-New-Year/</id>
         <title>春节倒计时</title>
         <link rel="alternate" href="https://blog.moeqy.com/Chinese-New-Year/"/>
@@ -80,6 +62,24 @@
     setInterval(getRTime,1000);
     &lt;/script&gt;
 &lt;/div&gt;</content>
+        <updated>2021-02-04T01:41:00.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://blog.moeqy.com/announcement/</id>
+        <title>公告：!换!域!名!了!</title>
+        <link rel="alternate" href="https://blog.moeqy.com/announcement/"/>
+        <content type="html">&lt;div class=&#34;note info&#34;&gt;
+&lt;p&gt;MyBlog 目前还在进行规划，您现在所看到的主页并不是最终完成的内容&lt;br /&gt;
+目前打算在小站中塞下学习笔记、ACG、爱好等内容&lt;br /&gt;
+如若内容过于复杂，则打算将学习笔记腾到分站&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;小站重新上线。由于域名审核的原因，中途突然关闭一段时间。现已经全部恢复正常！&lt;/p&gt;
+&lt;p&gt;MyBlog 的域名正式地从 &lt;code&gt;mqygalaxy.github.io&lt;/code&gt;  更换为 &lt;code&gt;blog.moeqy.com&lt;/code&gt;  啦！&lt;br /&gt;
+可惜可贺可喜可贺。&lt;br /&gt;
+从今往后不出意外将固定为此域名。&lt;/p&gt;
+</content>
+        <category term="公告" scheme="https://blog.moeqy.com/categories/%E5%85%AC%E5%91%8A/" />
+        <category term="公告" scheme="https://blog.moeqy.com/tags/%E5%85%AC%E5%91%8A/" />
         <updated>2021-02-04T01:41:00.000Z</updated>
     </entry>
     <entry>
@@ -1354,7 +1354,7 @@ Hexo 安装可能需要一段时间，中途可能出现几个报错，可以先
 &lt;p&gt;建议使用 Chrome 浏览器（最好不要使用 IE，谁用谁知道）&lt;br /&gt;
 不要使用 QQ / 微信等软件自带浏览器进入，可能会导致加载过慢或者无法连接&lt;br /&gt;
 在博客添加新域名后，可以忽视上一项&lt;br /&gt;
-目前博客域名：&lt;a href=&#34;https://mqygalaxy.github.io&#34;&gt;https://mqygalaxy.github.io&lt;/a&gt; 将继续使用至新域名部署前&lt;br /&gt;
+目前博客域名：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9tcXlnYWxheHkuZ2l0aHViLmlv&#34;&gt;https://mqygalaxy.github.io&lt;/span&gt; 将继续使用至新域名部署前&lt;br /&gt;
 而：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9tcXlnYWxheHkuZ2l0ZWUuaW8=&#34;&gt;https://mqygalaxy.gitee.io&lt;/span&gt; 将在不久后停止使用&lt;/p&gt;
 &lt;p&gt;如若您在访问：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL2dpdGVlLmlv&#34;&gt;gitee.io&lt;/span&gt; 域名时无法访问，请切换为：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL2dpdGh1Yi5pbw==&#34;&gt;github.io&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;域名再次变动时将会发出公告&lt;/p&gt;
