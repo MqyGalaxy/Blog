@@ -3,39 +3,39 @@
     <channel>
         <title>MqyGalaxy | Blog</title>
         <subtitle>爱好ACG的温馨小窝</subtitle>
-        <icon>https://mqygalaxy.github.io/images/favicon.ico</icon>
-        <link>https://mqygalaxy.github.io</link>
+        <icon>https://blog.moeqy.com/images/favicon.ico</icon>
+        <link>https://blog.moeqy.com</link>
         <author>
           <name>MqyGalaxy</name>
         </author>
         <description>学习与爱好为基础搭建的个人博客</description>
         <language>zh-CN,en,ja,default</language>
-        <pubDate>Sun, 24 Jan 2021 13:14:00 +0800</pubDate>
-        <lastBuildDate>Sun, 24 Jan 2021 13:14:00 +0800</lastBuildDate>
+        <pubDate>Thu, 04 Feb 2021 09:41:00 +0800</pubDate>
+        <lastBuildDate>Thu, 04 Feb 2021 09:41:00 +0800</lastBuildDate>
         <item>
-            <guid isPermalink="true">https://mqygalaxy.github.io/announcement/</guid>
+            <guid isPermalink="true">https://blog.moeqy.com/announcement/</guid>
             <title>公告：!换!域!名!了!</title>
-            <link>https://mqygalaxy.github.io/announcement/</link>
-            <category term="公告" scheme="https://mqygalaxy.github.io/categories/%E5%85%AC%E5%91%8A/" />
-            <category term="公告" scheme="https://mqygalaxy.github.io/tags/%E5%85%AC%E5%91%8A/" />
-            <pubDate>Sun, 24 Jan 2021 13:14:00 +0800</pubDate>
+            <link>https://blog.moeqy.com/announcement/</link>
+            <category term="公告" scheme="https://blog.moeqy.com/categories/%E5%85%AC%E5%91%8A/" />
+            <category term="公告" scheme="https://blog.moeqy.com/tags/%E5%85%AC%E5%91%8A/" />
+            <pubDate>Thu, 04 Feb 2021 09:41:00 +0800</pubDate>
             <description><![CDATA[ &lt;div class=&#34;note info&#34;&gt;
 &lt;p&gt;MyBlog 目前还在进行规划，您现在所看到的主页并不是最终完成的内容&lt;br /&gt;
 目前打算在小站中塞下学习笔记、ACG、爱好等内容&lt;br /&gt;
 如若内容过于复杂，则打算将学习笔记腾到分站&lt;/p&gt;
 &lt;/div&gt;
-&lt;p&gt;域名暂时重新使用 &lt;code&gt;mqygalaxy.github.io&lt;/code&gt; ，新域名还正在审核。&lt;/p&gt;
+&lt;p&gt;小站重新上线。由于域名审核的原因，中途突然关闭一段时间。现已经全部恢复正常！&lt;/p&gt;
 &lt;p&gt;MyBlog 的域名正式地从 &lt;code&gt;mqygalaxy.github.io&lt;/code&gt;  更换为 &lt;code&gt;blog.moeqy.com&lt;/code&gt;  啦！&lt;br /&gt;
 可惜可贺可喜可贺。&lt;br /&gt;
 从今往后不出意外将固定为此域名。&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://mqygalaxy.github.io/life/20210101/post-1/</guid>
+            <guid isPermalink="true">https://blog.moeqy.com/life/20210101/post-1/</guid>
             <title>2020年，我和MyBlog</title>
-            <link>https://mqygalaxy.github.io/life/20210101/post-1/</link>
-            <category term="生活杂谈" scheme="https://mqygalaxy.github.io/categories/%E7%94%9F%E6%B4%BB%E6%9D%82%E8%B0%88/" />
-            <category term="生活杂谈" scheme="https://mqygalaxy.github.io/tags/%E7%94%9F%E6%B4%BB%E6%9D%82%E8%B0%88/" />
+            <link>https://blog.moeqy.com/life/20210101/post-1/</link>
+            <category term="生活杂谈" scheme="https://blog.moeqy.com/categories/%E7%94%9F%E6%B4%BB%E6%9D%82%E8%B0%88/" />
+            <category term="生活杂谈" scheme="https://blog.moeqy.com/tags/%E7%94%9F%E6%B4%BB%E6%9D%82%E8%B0%88/" />
             <pubDate>Fri, 01 Jan 2021 13:56:48 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;前言&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#前言&#34;&gt;#&lt;/a&gt; 前言&lt;/h1&gt;
 &lt;p&gt;2021 已经到来了。&lt;/p&gt;
@@ -83,15 +83,15 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://mqygalaxy.github.io/acg/anime/summary/20201230/post-1/</guid>
+            <guid isPermalink="true">https://blog.moeqy.com/acg/anime/summary/20201230/post-1/</guid>
             <title>2020年10月新番总结(1)</title>
-            <link>https://mqygalaxy.github.io/acg/anime/summary/20201230/post-1/</link>
-            <category term="ACG" scheme="https://mqygalaxy.github.io/categories/acg/" />
-            <category term="番剧" scheme="https://mqygalaxy.github.io/categories/acg/anime/" />
-            <category term="ACG" scheme="https://mqygalaxy.github.io/tags/ACG/" />
-            <category term="番剧杂谈" scheme="https://mqygalaxy.github.io/tags/%E7%95%AA%E5%89%A7%E6%9D%82%E8%B0%88/" />
-            <category term="番剧推荐" scheme="https://mqygalaxy.github.io/tags/%E7%95%AA%E5%89%A7%E6%8E%A8%E8%8D%90/" />
-            <category term="Anime" scheme="https://mqygalaxy.github.io/tags/Anime/" />
+            <link>https://blog.moeqy.com/acg/anime/summary/20201230/post-1/</link>
+            <category term="ACG" scheme="https://blog.moeqy.com/categories/acg/" />
+            <category term="番剧" scheme="https://blog.moeqy.com/categories/acg/anime/" />
+            <category term="ACG" scheme="https://blog.moeqy.com/tags/ACG/" />
+            <category term="番剧杂谈" scheme="https://blog.moeqy.com/tags/%E7%95%AA%E5%89%A7%E6%9D%82%E8%B0%88/" />
+            <category term="番剧推荐" scheme="https://blog.moeqy.com/tags/%E7%95%AA%E5%89%A7%E6%8E%A8%E8%8D%90/" />
+            <category term="Anime" scheme="https://blog.moeqy.com/tags/Anime/" />
             <pubDate>Wed, 30 Dec 2020 09:26:48 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;这里是 MqyGalaxy~&lt;br /&gt;
  十月新番大体已经完结了，在这里说一说我看过的一部分新番。&lt;/p&gt;
@@ -162,13 +162,13 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://mqygalaxy.github.io/website/htmlcss/20201208/post-1/</guid>
+            <guid isPermalink="true">https://blog.moeqy.com/website/htmlcss/20201208/post-1/</guid>
             <title>再见，Flash</title>
-            <link>https://mqygalaxy.github.io/website/htmlcss/20201208/post-1/</link>
-            <category term="前端设计" scheme="https://mqygalaxy.github.io/categories/website/" />
-            <category term="HTML/CSS" scheme="https://mqygalaxy.github.io/categories/website/htmlcss/" />
-            <category term="Flash" scheme="https://mqygalaxy.github.io/tags/Flash/" />
-            <category term="HTML/CSS" scheme="https://mqygalaxy.github.io/tags/HTML-CSS/" />
+            <link>https://blog.moeqy.com/website/htmlcss/20201208/post-1/</link>
+            <category term="前端设计" scheme="https://blog.moeqy.com/categories/website/" />
+            <category term="HTML/CSS" scheme="https://blog.moeqy.com/categories/website/htmlcss/" />
+            <category term="Flash" scheme="https://blog.moeqy.com/tags/Flash/" />
+            <category term="HTML/CSS" scheme="https://blog.moeqy.com/tags/HTML-CSS/" />
             <pubDate>Tue, 08 Dec 2020 09:26:48 +0800</pubDate>
             <description><![CDATA[ &lt;div class=&#34;note info&#34;&gt;
 &lt;p&gt;文章参考了&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly96aC53aWtpcGVkaWEub3JnL3dpa2kvQWRvYmVfRmxhc2g=&#34;&gt;维基百科&lt;/span&gt;&lt;/p&gt;
@@ -222,12 +222,12 @@ Flash 在曾经的辉煌，1999 年的网络动画时代，2005 年的 Flash Vid
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://mqygalaxy.github.io/study/Intro-to-Economics&amp;Personal-Finance/credit/The%20ability%20to%20borrow/</guid>
+            <guid isPermalink="true">https://blog.moeqy.com/study/Intro-to-Economics&amp;Personal-Finance/credit/The%20ability%20to%20borrow/</guid>
             <title>Credit = The ability to borrow</title>
-            <link>https://mqygalaxy.github.io/study/Intro-to-Economics&amp;Personal-Finance/credit/The%20ability%20to%20borrow/</link>
-            <category term="学习" scheme="https://mqygalaxy.github.io/categories/%E5%AD%A6%E4%B9%A0/" />
-            <category term="Intro to Economics &amp; Personal Finance" scheme="https://mqygalaxy.github.io/categories/%E5%AD%A6%E4%B9%A0/Intro-to-Economics-Personal-Finance/" />
-            <category term="学习" scheme="https://mqygalaxy.github.io/tags/%E5%AD%A6%E4%B9%A0/" />
+            <link>https://blog.moeqy.com/study/Intro-to-Economics&amp;Personal-Finance/credit/The%20ability%20to%20borrow/</link>
+            <category term="学习" scheme="https://blog.moeqy.com/categories/%E5%AD%A6%E4%B9%A0/" />
+            <category term="Intro to Economics &amp; Personal Finance" scheme="https://blog.moeqy.com/categories/%E5%AD%A6%E4%B9%A0/Intro-to-Economics-Personal-Finance/" />
+            <category term="学习" scheme="https://blog.moeqy.com/tags/%E5%AD%A6%E4%B9%A0/" />
             <pubDate>Wed, 02 Dec 2020 01:26:48 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;course-content&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#course-content&#34;&gt;#&lt;/a&gt; Course content&lt;/h1&gt;
 &lt;p&gt;Analyze the credit situation of each of the students and answer the included questions.&lt;/p&gt;
@@ -488,13 +488,13 @@ Here are some details about her for the profile:&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://mqygalaxy.github.io/acg/acgtalk/20201119/</guid>
+            <guid isPermalink="true">https://blog.moeqy.com/acg/acgtalk/20201119/</guid>
             <title>现在亚文化所面临的问题</title>
-            <link>https://mqygalaxy.github.io/acg/acgtalk/20201119/</link>
-            <category term="ACG" scheme="https://mqygalaxy.github.io/categories/acg/" />
-            <category term="ACG杂谈" scheme="https://mqygalaxy.github.io/categories/acg/acgtalk/" />
-            <category term="ACG" scheme="https://mqygalaxy.github.io/tags/ACG/" />
-            <category term="杂谈" scheme="https://mqygalaxy.github.io/tags/%E6%9D%82%E8%B0%88/" />
+            <link>https://blog.moeqy.com/acg/acgtalk/20201119/</link>
+            <category term="ACG" scheme="https://blog.moeqy.com/categories/acg/" />
+            <category term="ACG杂谈" scheme="https://blog.moeqy.com/categories/acg/acgtalk/" />
+            <category term="ACG" scheme="https://blog.moeqy.com/tags/ACG/" />
+            <category term="杂谈" scheme="https://blog.moeqy.com/tags/%E6%9D%82%E8%B0%88/" />
             <pubDate>Thu, 19 Nov 2020 05:26:48 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;这里是 MqyGalaxy~&lt;/p&gt;
 &lt;div class=&#34;media-container&#34;&gt;&lt;div class=&#34;player&#34; data-type=&#34;audio&#34; data-src=&#39;[&#34;https://music.163.com/song?id=1484844664&#34;]&#39;&gt;&lt;/div&gt;&lt;/div&gt;
@@ -519,16 +519,16 @@ Here are some details about her for the profile:&lt;/p&gt;
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://mqygalaxy.github.io/website/blog/20201111/post-1/</guid>
+            <guid isPermalink="true">https://blog.moeqy.com/website/blog/20201111/post-1/</guid>
             <title>早教级别教你使用Hexo和GitHub Pages搭建属于自己的静态博客</title>
-            <link>https://mqygalaxy.github.io/website/blog/20201111/post-1/</link>
-            <category term="前端设计" scheme="https://mqygalaxy.github.io/categories/website/" />
-            <category term="搭建博客" scheme="https://mqygalaxy.github.io/categories/website/blog/" />
-            <category term="搭建博客" scheme="https://mqygalaxy.github.io/tags/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/" />
-            <category term="Hexo" scheme="https://mqygalaxy.github.io/tags/Hexo/" />
-            <category term="makedown" scheme="https://mqygalaxy.github.io/tags/makedown/" />
-            <category term="Node.js" scheme="https://mqygalaxy.github.io/tags/Node-js/" />
-            <category term="GitHub/Git" scheme="https://mqygalaxy.github.io/tags/GitHub-Git/" />
+            <link>https://blog.moeqy.com/website/blog/20201111/post-1/</link>
+            <category term="前端设计" scheme="https://blog.moeqy.com/categories/website/" />
+            <category term="搭建博客" scheme="https://blog.moeqy.com/categories/website/blog/" />
+            <category term="搭建博客" scheme="https://blog.moeqy.com/tags/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/" />
+            <category term="Hexo" scheme="https://blog.moeqy.com/tags/Hexo/" />
+            <category term="makedown" scheme="https://blog.moeqy.com/tags/makedown/" />
+            <category term="Node.js" scheme="https://blog.moeqy.com/tags/Node-js/" />
+            <category term="GitHub/Git" scheme="https://blog.moeqy.com/tags/GitHub-Git/" />
             <pubDate>Wed, 11 Nov 2020 09:26:48 +0800</pubDate>
             <description><![CDATA[ &lt;div class=&#34;note default&#34;&gt;
 &lt;p&gt;本文所提及的博客框架以及托管平台，您可以依据自己爱好替换，但本文并不会介绍其他框架以及平台的使用方法&lt;/p&gt;
@@ -710,16 +710,16 @@ Hexo 安装可能需要一段时间，中途可能出现几个报错，可以先
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://mqygalaxy.github.io/acg/game/arknights/1-5year/%E6%96%B0%E5%A2%9E%E5%86%85%E5%AE%B9/</guid>
+            <guid isPermalink="true">https://blog.moeqy.com/acg/game/arknights/1-5year/%E6%96%B0%E5%A2%9E%E5%86%85%E5%AE%B9/</guid>
             <title>新增内容</title>
-            <link>https://mqygalaxy.github.io/acg/game/arknights/1-5year/%E6%96%B0%E5%A2%9E%E5%86%85%E5%AE%B9/</link>
-            <category term="ACG" scheme="https://mqygalaxy.github.io/categories/acg/" />
-            <category term="游戏" scheme="https://mqygalaxy.github.io/categories/acg/game/" />
-            <category term="明日方舟专区" scheme="https://mqygalaxy.github.io/categories/acg/game/arknights/" />
-            <category term="明日方舟专区-1.5周年活动" scheme="https://mqygalaxy.github.io/categories/acg/game/arknights/1-5year/" />
-            <category term="ACG" scheme="https://mqygalaxy.github.io/tags/ACG/" />
-            <category term="游戏" scheme="https://mqygalaxy.github.io/tags/%E6%B8%B8%E6%88%8F/" />
-            <category term="明日方舟" scheme="https://mqygalaxy.github.io/tags/%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F/" />
+            <link>https://blog.moeqy.com/acg/game/arknights/1-5year/%E6%96%B0%E5%A2%9E%E5%86%85%E5%AE%B9/</link>
+            <category term="ACG" scheme="https://blog.moeqy.com/categories/acg/" />
+            <category term="游戏" scheme="https://blog.moeqy.com/categories/acg/game/" />
+            <category term="明日方舟专区" scheme="https://blog.moeqy.com/categories/acg/game/arknights/" />
+            <category term="明日方舟专区-1.5周年活动" scheme="https://blog.moeqy.com/categories/acg/game/arknights/1-5year/" />
+            <category term="ACG" scheme="https://blog.moeqy.com/tags/ACG/" />
+            <category term="游戏" scheme="https://blog.moeqy.com/tags/%E6%B8%B8%E6%88%8F/" />
+            <category term="明日方舟" scheme="https://blog.moeqy.com/tags/%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F/" />
             <pubDate>Tue, 27 Oct 2020 09:30:48 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;第八章-怒号光明-即将开启&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#第八章-怒号光明-即将开启&#34;&gt;#&lt;/a&gt; 第八章 【怒号光明】 即将开启&lt;/h1&gt;
 &lt;p&gt;第八章可能是罗德岛在龙门的最后一个篇章&lt;/p&gt;
@@ -803,16 +803,16 @@ Hexo 安装可能需要一段时间，中途可能出现几个报错，可以先
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://mqygalaxy.github.io/acg/game/arknights/1-5year/1.5%E5%91%A8%E5%B9%B4%E6%96%B0%E5%A2%9E%E5%B9%B2%E5%91%98%E5%8F%8A%E5%85%B6%E5%8F%98%E5%8A%A8/</guid>
+            <guid isPermalink="true">https://blog.moeqy.com/acg/game/arknights/1-5year/1.5%E5%91%A8%E5%B9%B4%E6%96%B0%E5%A2%9E%E5%B9%B2%E5%91%98%E5%8F%8A%E5%85%B6%E5%8F%98%E5%8A%A8/</guid>
             <title>1.5周年新增干员及其变动</title>
-            <link>https://mqygalaxy.github.io/acg/game/arknights/1-5year/1.5%E5%91%A8%E5%B9%B4%E6%96%B0%E5%A2%9E%E5%B9%B2%E5%91%98%E5%8F%8A%E5%85%B6%E5%8F%98%E5%8A%A8/</link>
-            <category term="ACG" scheme="https://mqygalaxy.github.io/categories/acg/" />
-            <category term="游戏" scheme="https://mqygalaxy.github.io/categories/acg/game/" />
-            <category term="明日方舟专区" scheme="https://mqygalaxy.github.io/categories/acg/game/arknights/" />
-            <category term="明日方舟专区-1.5周年活动" scheme="https://mqygalaxy.github.io/categories/acg/game/arknights/1-5year/" />
-            <category term="ACG" scheme="https://mqygalaxy.github.io/tags/ACG/" />
-            <category term="游戏" scheme="https://mqygalaxy.github.io/tags/%E6%B8%B8%E6%88%8F/" />
-            <category term="明日方舟" scheme="https://mqygalaxy.github.io/tags/%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F/" />
+            <link>https://blog.moeqy.com/acg/game/arknights/1-5year/1.5%E5%91%A8%E5%B9%B4%E6%96%B0%E5%A2%9E%E5%B9%B2%E5%91%98%E5%8F%8A%E5%85%B6%E5%8F%98%E5%8A%A8/</link>
+            <category term="ACG" scheme="https://blog.moeqy.com/categories/acg/" />
+            <category term="游戏" scheme="https://blog.moeqy.com/categories/acg/game/" />
+            <category term="明日方舟专区" scheme="https://blog.moeqy.com/categories/acg/game/arknights/" />
+            <category term="明日方舟专区-1.5周年活动" scheme="https://blog.moeqy.com/categories/acg/game/arknights/1-5year/" />
+            <category term="ACG" scheme="https://blog.moeqy.com/tags/ACG/" />
+            <category term="游戏" scheme="https://blog.moeqy.com/tags/%E6%B8%B8%E6%88%8F/" />
+            <category term="明日方舟" scheme="https://blog.moeqy.com/tags/%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F/" />
             <pubDate>Tue, 27 Oct 2020 09:28:48 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;新六星干员&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#新六星干员&#34;&gt;#&lt;/a&gt; 新六星干员&lt;/h1&gt;
 &lt;p&gt;你以为是迷送香？你以为是泥岩？其实鹰角两个都要哒！&lt;/p&gt;
@@ -982,16 +982,16 @@ Hexo 安装可能需要一段时间，中途可能出现几个报错，可以先
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://mqygalaxy.github.io/acg/game/arknights/1-5year/1.5%E5%91%A8%E5%B9%B4%E6%B4%BB%E5%8A%A8%E9%A2%84%E8%A7%88/</guid>
+            <guid isPermalink="true">https://blog.moeqy.com/acg/game/arknights/1-5year/1.5%E5%91%A8%E5%B9%B4%E6%B4%BB%E5%8A%A8%E9%A2%84%E8%A7%88/</guid>
             <title>明日方舟1.5周年活动 2020「感谢庆典」直播预览</title>
-            <link>https://mqygalaxy.github.io/acg/game/arknights/1-5year/1.5%E5%91%A8%E5%B9%B4%E6%B4%BB%E5%8A%A8%E9%A2%84%E8%A7%88/</link>
-            <category term="ACG" scheme="https://mqygalaxy.github.io/categories/acg/" />
-            <category term="游戏" scheme="https://mqygalaxy.github.io/categories/acg/game/" />
-            <category term="明日方舟专区" scheme="https://mqygalaxy.github.io/categories/acg/game/arknights/" />
-            <category term="明日方舟专区-1.5周年活动" scheme="https://mqygalaxy.github.io/categories/acg/game/arknights/1-5year/" />
-            <category term="ACG" scheme="https://mqygalaxy.github.io/tags/ACG/" />
-            <category term="游戏" scheme="https://mqygalaxy.github.io/tags/%E6%B8%B8%E6%88%8F/" />
-            <category term="明日方舟" scheme="https://mqygalaxy.github.io/tags/%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F/" />
+            <link>https://blog.moeqy.com/acg/game/arknights/1-5year/1.5%E5%91%A8%E5%B9%B4%E6%B4%BB%E5%8A%A8%E9%A2%84%E8%A7%88/</link>
+            <category term="ACG" scheme="https://blog.moeqy.com/categories/acg/" />
+            <category term="游戏" scheme="https://blog.moeqy.com/categories/acg/game/" />
+            <category term="明日方舟专区" scheme="https://blog.moeqy.com/categories/acg/game/arknights/" />
+            <category term="明日方舟专区-1.5周年活动" scheme="https://blog.moeqy.com/categories/acg/game/arknights/1-5year/" />
+            <category term="ACG" scheme="https://blog.moeqy.com/tags/ACG/" />
+            <category term="游戏" scheme="https://blog.moeqy.com/tags/%E6%B8%B8%E6%88%8F/" />
+            <category term="明日方舟" scheme="https://blog.moeqy.com/tags/%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F/" />
             <pubDate>Tue, 27 Oct 2020 09:26:48 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;1.5 周年活动，个人认为并不是为了周年的庆祝，而是方舟第一章故事的结束&lt;/p&gt;
 &lt;details&gt;&lt;summary&gt;《明日方舟》10.25感谢庆典直播录像（附字幕） @明日方舟&lt;/summary&gt;&lt;div&gt;
@@ -1173,9 +1173,9 @@ Hexo 安装可能需要一段时间，中途可能出现几个报错，可以先
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://mqygalaxy.github.io/hello-world/</guid>
+            <guid isPermalink="true">https://blog.moeqy.com/hello-world/</guid>
             <title>Hello World</title>
-            <link>https://mqygalaxy.github.io/hello-world/</link>
+            <link>https://blog.moeqy.com/hello-world/</link>
             <pubDate>Sun, 25 Oct 2020 04:43:45 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;Welcome to &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvLw==&#34;&gt;Hexo&lt;/span&gt;! This is your very first post. Check &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv&#34;&gt;documentation&lt;/span&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=&#34;&gt;troubleshooting&lt;/span&gt; or you can ask me on &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==&#34;&gt;GitHub&lt;/span&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;quick-start&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#quick-start&#34;&gt;#&lt;/a&gt; Quick Start&lt;/h2&gt;
@@ -1190,15 +1190,15 @@ Hexo 安装可能需要一段时间，中途可能出现几个报错，可以先
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://mqygalaxy.github.io/acg/game/minecraft/mcupdate/1-17/</guid>
+            <guid isPermalink="true">https://blog.moeqy.com/acg/game/minecraft/mcupdate/1-17/</guid>
             <title>Minecraft 1.17更新预览</title>
-            <link>https://mqygalaxy.github.io/acg/game/minecraft/mcupdate/1-17/</link>
-            <category term="ACG" scheme="https://mqygalaxy.github.io/categories/acg/" />
-            <category term="游戏" scheme="https://mqygalaxy.github.io/categories/acg/game/" />
-            <category term="Minecraft专区" scheme="https://mqygalaxy.github.io/categories/acg/game/minecraft/" />
-            <category term="Minecraft专区-版本更新" scheme="https://mqygalaxy.github.io/categories/acg/game/minecraft/mcupdate/" />
-            <category term="游戏" scheme="https://mqygalaxy.github.io/tags/%E6%B8%B8%E6%88%8F/" />
-            <category term="Minecraft我的世界" scheme="https://mqygalaxy.github.io/tags/Minecraft%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C/" />
+            <link>https://blog.moeqy.com/acg/game/minecraft/mcupdate/1-17/</link>
+            <category term="ACG" scheme="https://blog.moeqy.com/categories/acg/" />
+            <category term="游戏" scheme="https://blog.moeqy.com/categories/acg/game/" />
+            <category term="Minecraft专区" scheme="https://blog.moeqy.com/categories/acg/game/minecraft/" />
+            <category term="Minecraft专区-版本更新" scheme="https://blog.moeqy.com/categories/acg/game/minecraft/mcupdate/" />
+            <category term="游戏" scheme="https://blog.moeqy.com/tags/%E6%B8%B8%E6%88%8F/" />
+            <category term="Minecraft我的世界" scheme="https://blog.moeqy.com/tags/Minecraft%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C/" />
             <pubDate>Wed, 07 Oct 2020 10:26:48 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;这里是 MqyGalaxy~&lt;/p&gt;
 &lt;p&gt;在今年 10 月 4 日，Mojang 公布了 1.17 新快照（java 版）的更新内容&lt;br /&gt;
@@ -1289,12 +1289,12 @@ Hexo 安装可能需要一段时间，中途可能出现几个报错，可以先
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://mqygalaxy.github.io/website/blog/20200916/post-1/</guid>
+            <guid isPermalink="true">https://blog.moeqy.com/website/blog/20200916/post-1/</guid>
             <title>MyBlog将取消Gitee Pages部署</title>
-            <link>https://mqygalaxy.github.io/website/blog/20200916/post-1/</link>
-            <category term="前端设计" scheme="https://mqygalaxy.github.io/categories/website/" />
-            <category term="搭建博客" scheme="https://mqygalaxy.github.io/categories/website/blog/" />
-            <category term="搭建博客" scheme="https://mqygalaxy.github.io/tags/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/" />
+            <link>https://blog.moeqy.com/website/blog/20200916/post-1/</link>
+            <category term="前端设计" scheme="https://blog.moeqy.com/categories/website/" />
+            <category term="搭建博客" scheme="https://blog.moeqy.com/categories/website/blog/" />
+            <category term="搭建博客" scheme="https://blog.moeqy.com/tags/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/" />
             <pubDate>Wed, 16 Sep 2020 09:26:48 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;这里是 MqyGalaxy~&lt;/p&gt;
 &lt;h1 id=&#34;博客将取消gitee-pages部署&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#博客将取消gitee-pages部署&#34;&gt;#&lt;/a&gt; 博客将取消 Gitee Pages 部署&lt;/h1&gt;
@@ -1313,11 +1313,11 @@ Hexo 安装可能需要一段时间，中途可能出现几个报错，可以先
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://mqygalaxy.github.io/life/20200909/post-1/</guid>
+            <guid isPermalink="true">https://blog.moeqy.com/life/20200909/post-1/</guid>
             <title>视频更新情况以及UP之后走向</title>
-            <link>https://mqygalaxy.github.io/life/20200909/post-1/</link>
-            <category term="生活杂谈" scheme="https://mqygalaxy.github.io/categories/%E7%94%9F%E6%B4%BB%E6%9D%82%E8%B0%88/" />
-            <category term="生活杂谈" scheme="https://mqygalaxy.github.io/tags/%E7%94%9F%E6%B4%BB%E6%9D%82%E8%B0%88/" />
+            <link>https://blog.moeqy.com/life/20200909/post-1/</link>
+            <category term="生活杂谈" scheme="https://blog.moeqy.com/categories/%E7%94%9F%E6%B4%BB%E6%9D%82%E8%B0%88/" />
+            <category term="生活杂谈" scheme="https://blog.moeqy.com/tags/%E7%94%9F%E6%B4%BB%E6%9D%82%E8%B0%88/" />
             <pubDate>Wed, 09 Sep 2020 09:26:48 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;这里是 MqyGalaxy~&lt;/p&gt;
 &lt;p&gt;虽然这个博客一是静态，二没有后台，但我还是会在这里写一些东西（没有交互功能应该也没人看吧 QAQ）&lt;/p&gt;
@@ -1371,15 +1371,15 @@ Hexo 安装可能需要一段时间，中途可能出现几个报错，可以先
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://mqygalaxy.github.io/acg/anime/summary/20200727/post-1/</guid>
+            <guid isPermalink="true">https://blog.moeqy.com/acg/anime/summary/20200727/post-1/</guid>
             <title>关于7月新番（1）</title>
-            <link>https://mqygalaxy.github.io/acg/anime/summary/20200727/post-1/</link>
-            <category term="ACG" scheme="https://mqygalaxy.github.io/categories/acg/" />
-            <category term="番剧" scheme="https://mqygalaxy.github.io/categories/acg/anime/" />
-            <category term="ACG" scheme="https://mqygalaxy.github.io/tags/ACG/" />
-            <category term="番剧杂谈" scheme="https://mqygalaxy.github.io/tags/%E7%95%AA%E5%89%A7%E6%9D%82%E8%B0%88/" />
-            <category term="番剧推荐" scheme="https://mqygalaxy.github.io/tags/%E7%95%AA%E5%89%A7%E6%8E%A8%E8%8D%90/" />
-            <category term="Anime" scheme="https://mqygalaxy.github.io/tags/Anime/" />
+            <link>https://blog.moeqy.com/acg/anime/summary/20200727/post-1/</link>
+            <category term="ACG" scheme="https://blog.moeqy.com/categories/acg/" />
+            <category term="番剧" scheme="https://blog.moeqy.com/categories/acg/anime/" />
+            <category term="ACG" scheme="https://blog.moeqy.com/tags/ACG/" />
+            <category term="番剧杂谈" scheme="https://blog.moeqy.com/tags/%E7%95%AA%E5%89%A7%E6%9D%82%E8%B0%88/" />
+            <category term="番剧推荐" scheme="https://blog.moeqy.com/tags/%E7%95%AA%E5%89%A7%E6%8E%A8%E8%8D%90/" />
+            <category term="Anime" scheme="https://blog.moeqy.com/tags/Anime/" />
             <pubDate>Mon, 27 Jul 2020 09:26:48 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;在这里来聊一下关于最近的 7 月新番和 7 月 “新” 番&lt;/p&gt;
 &lt;h1 id=&#34;刀剑神域-alicization-war-of-underworld-最终季&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#刀剑神域-alicization-war-of-underworld-最终季&#34;&gt;#&lt;/a&gt; 《刀剑神域 Alicization War of Underworld 最终季》&lt;/h1&gt;
@@ -1412,11 +1412,11 @@ Hexo 安装可能需要一段时间，中途可能出现几个报错，可以先
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://mqygalaxy.github.io/life/20200713/post-1/</guid>
+            <guid isPermalink="true">https://blog.moeqy.com/life/20200713/post-1/</guid>
             <title>未来属于我们！</title>
-            <link>https://mqygalaxy.github.io/life/20200713/post-1/</link>
-            <category term="生活杂谈" scheme="https://mqygalaxy.github.io/categories/%E7%94%9F%E6%B4%BB%E6%9D%82%E8%B0%88/" />
-            <category term="生活杂谈" scheme="https://mqygalaxy.github.io/tags/%E7%94%9F%E6%B4%BB%E6%9D%82%E8%B0%88/" />
+            <link>https://blog.moeqy.com/life/20200713/post-1/</link>
+            <category term="生活杂谈" scheme="https://blog.moeqy.com/categories/%E7%94%9F%E6%B4%BB%E6%9D%82%E8%B0%88/" />
+            <category term="生活杂谈" scheme="https://blog.moeqy.com/tags/%E7%94%9F%E6%B4%BB%E6%9D%82%E8%B0%88/" />
             <pubDate>Mon, 13 Jul 2020 09:26:48 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;首先，非常感谢大家能够在百忙之中点进这个页面。&lt;/p&gt;
 &lt;p&gt;我虽然身为 24 班的一员，但是在寒假期间出国，并没有与大家一起共同奋战。在照片里看到了大家备考冲刺的样子，感觉现在的我完全就不像一名学生。&lt;br /&gt;
