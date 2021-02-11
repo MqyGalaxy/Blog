@@ -107,10 +107,7 @@
     &lt;h3&gt;目前距离2021年春节过年还有:&lt;/h3&gt;
     &lt;div style=&#34;font-size: 30px; text-align:center;&#34;&gt;
 		&lt;i class=&#34;ic i-cjdl&#34;&gt;&lt;/i&gt;
-        &lt;span id=&#34;t_d&#34;&gt;&lt;/span&gt;
-        &lt;span id=&#34;t_h&#34;&gt;&lt;/span&gt;
-        &lt;span id=&#34;t_m&#34;&gt;&lt;/span&gt;
-        &lt;span id=&#34;t_s&#34;&gt;&lt;/span&gt;
+		春节快乐！
 		&lt;i class=&#34;ic i-cjdl&#34;&gt;&lt;/i&gt;
     &lt;/div&gt;
 	&lt;/div&gt;
