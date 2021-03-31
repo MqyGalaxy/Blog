@@ -7,6 +7,17 @@
     "home_page_url": "https://blog.moeqy.com",
     "items": [
         {
+            "id": "https://blog.moeqy.com/announcement/",
+            "url": "https://blog.moeqy.com/announcement/",
+            "title": "公告：网站关闭预告",
+            "date_published": "2021-03-31T16:00:00.000Z",
+            "content_html": "<div class=\"note info\">\n<p>MyBlog 目前还在进行规划，您现在所看到的主页并不是最终完成的内容<br />\n目前打算在小站中塞下学习笔记、ACG、爱好等内容<br />\n如若内容过于复杂，则打算将学习笔记腾到分站</p>\n</div>\n<p>网站由于因为没得钱钱了，只能选择关闭力。</p>\n<p>MyBlog (MqyGalaxy|Blog) 域名：<a href=\"http://blog.moeqy.com\">blog.moeqy.com</a> 。由于站长无法支撑网站费用，将于不久后关闭。感谢大家长久以来的陪伴。</p>\n<p><a href=\"https://blog.moeqy.com/anime/\">https://blog.moeqy.com/anime/</a></p>\n",
+            "tags": [
+                "公告",
+                "公告"
+            ]
+        },
+        {
             "id": "https://blog.moeqy.com/acg/game/Genshin-Impact/note/1.4/",
             "url": "https://blog.moeqy.com/acg/game/Genshin-Impact/note/1.4/",
             "title": "我的原神日记【1.4】",
@@ -52,17 +63,6 @@
                 "游戏杂谈",
                 "Steam",
                 "游戏"
-            ]
-        },
-        {
-            "id": "https://blog.moeqy.com/announcement/",
-            "url": "https://blog.moeqy.com/announcement/",
-            "title": "公告：!换!域!名!了!",
-            "date_published": "2021-02-04T01:41:00.000Z",
-            "content_html": "<div class=\"note info\">\n<p>MyBlog 目前还在进行规划，您现在所看到的主页并不是最终完成的内容<br />\n目前打算在小站中塞下学习笔记、ACG、爱好等内容<br />\n如若内容过于复杂，则打算将学习笔记腾到分站</p>\n</div>\n<p>小站重新上线。由于域名审核的原因，中途突然关闭一段时间。现已经全部恢复正常！</p>\n<p>MyBlog 的域名正式地从 <code>mqygalaxy.github.io</code>  更换为 <code>blog.moeqy.com</code>  啦！<br />\n可惜可贺可喜可贺。<br />\n从今往后不出意外将固定为此域名。</p>\n",
-            "tags": [
-                "公告",
-                "公告"
             ]
         },
         {

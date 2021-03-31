@@ -8,7 +8,24 @@
     <author>
       <name>MqyGalaxy</name>
     </author>
-    <updated>2021-03-23T01:42:48.000Z</updated>
+    <updated>2021-03-31T16:00:00.000Z</updated>
+    <entry>
+        <id>https://blog.moeqy.com/announcement/</id>
+        <title>公告：网站关闭预告</title>
+        <link rel="alternate" href="https://blog.moeqy.com/announcement/"/>
+        <content type="html">&lt;div class=&#34;note info&#34;&gt;
+&lt;p&gt;MyBlog 目前还在进行规划，您现在所看到的主页并不是最终完成的内容&lt;br /&gt;
+目前打算在小站中塞下学习笔记、ACG、爱好等内容&lt;br /&gt;
+如若内容过于复杂，则打算将学习笔记腾到分站&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;网站由于因为没得钱钱了，只能选择关闭力。&lt;/p&gt;
+&lt;p&gt;MyBlog (MqyGalaxy|Blog) 域名：&lt;a href=&#34;http://blog.moeqy.com&#34;&gt;blog.moeqy.com&lt;/a&gt; 。由于站长无法支撑网站费用，将于不久后关闭。感谢大家长久以来的陪伴。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.moeqy.com/anime/&#34;&gt;https://blog.moeqy.com/anime/&lt;/a&gt;&lt;/p&gt;
+</content>
+        <category term="公告" scheme="https://blog.moeqy.com/categories/%E5%85%AC%E5%91%8A/" />
+        <category term="公告" scheme="https://blog.moeqy.com/tags/%E5%85%AC%E5%91%8A/" />
+        <updated>2021-03-31T16:00:00.000Z</updated>
+    </entry>
     <entry>
         <id>https://blog.moeqy.com/acg/game/Genshin-Impact/note/1.4/</id>
         <title>我的原神日记【1.4】</title>
@@ -217,24 +234,6 @@
         <category term="Steam" scheme="https://blog.moeqy.com/tags/Steam/" />
         <category term="游戏" scheme="https://blog.moeqy.com/tags/%E6%B8%B8%E6%88%8F/" />
         <updated>2021-02-06T00:26:48.000Z</updated>
-    </entry>
-    <entry>
-        <id>https://blog.moeqy.com/announcement/</id>
-        <title>公告：!换!域!名!了!</title>
-        <link rel="alternate" href="https://blog.moeqy.com/announcement/"/>
-        <content type="html">&lt;div class=&#34;note info&#34;&gt;
-&lt;p&gt;MyBlog 目前还在进行规划，您现在所看到的主页并不是最终完成的内容&lt;br /&gt;
-目前打算在小站中塞下学习笔记、ACG、爱好等内容&lt;br /&gt;
-如若内容过于复杂，则打算将学习笔记腾到分站&lt;/p&gt;
-&lt;/div&gt;
-&lt;p&gt;小站重新上线。由于域名审核的原因，中途突然关闭一段时间。现已经全部恢复正常！&lt;/p&gt;
-&lt;p&gt;MyBlog 的域名正式地从 &lt;code&gt;mqygalaxy.github.io&lt;/code&gt;  更换为 &lt;code&gt;blog.moeqy.com&lt;/code&gt;  啦！&lt;br /&gt;
-可惜可贺可喜可贺。&lt;br /&gt;
-从今往后不出意外将固定为此域名。&lt;/p&gt;
-</content>
-        <category term="公告" scheme="https://blog.moeqy.com/categories/%E5%85%AC%E5%91%8A/" />
-        <category term="公告" scheme="https://blog.moeqy.com/tags/%E5%85%AC%E5%91%8A/" />
-        <updated>2021-02-04T01:41:00.000Z</updated>
     </entry>
     <entry>
         <id>https://blog.moeqy.com/life/20210101/post-1/</id>

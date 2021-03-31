@@ -10,8 +10,25 @@
         </author>
         <description>学习与爱好为基础搭建的个人博客</description>
         <language>zh-CN,en,ja,default</language>
-        <pubDate>Tue, 23 Mar 2021 09:42:48 +0800</pubDate>
-        <lastBuildDate>Tue, 23 Mar 2021 09:42:48 +0800</lastBuildDate>
+        <pubDate>Thu, 01 Apr 2021 00:00:00 +0800</pubDate>
+        <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0800</lastBuildDate>
+        <item>
+            <guid isPermalink="true">https://blog.moeqy.com/announcement/</guid>
+            <title>公告：网站关闭预告</title>
+            <link>https://blog.moeqy.com/announcement/</link>
+            <category term="公告" scheme="https://blog.moeqy.com/categories/%E5%85%AC%E5%91%8A/" />
+            <category term="公告" scheme="https://blog.moeqy.com/tags/%E5%85%AC%E5%91%8A/" />
+            <pubDate>Thu, 01 Apr 2021 00:00:00 +0800</pubDate>
+            <description><![CDATA[ &lt;div class=&#34;note info&#34;&gt;
+&lt;p&gt;MyBlog 目前还在进行规划，您现在所看到的主页并不是最终完成的内容&lt;br /&gt;
+目前打算在小站中塞下学习笔记、ACG、爱好等内容&lt;br /&gt;
+如若内容过于复杂，则打算将学习笔记腾到分站&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;网站由于因为没得钱钱了，只能选择关闭力。&lt;/p&gt;
+&lt;p&gt;MyBlog (MqyGalaxy|Blog) 域名：&lt;a href=&#34;http://blog.moeqy.com&#34;&gt;blog.moeqy.com&lt;/a&gt; 。由于站长无法支撑网站费用，将于不久后关闭。感谢大家长久以来的陪伴。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://blog.moeqy.com/anime/&#34;&gt;https://blog.moeqy.com/anime/&lt;/a&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">https://blog.moeqy.com/acg/game/Genshin-Impact/note/1.4/</guid>
             <title>我的原神日记【1.4】</title>
@@ -219,24 +236,6 @@
 而且根据目前的审核制度，“未来” 一词更是缥缈虚无。&lt;/p&gt;
 &lt;p&gt;游戏也是文化输出的一部分。无论是《原神》还是《明日方舟》等游戏，都在向外输出中国文化。但是不是所有的制作公司都可以做到这样，大多数制作公司或者个人都是依靠 steam 发布游戏。&lt;br /&gt;
 而文化审核却是文化输出的把柄。在当今的某些人还在嘲讽别人精日精欧时，却往往忽略了我们在这方面的文化输出。&lt;/p&gt;
- ]]></description>
-        </item>
-        <item>
-            <guid isPermalink="true">https://blog.moeqy.com/announcement/</guid>
-            <title>公告：!换!域!名!了!</title>
-            <link>https://blog.moeqy.com/announcement/</link>
-            <category term="公告" scheme="https://blog.moeqy.com/categories/%E5%85%AC%E5%91%8A/" />
-            <category term="公告" scheme="https://blog.moeqy.com/tags/%E5%85%AC%E5%91%8A/" />
-            <pubDate>Thu, 04 Feb 2021 09:41:00 +0800</pubDate>
-            <description><![CDATA[ &lt;div class=&#34;note info&#34;&gt;
-&lt;p&gt;MyBlog 目前还在进行规划，您现在所看到的主页并不是最终完成的内容&lt;br /&gt;
-目前打算在小站中塞下学习笔记、ACG、爱好等内容&lt;br /&gt;
-如若内容过于复杂，则打算将学习笔记腾到分站&lt;/p&gt;
-&lt;/div&gt;
-&lt;p&gt;小站重新上线。由于域名审核的原因，中途突然关闭一段时间。现已经全部恢复正常！&lt;/p&gt;
-&lt;p&gt;MyBlog 的域名正式地从 &lt;code&gt;mqygalaxy.github.io&lt;/code&gt;  更换为 &lt;code&gt;blog.moeqy.com&lt;/code&gt;  啦！&lt;br /&gt;
-可惜可贺可喜可贺。&lt;br /&gt;
-从今往后不出意外将固定为此域名。&lt;/p&gt;
  ]]></description>
         </item>
         <item>
