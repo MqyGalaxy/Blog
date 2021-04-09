@@ -227,6 +227,7 @@ body:not(.heimu_toggle_on) .new:hover .heimu.off {
 }
 
 .backblog a{
+	background: #FFC0CB;
 	position: relative;
     display: inline-block;
     padding: 12px 46px;
@@ -238,6 +239,11 @@ body:not(.heimu_toggle_on) .new:hover .heimu.off {
     text-decoration: none;
 	text-align: center;
 	margin: 0 auto;
+}
+
+.backblog a:hover{
+	background: #FF69B4;
+	transition: all 0.3s ease;
 }
 hr {
     clear: both;

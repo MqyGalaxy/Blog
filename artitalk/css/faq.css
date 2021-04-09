@@ -27,22 +27,17 @@
 	right: -61px;
     top: 0px;
 	text-align: center;
+	text-decoration: none;
+}
+#header-right:hover {
+	background: #FF69B4;
+	transition: all 0.3s ease;
 }
 
 h1 {
 	color: #FFC0CB;
+	text-align: left;
 }
-button {
-	position: relative;
-	background: #FFC0CB;
-    display: inline-block;
-    padding: 12px 46px;
-    min-width: 80px;
-    border: 1px solid #FFC0CB;
-    border-radius: 40px;
-    font-size: 14px;
-    color: #fff;
-    text-decoration: none;
-	text-align: center;
-	margin: 0 auto;
+a {
+	text-decoration: none;
 }

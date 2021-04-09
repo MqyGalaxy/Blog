@@ -3,10 +3,11 @@
 <head>
 <meta charset="utf-8">
 <title>说说/微博 - MqyGalaxy|Blog</title>
-<link rel="icon" type="image/x-icon" href="images/favicon.ico" />
+<link rel="icon" type="image/x-icon" href="/images/favicon.ico" />
 <link rel="stylesheet" type="text/css" href="css/pages.css">
 <link rel="stylesheet" type="text/css" href="css/faq.css">
 <link rel="stylesheet" href="icon/font_2477100_d819200ojri/iconfont.css">
+<!-- <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script> -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"> 
 <style type="text/css">
 </style>
@@ -24,8 +25,8 @@
 	<div id="mainbody">
 	<div class="mainpage">
 		<div class="backblog">
-			<a style="background: #FFC0CB;" href="https://blog.moeqy.com/">返回主页</a>
-			<button type="button" onclick="dianwo()">关于说说</button>
+			<a href="https://blog.moeqy.com/">返回主页</a>
+			<a class="dianwo" type="button" onclick="dianwo()" href="#faq">关于说说</a>
 		</div>
 		<h1 style="color: #FFC0CB; font-size: 40px;">说说</h1>
 		<hr><br>
@@ -37,7 +38,6 @@
 			  new Artitalk({
 					appId: '5RCH27PNzFAvcaHNkCctIN2s-MdYXbMMI',
 					appKey: 'HsEUFG8zqkt1x8BbOubKjecQ',
-					atEmoji: ['https://valinecdn.bili33.top/Majotabi']
 			  })
 		</script>
 	</div>
@@ -73,25 +73,25 @@
 <footer><p style="text-align: center; font-size: 10px; color: #BCBCBC;">MyBlog(MqyGalaxy|Blog)<br>by MqyGalaxy | ©2020-2021<br>本网站没有任何商业用途，所使用的音视频都是为了增加视听体验<br>网站内容修改与建议请联系邮箱 mqygalaxy#gmail.com<br><br>感谢与您相见~</vr></p>	
 </footer>
 <!-- 弹窗内容开始 -->
-	<div class="zhezhao" id='zhezhao'>
+	<div class="zhezhao" id='zhezhao' onclick="zhezhao()">
 		<div class="tankuang">
 				<div id="header">
-					<h1>关于说说</h1>
+					<h1>关于说说</h1><p style="text-align: right;">2021.04.10</p>
 					<hr>
 					<p>本页面来自于blog.moeqy.com。本网站属于个人博客性质，不做任何商业内容。</p>
-					<p>说说用于写一些平常吐槽用的闲话，也可以用来和我唠嗑！<br>使用时请遵守以下规则食用：
+					<p>“说说”用于写一些平常吐槽用的闲话，也可以用来和我唠嗑！<br>使用时请遵守以下规则食用：
 						<ul>
-							<li>请勿发布违反法律法规的言论</li>
-							<li>请勿发布政治言论</li>
-							<li>请勿发布一些不过脑子的垃圾评论</li>
+							<li>请勿发布违反法律法规的言论（包括但不限于视频/图像/音频）</li>
+							<li>请勿发布政治言论（包括但不限于视频/图像/音频）</li>
+							<li>请勿发布一些不过脑子的垃圾评论（包括但不限于广告/辱骂）</li>
 						</ul>
 						如果您想的话，就拍一下说说下面的对话泡来聊天吧！<br>
-						支持Markdown和html语法输入，以及支持图片上传
+						支持Markdown和html语法输入，以及支持图片上传，<a href="https://artitalk.js.org/release.html">详情查看</a>。
 					</p>
-					<p>本页面使用了 <a href="https://https://artitalk.js.org/">Artitalk</a> 来作为说说的引擎。</p>
+					<p>本页面使用了 <a href="https://https://artitalk.js.org/">Artitalk</a> 来作为“说说”的引擎。</p>
 					<a href="https://blog.moeqy.com" alt:"MqyGalaxyBlog" title="MyBlog - 爱好ACG的温馨小窝"><img src="/images/blogLOGO.png" width="230"></a>
 				</div>
-			<div id="header-right" onclick="hidder()"><span class="iconfont icon-times" style="font-size: 30px;"></span></div>
+			<a id="header-right" onclick="hidder()" href="#"><span class="iconfont icon-times" style="font-size: 30px;"></span></a>
 		</div>
 	</div>
 <!-- 弹窗内容结束 -->
