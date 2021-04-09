@@ -1,0 +1,245 @@
+body,td,th {
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+}
+body {
+    background-image: url("images/9717_p0.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #FFFFFF;
+}
+
+.top {
+    font-size: 16px;
+	color: #6C6C6C;
+	font-weight: ;
+}
+.top ul{
+    /* 清除ul标签的默认样式 */
+    width: auto;/*宽度也改为自动*/
+    list-style-type: none;
+    white-space:nowrap;
+    overflow: hidden;
+    margin-left: 5%;
+    /* margin-top: 0;          */
+    padding: 0;
+
+}
+.top li {
+    float:left; /* 使li内容横向浮动，即横向排列  */
+    margin-right:2%;  /* 两个li之间的距离*/
+    position: relative;
+    overflow: hidden;
+}
+.yya {
+    position: fixed;
+    left: 0;
+    background: rgba(255,255,255,1);
+    box-shadow: 0 1px 40px -8px rgba(0,0,0,.5);
+}
+.site-header {
+    width: 100%;
+    height: 75px;
+    /*background: 0 0;*/
+    -webkit-transition: all .4s ease;
+    transition: all .4s ease;
+    position: fixed;
+    z-index: 9999;
+    top: 0;
+} 
+.no-select {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+.site-top {
+    width: 100%;
+    display: block;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+	.gonggao{
+	padding: 1px;
+    border: 1px dashed #e6e6e6;
+    color: #969696;
+    position: relative;
+    display: inline-block;
+    width: 100%;
+    background: #fbfbfb50;
+    border-radius: 10px;
+	}
+	.site-content {
+    max-width: 800px;
+    padding: 0 10px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgba(255,255,255,.8);
+}
+.post-list-show {
+    animation: post-list-show .5s;
+    -webkit-animation: post-list-show .5s;
+    opacity: 1;
+}
+.post-list-thumb {
+    float: left;
+    width: 100%;
+    height: 300px;
+    position: relative;
+    margin: 20px 0 20px;
+    border-radius: 10px;
+    background-color: rgba(255,255,255,1);
+    box-shadow: 0 1px 20px -8px rgba(0,0,0,.9);
+    /*opacity: 0;*/
+}/*表格*/
+.post-thumb {
+    float: left;
+    width: 50%;
+}/*图片*/
+.post-content-wrap {
+    position: relative;
+    display: inline-block;
+    float: right;
+    padding-right: 30px;
+    padding-left: 0;
+    width: 40%;
+    margin: 20px 10px 0 10px;
+}/*内容*/
+
+/*使用了黑幕css样式，转载自萌娘百科https://zh.moegirl.org/MediaWiki:Common.css感谢萌娘百科，程序员手打辛苦了！！！*/
+.heimu,
+.heimu a,
+a .heimu,
+.heimu a.new {
+    background-color: #252525;
+    color: #252525;
+    text-shadow: none;
+}
+body:not(.heimu_toggle_on) .heimu:hover,
+body:not(.heimu_toggle_on) .heimu:active,
+body:not(.heimu_toggle_on) .heimu.off {
+    transition: color .13s linear;
+    color: white;
+}
+body:not(.heimu_toggle_on) .heimu:hover a,
+body:not(.heimu_toggle_on) a:hover .heimu,
+body:not(.heimu_toggle_on) .heimu.off a,
+body:not(.heimu_toggle_on) a:hover .heimu.off {
+    transition: color .13s linear;
+    color: lightblue;
+}
+body:not(.heimu_toggle_on) .heimu.off .new,
+body:not(.heimu_toggle_on) .heimu.off .new:hover,
+body:not(.heimu_toggle_on) .new:hover .heimu.off,
+body:not(.heimu_toggle_on) .heimu.off .new,
+body:not(.heimu_toggle_on) .heimu.off .new:hover,
+body:not(.heimu_toggle_on) .new:hover .heimu.off {
+    transition: color .13s linear;
+    color: #BA0000;
+	}
+
+	.footer_li_box div{
+		width: 500px;
+	}
+	.footer_li_box li{
+		width:auto;
+		float:left; /* 使li内容横向浮动，即横向排列  */
+        margin-right:5%;  /* 两个li之间的距离*/
+		position: relative;
+        overflow: hidden;
+		white-space: nowrap;
+		margin-top: 10px;
+	}
+	.footer_li_box ul{
+	    color: #000;
+		font-size: 13px;
+	}
+	.footer_li_box a:link{
+	    color: #000;
+		text-decoration: none;
+	    transition: all 0.3s ease;
+	}
+    .footer_li_box a:visited {
+    color: #000;
+    text-decoration: none;
+    }
+    .footer_li_box a:active {
+    color: #000;
+    text-decoration: none;
+    }
+	.footer_li_box a:hover {
+    color: #53B6FF;
+    text-decoration: none;
+    }
+.inner {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 18px;
+    box-sizing: border-box;
+}
+  .Download {
+    position: relative;
+    display: inline-block;
+    padding: 12px 46px;
+    min-width: 80px;
+    border: 1px solid #32B2A7;
+    border-radius: 40px;
+    font-size: 14px;
+    background: #32B2A7;
+    color: #fff;
+    text-decoration: none;
+  }
+  .screenshots-section ul {
+    display: block;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    white-space: nowrap;
+	margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+.screenshots-section ul li {
+    display: inline-block;
+    padding-right: 20px;
+    vertical-align: middle;
+}	
+
+#page {
+	margin-top: 90px;
+}
+
+#mainbody {
+	display: block;
+    width: 100%;
+    text-align: left;
+    margin: 0 auto;
+    max-width: 1030px;
+	color: #696969;
+}
+.mainpage {
+	padding: 1em;
+}
+
+.backblog a{
+	position: relative;
+    display: inline-block;
+    padding: 12px 46px;
+    min-width: 80px;
+    border: 1px solid #FFC0CB;
+    border-radius: 40px;
+    font-size: 14px;
+    color: #fff;
+    text-decoration: none;
+	text-align: center;
+	margin: 0 auto;
+}
+hr {
+    clear: both;
+    border: 2px dashed #4c4c4c;
+}

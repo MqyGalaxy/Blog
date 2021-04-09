@@ -1,0 +1,16 @@
+{
+  "id": "2477100",
+  "name": "iconArtitalk",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "5634457",
+      "name": "times",
+      "font_class": "times",
+      "unicode": "f109",
+      "unicode_decimal": 61705
+    }
+  ]
+}

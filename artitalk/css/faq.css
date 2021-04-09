@@ -1,0 +1,48 @@
+.zhezhao {
+	position: fixed;
+	left: 0px;
+	top: 0px;
+	background: rgba(0,0,0,0.5);
+	width: 100%;
+	height: 100%;
+	}
+.tankuang {
+	position: relative;
+	background: #fff;
+	width: 800px;
+	height: 100%;
+	margin: 90px auto;
+	padding: 30px;
+	}
+#header	{
+	height: 40px;
+	}
+#header-right {
+	position: absolute;
+	padding: 15px;
+	width: 30px;
+	height: 30px;
+	background: black;
+	color: #fff;
+	right: -61px;
+    top: 0px;
+	text-align: center;
+}
+
+h1 {
+	color: #FFC0CB;
+}
+button {
+	position: relative;
+	background: #FFC0CB;
+    display: inline-block;
+    padding: 12px 46px;
+    min-width: 80px;
+    border: 1px solid #FFC0CB;
+    border-radius: 40px;
+    font-size: 14px;
+    color: #fff;
+    text-decoration: none;
+	text-align: center;
+	margin: 0 auto;
+}
