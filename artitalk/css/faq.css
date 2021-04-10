@@ -6,21 +6,28 @@
 	width: 100%;
 	height: 100%;
 	}
+.huagui {
+	background: #fff;
+	max-width: 800px;
+	position: relative;
+	height: 100%;
+	margin: 0 auto;
+}
 .tankuang {
-			position: relative;
-			background: #fff;
-			width: 800px;
-			height: 100%;
-			margin: 90px auto;
+	background: #fff;
+	margin: 90px auto;
+	width: 800px;
+	height: auto;
 }
 #header-right {
+	margin-top: 90px;
 	position: absolute;
 	padding: 15px;
 	width: 30px;
 	height: 30px;
 	background: black;
 	color: #fff;
-	right: -61px;
+	right: -65px;
     top: 0px;
 	text-align: center;
 	text-decoration: none;
@@ -30,20 +37,18 @@
 	transition: all 0.3s ease;
 }
 #overflow {
+	position: absolute;
 	height: 100%;
-	overflow-y:auto;
+	overflow-y: scroll;
 }
-
 #faqpage {
-	height: auto;
+	height: 100%;
 	padding: 30px;
 }
 /* 设置滚动条的样式 */
 #overflow::-webkit-scrollbar {
-     width: 0; 
-}
-#overflow::-webkit-scrollbar {
     width: 5px;
+	height: 6px;
     border-radius: 8px;
 }
 /* 滚动槽 */
@@ -64,34 +69,61 @@ h1 {
 a {
 	text-decoration: none;
 }
-
-@media only screen and (max-width: 500px) {
-    .tankuang {
-		position: relative;
-		background: #fff;
-		width: 300px;
-		height: 100%;
-		margin: 90px auto;
-		padding: 10px;
+@media only screen and (max-width: 900px) {
+	.zhezhao {
+	left: 0px;
+	top: 0px;
+	background: rgba(0,0,0,0.5);
+	width: 100%;
+	height: 100%;
 	}
-}
-@media only screen and (max-width: 400px) {
-    .tankuang {
+    .huagui {
+		float:left;
 		position: relative;
-		background: #fff;
-		width: 200px;
-		height: 100%;
-		margin: 90px auto;
-		padding: 5px;
+		width: 300px;
+		max-height: 100%;
+		margin: 0 auto;
+		padding: 1px;
+	}
+	.tankuang {
+	background: #fff;
+	margin: 90px auto;
+	width: 300px;
+	height: auto;
+}
+	#faqpage {
+	padding: 10px;
+	}
+	#overflow {
+	float:left;
 	}
 }
 @media only screen and (max-width: 300px) {
-    .tankuang {
+	.zhezhao {
+	left: 0px;
+	top: 0px;
+	background: rgba(0,0,0,0.5);
+	width: 100%;
+	height: 100%;
+	}
+    .huagui {
+		float:left;
 		position: relative;
-		background: #fff;
-		width: 100px;
-		height: 100%;
-		margin: 90px auto;
-		padding: 3px;
+		width: 200px;
+		max-height: 100%;
+		margin: 0 auto;
+		padding: 1px;
+	}
+	.tankuang {
+	background: #fff;
+	margin: 90px auto;
+	width: 200px;
+	height: auto;
+}
+	#faqpage {
+	padding: 10px;
+	}
+	#overflow {
+	float:left;
 	}
 }
