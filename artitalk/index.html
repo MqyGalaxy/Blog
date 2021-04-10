@@ -24,10 +24,8 @@
 	<div id="mainbody">
 	<div class="mainpage">
 		<div class="backblog">
-			<ul>
-				<li><a href="https://blog.moeqy.com/">返回主页</a></li>
-				<li><a class="dianwo" type="button" onclick="dianwo()" href="#faq">关于说说</a></li>
-			</ul>
+			<a href="https://blog.moeqy.com/">返回主页</a>
+			<a class="dianwo" type="button" onclick="dianwo()" href="#faq">关于说说</a>
 		</div>
 		<h1 style="color: #FFC0CB; font-size: 40px;">说说</h1>
 		<hr><br>
@@ -106,16 +104,13 @@
 			function hidder(){
 				document.getElementById('zhezhao').style.display="none";
 			}
-			function zhezhao(){
-				document.getElementById('zhezhao').style.display="none";
-			}
 </script>
 <script type="text/javascript">
 			let bodyEl = document.body
 			let top = 0
 
-			function stopBodyScroll (zhezhao) {
-			  if (zhezhao) {
+			function stopBodyScroll (isFixed) {
+			  if (isFixed) {
 				top = window.scrollY
 
 				bodyEl.style.position = 'fixed'

@@ -238,30 +238,16 @@ body:not(.heimu_toggle_on) .new:hover .heimu.off {
     color: #fff;
     text-decoration: none;
 	text-align: center;
-	margin: 0 auto;
+	margin-top: 10px;
 }
 .backblog a:hover{
 	background: #FF69B4;
 	transition: all 0.3s ease;
 }
-.backblog ul li {
-	display: inline-block;
-    padding: 5px;
-    vertical-align: middle;
-}
-.backblog ul {
-    display: block;
-    margin: 0;
-    padding: 0;
-    list-style: none;
-    white-space: nowrap;
-	margin-block-start: 1em;
-    margin-block-end: 1em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
-    padding-inline-start: 40px;
-}
 hr {
     clear: both;
     border: 2px dashed #4c4c4c;
+}
+iframe {
+	width: 200px;
 }
