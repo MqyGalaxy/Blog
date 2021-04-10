@@ -7,16 +7,12 @@
 	height: 100%;
 	}
 .tankuang {
-	position: relative;
-	background: #fff;
-	width: 800px;
-	height: 100%;
-	margin: 90px auto;
-	padding: 30px;
-	}
-#header	{
-	height: 40px;
-	}
+			position: relative;
+			background: #fff;
+			width: 800px;
+			height: 100%;
+			margin: 90px auto;
+}
 #header-right {
 	position: absolute;
 	padding: 15px;
@@ -33,11 +29,51 @@
 	background: #FF69B4;
 	transition: all 0.3s ease;
 }
+#overflow {
+	height: 100%;
+	overflow-y:auto;
+}
 
+#faqpage {
+	height: auto;
+	padding: 30px;
+}
+/* 设置滚动条的样式 */
+#overflow::-webkit-scrollbar {
+     width: 0; 
+}
+#overflow::-webkit-scrollbar {
+    width: 5px;
+    border-radius: 8px;
+}
+/* 滚动槽 */
+#overflow::-webkit-scrollbar-track {
+    /* -webkit-box-shadow: inset006pxrgba(0, 0, 0, 0.5); */
+    background-color: rgba(255,255,255,1);
+}
+/* 滚动条滑块 */
+#overflow::-webkit-scrollbar-thumb {
+    border-radius: 8px;
+    background: #FFC0CB;
+    /* -webkit-box-shadow: inset006pxrgba(0, 0, 0, 0.5); */
+}
 h1 {
 	color: #FFC0CB;
 	text-align: left;
 }
 a {
 	text-decoration: none;
+}
+
+@media only screen and (max-width: 500px) {
+    .tankuang {
+		position: relative;
+		background: #fff;
+		width: 300px;
+		height: 100%;
+		margin: 90px auto;
+		padding: 30px;
+	}
+	
+	
 }
