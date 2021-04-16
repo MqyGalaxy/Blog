@@ -31,6 +31,9 @@ body {
     position: relative;
     overflow: hidden;
 }
+.top h1 {
+	font-size: 30px;
+}
 .yya {
     position: fixed;
     left: 0;
@@ -250,4 +253,18 @@ hr {
 }
 iframe {
 	width: 200px;
+}
+
+@media only screen and (max-width: 900px) {
+	.top img {
+		width: 200px;
+	}
+}
+@media only screen and (max-width: 500px) {
+	.top img {
+		width: 150px;
+	}
+	.top h1 {
+		font-size: 20px;
+	)
 }

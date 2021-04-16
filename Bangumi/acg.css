@@ -1,5 +1,5 @@
 :root{
-    --theme-color: #eb6844;
+    --theme-color: #FFC0CB;
     --preset-c: #cccccc;
     --preset-d: #dadada;
     --preset-f: #ffffff;
@@ -38,6 +38,48 @@
 	background: #FFC0CB;
 	/* -webkit-box-shadow: inset006pxrgba(0, 0, 0, 0.5); */
 }
+.bangumibackblog a{
+	background: rgba(255,255,255,0);
+	position: relative;
+    display: inline-block;
+    padding: 12px 46px;
+    min-width: 80px;
+    border: 2px solid #FFF;
+    border-radius: 40px;
+    font-size: 14px;
+    text-decoration: none;
+	text-align: center;
+	margin-top: 10px;
+}
+.bangumibackblog a:hover{
+	background: rgba(255,255,255,0.5);
+	border: 2px solid #FFF;
+	transition: all 0.3s ease;
+}
+@media only screen and (max-width: 900px) {
+	.bangumibackblog a{
+		padding: 6px 23px;
+		top: 20px;
+	}
+		
+}
+#faqpage a:link{
+	    color: #FF69B4;
+		text-decoration: none;
+	    transition: all 0.3s ease;
+	}
+    #faqpage a:visited {
+    color: #FF69B4;
+    text-decoration: none;
+    }
+    #faqpage a:active {
+    color: #FF69B4;
+    text-decoration: none;
+    }
+	#faqpage a:hover {
+    color: #53B6FF;
+    text-decoration: none;
+    }
 html,body{margin:0;padding:0;text-align:center;background:#fff;font:normal 16px/normal "Microsoft YaHei","微软雅黑","Microsoft JhengHei","Hiragino Sans GB","WenQuanYi Micro Hei",Arial,Helvetica,Lucida Grande,Tahoma,sans-serif;tap-highlight-color:transparent;-webkit-tap-highlight-color:transparent}
 a{text-decoration: none}
 .content-all-windows{overflow-y:visible!important;max-width:1102px;height:auto;margin:0 auto;padding:15px 15px 0;overflow-y:hidden;transition:all .5s ease;display:flex;position:relative;flex-flow:row nowrap;justify-content:space-between}
