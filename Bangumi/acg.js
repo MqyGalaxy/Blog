@@ -36,7 +36,7 @@ $(function(){
 
 		// 加载元素/00
 		$(".counter").append('<div class="'+jsone+'"><a href="#'+jsone+'"><h2></h2><p>'+jsonc+'/'+jsone.toUpperCase()+'</p></a></div>')
-		$(".rcmd-boxes").append('<div class="inbox-clip wow fadeInUp" data-wow-delay="0.25s"><h2 id="'+jsone+'">'+jsonc+'<sup> '+jsone+' </sup></h2></div><div class="info '+jsone+' flexboxes wow fadeInUp" data-wow-delay="0.15s"><div class="inbox more flexboxes"><div class="inbox-more flexboxes"><a href="mailto:xty@2broear.com" title="发送邮件，荐你所见"></a></div></div></div>');
+		$(".rcmd-boxes").append('<div class="inbox-clip wow fadeInUp" data-wow-delay="0.25s"><h2 id="'+jsone+'">'+jsonc+'<sup> '+jsone+' </sup></h2></div><div class="info '+jsone+' flexboxes wow fadeInUp" data-wow-delay="0.15s"><div class="inbox more flexboxes"><div class="inbox-more flexboxes"><a href="mailto:mqygalaxy@gmial.com" title="发送邮件，荐你所见"></a></div></div></div>');
 		
 		// 计算并写入 jsonObj 对象数量
 		function calcTimer(tname,tnum,tel,tjson){
