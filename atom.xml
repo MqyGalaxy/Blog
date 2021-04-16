@@ -8,7 +8,22 @@
     <author>
       <name>MqyGalaxy</name>
     </author>
-    <updated>2021-04-15T20:55:16.986Z</updated>
+    <updated>2021-04-16T23:37:00.000Z</updated>
+    <entry>
+        <id>https://blog.moeqy.com/announcement/</id>
+        <title>公告：修改</title>
+        <link rel="alternate" href="https://blog.moeqy.com/announcement/"/>
+        <content type="html">&lt;div class=&#34;note info&#34;&gt;
+&lt;p&gt;MyBlog 目前还在进行规划，您现在所看到的主页并不是最终完成的内容&lt;br /&gt;
+目前打算在小站中塞下学习笔记、ACG、爱好等内容&lt;br /&gt;
+如若内容过于复杂，则打算将学习笔记腾到分站&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;将博客里的 “留言”“说说”“追番” 移动到了 “其他”。&lt;/p&gt;
+</content>
+        <category term="公告" scheme="https://blog.moeqy.com/categories/%E5%85%AC%E5%91%8A/" />
+        <category term="公告" scheme="https://blog.moeqy.com/tags/%E5%85%AC%E5%91%8A/" />
+        <updated>2021-04-16T23:37:00.000Z</updated>
+    </entry>
     <entry>
         <id>https://blog.moeqy.com/hello-world/</id>
         <title>Hello World</title>
@@ -144,21 +159,6 @@ D. 辱骂该番观众，以此表达自己的优越感。​&lt;/p&gt;
         <category term="番剧推荐" scheme="https://blog.moeqy.com/tags/%E7%95%AA%E5%89%A7%E6%8E%A8%E8%8D%90/" />
         <category term="Anime" scheme="https://blog.moeqy.com/tags/Anime/" />
         <updated>2021-04-14T19:53:48.000Z</updated>
-    </entry>
-    <entry>
-        <id>https://blog.moeqy.com/announcement/</id>
-        <title>公告：修改</title>
-        <link rel="alternate" href="https://blog.moeqy.com/announcement/"/>
-        <content type="html">&lt;div class=&#34;note info&#34;&gt;
-&lt;p&gt;MyBlog 目前还在进行规划，您现在所看到的主页并不是最终完成的内容&lt;br /&gt;
-目前打算在小站中塞下学习笔记、ACG、爱好等内容&lt;br /&gt;
-如若内容过于复杂，则打算将学习笔记腾到分站&lt;/p&gt;
-&lt;/div&gt;
-&lt;p&gt;将博客里的 “留言”“说说”“追番” 移动到了 “其他”。&lt;/p&gt;
-</content>
-        <category term="公告" scheme="https://blog.moeqy.com/categories/%E5%85%AC%E5%91%8A/" />
-        <category term="公告" scheme="https://blog.moeqy.com/tags/%E5%85%AC%E5%91%8A/" />
-        <updated>2021-04-01T16:00:00.000Z</updated>
     </entry>
     <entry>
         <id>https://blog.moeqy.com/acg/game/Genshin-Impact/note/1.4/</id>
