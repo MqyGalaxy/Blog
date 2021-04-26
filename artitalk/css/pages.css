@@ -242,6 +242,7 @@ body:not(.heimu_toggle_on) .new:hover .heimu.off {
     text-decoration: none;
 	text-align: center;
 	margin-top: 10px;
+	transition: all 0.3s ease;
 }
 .backblog a:hover{
 	background: #FF69B4;
@@ -259,12 +260,4 @@ iframe {
 	.top img {
 		width: 200px;
 	}
-}
-@media only screen and (max-width: 500px) {
-	.top img {
-		width: 150px;
-	}
-	.top h1 {
-		font-size: 20px;
-	)
 }
