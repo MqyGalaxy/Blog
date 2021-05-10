@@ -8,7 +8,23 @@
     <author>
       <name>MqyGalaxy</name>
     </author>
-    <updated>2021-05-07T05:17:00.000Z</updated>
+    <updated>2021-05-10T01:56:48.000Z</updated>
+    <entry>
+        <id>https://blog.moeqy.com/life/20210510/post-1/</id>
+        <title>数据没了，硬盘坏道了。</title>
+        <link rel="alternate" href="https://blog.moeqy.com/life/20210510/post-1/"/>
+        <content type="html">&lt;p&gt;去年买了一个希捷的移动硬盘。因为笔记本的磁盘空间太小了，于是就拿移动硬盘将就用了。&lt;br /&gt;
+但是，在今天，它光荣牺牲了 QAQ。&lt;/p&gt;
+&lt;figure class=&#34;highlight raw&#34;&gt;&lt;figcaption data-lang=&#34;&#34;&gt;&lt;span&gt;检测结果&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;被检测磁盘：HD1:SeagateBUPUltraTouch (1863GB)&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;检测范围：柱面 0 - 243201 (该磁盘柱面总数：243201)&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;完成时间：2021-05-10 08:09:27&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;共检测到 199275 个坏道区域。&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;在这个硬盘上保存了我的游戏、素材和学习资料，最后都没了。还好没把博客放在里面 = =。&lt;br /&gt;
+部分软件也在之前转移到电脑里所以也没遭殃。&lt;/p&gt;
+&lt;p&gt;问了下度娘，坏道的硬盘特别是区域大的不推荐使用了。而且使用软件修复也会破坏数据。&lt;br /&gt;
+这让我想起来一个朋友，刚买移动硬盘时他就说他的移动硬盘因为不适当操作坏了。没想到也会到我头上。&lt;/p&gt;
+&lt;p&gt;最后还是想说，一定要妥善使用硬盘啊！&lt;/p&gt;
+</content>
+        <category term="生活杂谈" scheme="https://blog.moeqy.com/categories/%E7%94%9F%E6%B4%BB%E6%9D%82%E8%B0%88/" />
+        <category term="生活杂谈" scheme="https://blog.moeqy.com/tags/%E7%94%9F%E6%B4%BB%E6%9D%82%E8%B0%88/" />
+        <updated>2021-05-10T01:56:48.000Z</updated>
+    </entry>
     <entry>
         <id>https://blog.moeqy.com/announcement/</id>
         <title>公告：关于“追番”和“说说”的修改</title>
@@ -996,8 +1012,8 @@ Here are some details about her for the profile:&lt;/p&gt;
 &lt;p&gt;安装成功后，您需要将 Git 绑定 GitHub 账号：&lt;br /&gt;
 鼠标右键或者菜单搜索打开 &lt;code&gt;Git Bash&lt;/code&gt; （鼠标右键为 &lt;code&gt;Git Bash Here&lt;/code&gt;  在此路径打开，不影响以下操作）&lt;br /&gt;
 设置 &lt;code&gt;user.name&lt;/code&gt;  和 &lt;code&gt;user.email&lt;/code&gt;  的配置信息，分别输入后回车：&lt;/p&gt;
-&lt;figure class=&#34;highlight yml&#34;&gt;&lt;figcaption data-lang=&#34;YAML&#34;&gt;&lt;span&gt;配置信息&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;git config &lt;span class=&#34;token punctuation&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;-&lt;/span&gt;global user.name &#34;你的GitHub用户名&#34;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;git config &lt;span class=&#34;token punctuation&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;-&lt;/span&gt;global user.email &#34;你的GitHub注册邮箱&#34;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;绑定后生成 &lt;code&gt;ssh密钥&lt;/code&gt; 文件：&lt;/p&gt;
-&lt;figure class=&#34;highlight yml&#34;&gt;&lt;figcaption data-lang=&#34;YAML&#34;&gt;&lt;span&gt;密钥文件&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;ssh&lt;span class=&#34;token punctuation&#34;&gt;-&lt;/span&gt;keygen &lt;span class=&#34;token punctuation&#34;&gt;-&lt;/span&gt;t rsa &lt;span class=&#34;token punctuation&#34;&gt;-&lt;/span&gt;C &#34;你的GitHub注册邮箱&#34;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;默认不需要设置密码&lt;br /&gt;
+&lt;figure class=&#34;highlight git&#34;&gt;&lt;figcaption data-lang=&#34;git&#34;&gt;&lt;span&gt;配置信息&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;git config --global user.name &lt;span class=&#34;token string&#34;&gt;&#34;你的GitHub用户名&#34;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;git config --global user.email &lt;span class=&#34;token string&#34;&gt;&#34;你的GitHub注册邮箱&#34;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;绑定后生成 &lt;code&gt;ssh密钥&lt;/code&gt; 文件：&lt;/p&gt;
+&lt;figure class=&#34;highlight git&#34;&gt;&lt;figcaption data-lang=&#34;git&#34;&gt;&lt;span&gt;密钥文件&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;ssh-keygen -t rsa -C &lt;span class=&#34;token string&#34;&gt;&#34;你的GitHub注册邮箱&#34;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;默认不需要设置密码&lt;br /&gt;
 生成 ssh 文件后，git 会直接给出 &lt;code&gt;.ssh&lt;/code&gt;  文件夹所在路径 &lt;code&gt;C:\Users\用户名\.ssh&lt;/code&gt; &lt;br /&gt;
  打开 &lt;code&gt;.ssh&lt;/code&gt;  文件夹找到 &lt;code&gt;id_rsa.pub&lt;/code&gt; ，复制里面的全部内容&lt;br /&gt;
 最后打开 &lt;code&gt;GitHub&lt;/code&gt; ，点击右上角个人头像后点击 &lt;code&gt;Setting&lt;/code&gt;  进入设置界面再点击 &lt;code&gt;SSH and GPG keys&lt;/code&gt; &lt;br /&gt;
@@ -1021,7 +1037,7 @@ Here are some details about her for the profile:&lt;/p&gt;
 &lt;p&gt;使用 &lt;code&gt;cmd&lt;/code&gt;  或者 &lt;code&gt;powershell&lt;/code&gt;  都可以做到命令行的作用，在这里推荐使用 &lt;code&gt;powershell&lt;/code&gt; , 以下将简称为命令行&lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;在命令行中输入 &lt;code&gt;npm&lt;/code&gt;  命令安装 &lt;code&gt;Hexo&lt;/code&gt;&lt;/p&gt;
-&lt;figure class=&#34;highlight yml&#34;&gt;&lt;figcaption data-lang=&#34;YAML&#34;&gt;&lt;span&gt;npm安装Hexo&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;npm i &lt;span class=&#34;token punctuation&#34;&gt;-&lt;/span&gt;g hexo&lt;span class=&#34;token punctuation&#34;&gt;-&lt;/span&gt;cli&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;在这里将 &lt;code&gt;install&lt;/code&gt;  缩写成 &lt;code&gt;i&lt;/code&gt; ，您也可以输入 &lt;code&gt;install&lt;/code&gt; &lt;br /&gt;
+&lt;figure class=&#34;highlight raw&#34;&gt;&lt;figcaption data-lang=&#34;&#34;&gt;&lt;span&gt;npm安装Hexo&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;npm i -g hexo-cli&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;在这里将 &lt;code&gt;install&lt;/code&gt;  缩写成 &lt;code&gt;i&lt;/code&gt; ，您也可以输入 &lt;code&gt;install&lt;/code&gt; &lt;br /&gt;
 Hexo 安装可能需要一段时间，中途可能出现几个报错，可以先无视它&lt;/p&gt;
 &lt;p&gt;安装完成后，在命令行输入 &lt;code&gt;hexo -v&lt;/code&gt;  验证是否安装成功&lt;br /&gt;
 如若显示版本等各项信息即为安装成功&lt;/p&gt;
@@ -1033,7 +1049,7 @@ Hexo 安装可能需要一段时间，中途可能出现几个报错，可以先
 &lt;/div&gt;
 &lt;h2 id=&#34;hexo常用命令&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#hexo常用命令&#34;&gt;#&lt;/a&gt; hexo 常用命令&lt;/h2&gt;
 &lt;p&gt;首先要了解 Hexo 的常用命令&lt;/p&gt;
-&lt;figure class=&#34;highlight yml&#34;&gt;&lt;figcaption data-lang=&#34;YAML&#34;&gt;&lt;span&gt;Hexo常用命令&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;hexo n &#34;xxx&#34; = hexo new &#34;xxx&#34; &lt;span class=&#34;token comment&#34;&gt;# 新建名为 xxx 的文章&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;hexo g = hexo generate &lt;span class=&#34;token comment&#34;&gt;# 生成静态网站文件&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;hexo s = hexo sever &lt;span class=&#34;token comment&#34;&gt;# 启动服务本地预览&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;hexo d = hexo deploy &lt;span class=&#34;token comment&#34;&gt;# 部署博客&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;hexo clean &lt;span class=&#34;token comment&#34;&gt;# 清除缓存，一般网站正常则不会使用&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;下面会一一讲解：&lt;/p&gt;
+&lt;figure class=&#34;highlight raw&#34;&gt;&lt;figcaption data-lang=&#34;&#34;&gt;&lt;span&gt;Hexo常用命令&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;hexo n &amp;quot;xxx&amp;quot; &amp;#x3D; hexo new &amp;quot;xxx&amp;quot; # 新建名为 xxx 的文章&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;hexo g &amp;#x3D; hexo generate # 生成静态网站文件&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;hexo s &amp;#x3D; hexo sever # 启动服务本地预览&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;hexo d &amp;#x3D; hexo deploy # 部署博客&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;hexo clean # 清除缓存，一般网站正常则不会使用&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;下面会一一讲解：&lt;/p&gt;
 &lt;h2 id=&#34;站点配置文件-_configyml&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#站点配置文件-_configyml&#34;&gt;#&lt;/a&gt; 站点配置文件 _config.yml&lt;/h2&gt;
 &lt;p&gt;&lt;code&gt;_config.yml&lt;/code&gt;  是您的博客的配置文件，位于根目录，在这里可以设置博客的基础信息以及插件指令&lt;/p&gt;
 &lt;div class=&#34;note danger&#34;&gt;
@@ -1050,10 +1066,10 @@ Hexo 安装可能需要一段时间，中途可能出现几个报错，可以先
 &lt;p&gt;如果您的网站一切准备就绪，是时候将网站部署在 GitHub 上了&lt;/p&gt;
 &lt;p&gt;首先打开&lt;ins&gt;站点配置文件&lt;/ins&gt; &lt;code&gt;_config.yml&lt;/code&gt;  并找到 &lt;code&gt;deploy&lt;/code&gt;  项，一般都在最后&lt;br /&gt;
 将其修改为&lt;/p&gt;
-&lt;figure class=&#34;highlight yml&#34;&gt;&lt;figcaption data-lang=&#34;YAML&#34;&gt;&lt;span&gt;Hexo推送设置&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token comment&#34;&gt;# 以下格式可能不符，建议手动添加&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;deploy&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  &lt;span class=&#34;token key atrule&#34;&gt;type&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; git&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  &lt;span class=&#34;token key atrule&#34;&gt;repo&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; git@github.com&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt;用户名/仓库名.git &lt;span class=&#34;token comment&#34;&gt;# 仓库地址&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  &lt;span class=&#34;token key atrule&#34;&gt;branch&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;:&lt;/span&gt; master&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;保存站点配置文件&lt;/p&gt;
+&lt;figure class=&#34;highlight raw&#34;&gt;&lt;figcaption data-lang=&#34;&#34;&gt;&lt;span&gt;Hexo推送设置&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;# 以下格式可能不符，建议手动添加&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;deploy&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  type: git&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  repo: git@github.com: 用户名 &amp;#x2F; 仓库名.git # 仓库地址&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;  branch: master&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;保存站点配置文件&lt;/p&gt;
 &lt;p&gt;上传前需要安装 Git 部署插件，输入命令&lt;/p&gt;
-&lt;figure class=&#34;highlight yml&#34;&gt;&lt;figcaption data-lang=&#34;YAML&#34;&gt;&lt;span&gt;npm安装Hexo-Git部署插件&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;npm i hexo&lt;span class=&#34;token punctuation&#34;&gt;-&lt;/span&gt;deployer&lt;span class=&#34;token punctuation&#34;&gt;-&lt;/span&gt;git &lt;span class=&#34;token punctuation&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;-&lt;/span&gt;save&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;安装完毕后分别输入命令&lt;/p&gt;
-&lt;figure class=&#34;highlight yml&#34;&gt;&lt;figcaption data-lang=&#34;YAML&#34;&gt;&lt;span&gt;Hexo推送指令&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;hexo clean &lt;span class=&#34;token comment&#34;&gt;# 可以忽略，更换主题或者出现问题可以尝试执行该命令&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;hexo g&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;hexo d&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;输入 &lt;code&gt;hexo d&lt;/code&gt;  后，网站就会由 Git 插件上传至 GitHub 仓库&lt;br /&gt;
+&lt;figure class=&#34;highlight raw&#34;&gt;&lt;figcaption data-lang=&#34;&#34;&gt;&lt;span&gt;npm安装Hexo-Git部署插件&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;npm i hexo-deployer-git --save&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;安装完毕后分别输入命令&lt;/p&gt;
+&lt;figure class=&#34;highlight raw&#34;&gt;&lt;figcaption data-lang=&#34;&#34;&gt;&lt;span&gt;Hexo推送指令&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;hexo clean # 可以忽略，更换主题或者出现问题可以尝试执行该命令&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;hexo g&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;hexo d&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;输入 &lt;code&gt;hexo d&lt;/code&gt;  后，网站就会由 Git 插件上传至 GitHub 仓库&lt;br /&gt;
 在仓库中点击 &lt;code&gt;setting&lt;/code&gt;  进入&lt;ins&gt;仓库设置界面&lt;/ins&gt;（请勿点入个人账户设置界面 = =）&lt;br /&gt;
 在 &lt;code&gt;GitHub Pages&lt;/code&gt;  选项中，将 &lt;code&gt;Branch&lt;/code&gt;  设置为 &lt;code&gt;master&lt;/code&gt; , &lt;code&gt;/(root)&lt;/code&gt;  保持根目录不变&lt;br /&gt;
 点击 &lt;code&gt;save&lt;/code&gt;  保存，刷新后就会显示正在部署网站了&lt;br /&gt;
@@ -1078,7 +1094,7 @@ Hexo 安装可能需要一段时间，中途可能出现几个报错，可以先
  &lt;code&gt;markdown&lt;/code&gt;  是你写文章所使用的语法，具体写作方法请自行搜索&lt;br /&gt;
 如果您写过 wiki 的话应该会更好理解，大部分 wiki 与博客等网站都是使用 markdown 语法&lt;br /&gt;
 如果你要新建文章，在命令行输入：&lt;/p&gt;
-&lt;figure class=&#34;highlight yml&#34;&gt;&lt;figcaption data-lang=&#34;YAML&#34;&gt;&lt;span&gt;Hexo新建文章&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;hexo n post &#34;xxx&#34;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;就会在 &lt;code&gt;_post&lt;/code&gt;  目录下新建一个名为”xxx“文章了&lt;/p&gt;
+&lt;figure class=&#34;highlight raw&#34;&gt;&lt;figcaption data-lang=&#34;&#34;&gt;&lt;span&gt;Hexo新建文章&lt;/span&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;hexo n post &amp;quot;xxx&amp;quot;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;就会在 &lt;code&gt;_post&lt;/code&gt;  目录下新建一个名为”xxx“文章了&lt;/p&gt;
 &lt;div class=&#34;note info&#34;&gt;
 &lt;p&gt;如果你在 &lt;code&gt;_post&lt;/code&gt;  中已经生成了文章，写新文章时不想使用 &lt;code&gt;hexo n&lt;/code&gt; ，可以直接复制旧文章到 &lt;code&gt;_post&lt;/code&gt;  中加以修改&lt;/p&gt;
 &lt;/div&gt;
@@ -1772,47 +1788,5 @@ Hexo 安装可能需要一段时间，中途可能出现几个报错，可以先
         <category term="生活杂谈" scheme="https://blog.moeqy.com/categories/%E7%94%9F%E6%B4%BB%E6%9D%82%E8%B0%88/" />
         <category term="生活杂谈" scheme="https://blog.moeqy.com/tags/%E7%94%9F%E6%B4%BB%E6%9D%82%E8%B0%88/" />
         <updated>2020-09-09T01:26:48.000Z</updated>
-    </entry>
-    <entry>
-        <id>https://blog.moeqy.com/acg/anime/summary/20200727/post-1/</id>
-        <title>关于7月新番（1）</title>
-        <link rel="alternate" href="https://blog.moeqy.com/acg/anime/summary/20200727/post-1/"/>
-        <content type="html">&lt;p&gt;在这里来聊一下关于最近的 7 月新番和 7 月 “新” 番&lt;/p&gt;
-&lt;h1 id=&#34;刀剑神域-alicization-war-of-underworld-最终季&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#刀剑神域-alicization-war-of-underworld-最终季&#34;&gt;#&lt;/a&gt; 《刀剑神域 Alicization War of Underworld 最终季》&lt;/h1&gt;
-&lt;p&gt;首先是从 4 月延期的：《刀剑神域 Alicization War of Underworld 最终季》&lt;/p&gt;
-&lt;p&gt;在这里我要特别提下最近发生比较有争议的事情：&lt;/p&gt;
-&lt;p&gt;本番在第 15 集 “煽动” 评分大降，原因是中国玩家参加了反方红甲阵营。&lt;br /&gt;
-看过原作的朋友都应该清楚，中国 / 韩国玩家被 poh 煽动才参加战争的。中韩被谣言煽动原作实际并不 “轻易”，煽动成功的原因由多重负面影响导致且根本原因在日本方面 (来自 b 站评论)。川原老贼也道过歉，且在电击文库改版时还考虑过删不删除：&lt;/p&gt;
-&lt;p&gt;&lt;sub&gt;“在加百列、瓦沙克、克里达邪恶的计划之下，美国、韩国与中国的 VRMMO 玩家大举攻入 UnderWorld，与人界军和日本人玩家展开连番激战，我大约十年前左右在网路版写到这部分情节时，是存在「如果能成为让大家重新思考当时网路游戏世界排斥外国人玩家的风气」…… 这样的意图。但是长期以来都对自己描写的能力不足，导致反而只煽动了敌忾心这样的结果感到很愧疚。”&lt;/sub&gt;&lt;/p&gt;
-&lt;p&gt;&lt;sub&gt;作者原话&lt;/sub&gt;&lt;/p&gt;
-&lt;p&gt;在作为电击文库版加写与修改时，曾经想过把这些情节整个变更，但是又觉得这样也算是在逃避…… 结果，大致上的情节还是没有什么改变。&lt;/p&gt;
-&lt;p&gt;所以，希望大家理性爱国！事情要经过三思而后行！&lt;/p&gt;
-&lt;h1 id=&#34;高达创行者再起&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#高达创行者再起&#34;&gt;#&lt;/a&gt; 《高达创行者：再起》&lt;/h1&gt;
-&lt;p&gt;第二：《高达创行者：再起》&lt;/p&gt;
-&lt;p&gt;其前作《高达创行者》由于过于子供导致胶佬们的不满。&lt;br /&gt;
-但正如番名，高达创行者再起了。&lt;/p&gt;
-&lt;p&gt;虽然一开始从风见的幼稚行为使观众们表示不满，但是经历了第一季的大战后，从第二季开始所有人都成长成熟了起来。&lt;/p&gt;
-&lt;p&gt;剧情也进入了本作的高潮，虽然因为疫情原因导致原本的 4 月新番停播至 7 月，但还是无法减少观众对本作的热情，与前作产生了鲜明的对比。&lt;/p&gt;
-&lt;p&gt;“◯◯能赢，全套买齐！”&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt; 财团 b 的阴谋&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span class=&#34;spoiler&#34; title=&#34;你知道得太多了&#34;&gt;三上陆出来挨打 (恼)&lt;/span&gt;&lt;/p&gt;
-&lt;h1 id=&#34;某科学的超电磁炮t&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#某科学的超电磁炮t&#34;&gt;#&lt;/a&gt; 《某科学的超电磁炮 T》&lt;/h1&gt;
-&lt;p&gt;同停播但在最近复播的有：《某科学的超电磁炮 T》硬核年番&lt;/p&gt;
-&lt;p&gt;因为魔禁、约战、大爷的崩坏，J.C.STAFF 最近口碑一直在掉，甚至有人担心超炮 T 是不是也会遭受魔爪。&lt;/p&gt;
-&lt;p&gt;反而，最近疫情严重，JC 制作的超炮不但没有拉跨，反而还登上了 9.8（b 站）的高分。超炮和地下城可是亲生儿女，怎么能和捡来的大爷约战做对比？&lt;/p&gt;
-&lt;p&gt;现在超炮已经复播，地下城第三季也延期至 2021 年了。希望 JC 保持自己拥有的实力吧&lt;/p&gt;
-&lt;h1 id=&#34;宝石幻想-光芒重现&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#宝石幻想-光芒重现&#34;&gt;#&lt;/a&gt; 《宝石幻想 光芒重现》&lt;/h1&gt;
-&lt;p&gt;最后再来讲讲本季度最惨的番：《宝石幻想 光芒重现》&lt;/p&gt;
-&lt;p&gt;至 2020 年 7 月 27 日上午 8：42，本番只有 1630913 播放量，324741 追番数。从第一集几十万播放量，第二集更新后也就几万播放（现涨到 20w）。&lt;/p&gt;
-&lt;p&gt;那么，这部番不好吗？本番是拥有异世界魔法题材的偶像番，由于剧情轻松悠闲不符合多少人的胃口，这部番就成为了想起来就看想不起来就算了的作品。而且偶像番在国内也并不怎么符合大众胃口，知名的 LoveLive、中等的 BanG Dream！、不知名的偶像大师 im@s 都基本上成为了圈内自嗨与车万一样称为 “电子越共” 而其圈内本身也有一些偏见。宝石幻想 光芒重现的出现，目前最多也只能得到圈内少数人的关注。&lt;/p&gt;
-&lt;p&gt;当然，作品本身质量也是相当不错的，除了到目前位置还没成团之外（反正我习惯看了，日常不好吗？），音乐 / 特效 / 3D / 作画质量都很高，轻松的日常也能让你在繁忙之中歇息。&lt;/p&gt;
-</content>
-        <category term="ACG" scheme="https://blog.moeqy.com/categories/acg/" />
-        <category term="番剧" scheme="https://blog.moeqy.com/categories/acg/anime/" />
-        <category term="新番总结" scheme="https://blog.moeqy.com/categories/acg/anime/%E6%96%B0%E7%95%AA%E6%80%BB%E7%BB%93/" />
-        <category term="ACG" scheme="https://blog.moeqy.com/tags/ACG/" />
-        <category term="番剧杂谈" scheme="https://blog.moeqy.com/tags/%E7%95%AA%E5%89%A7%E6%9D%82%E8%B0%88/" />
-        <category term="番剧推荐" scheme="https://blog.moeqy.com/tags/%E7%95%AA%E5%89%A7%E6%8E%A8%E8%8D%90/" />
-        <category term="Anime" scheme="https://blog.moeqy.com/tags/Anime/" />
-        <updated>2020-07-27T01:26:48.000Z</updated>
     </entry>
 </feed>
