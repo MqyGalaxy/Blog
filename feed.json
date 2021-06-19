@@ -9,9 +9,9 @@
         {
             "id": "https://blog.moeqy.com/announcement/",
             "url": "https://blog.moeqy.com/announcement/",
-            "title": "公告：高考加油！",
-            "date_published": "2021-06-07T05:17:00.000Z",
-            "content_html": "<div class=\"note info\">\n<p>MyBlog 目前还在进行规划，您现在所看到的主页并不是最终完成的内容<br />\n目前打算在小站中塞下学习笔记、ACG、爱好等内容<br />\n如若内容过于复杂，则打算将学习笔记腾到分站</p>\n</div>\n<p>我打算将这两个页面用 <code>&lt;iframe&gt;</code>  来调用到主题页面上。理想很美好，现实太残酷了 QAQ。<br />\n目前找到了一个 js 自适应，但是 bug 太多了，特别是说说页面完全不适应。于是暂时先给追番页面用了。<br />\n但是还存在着一开始打开没有自适应的问题，我实在是没有办法了。技术力太差了 QAQ。求路过的大佬帮助一下吧。</p>\n",
+            "title": "公告：优化“追番”适配",
+            "date_published": "2021-06-19T00:30:00.000Z",
+            "content_html": "<div class=\"note info\">\n<p>MyBlog 目前还在进行规划，您现在所看到的主页并不是最终完成的内容<br />\n目前打算在小站中塞下学习笔记、ACG、爱好等内容<br />\n如若内容过于复杂，则打算将学习笔记腾到分站</p>\n</div>\n<p>现在已经优化了 “追番” 页面中使用 <code>iframe</code>  嵌入内容自适应。目前还没有发现什么问题。<br />\n参考了 https://www.haoyizebo.com/posts/e9071e74/，谢谢大佬分享的文章！</p>\n",
             "tags": [
                 "公告",
                 "公告"
