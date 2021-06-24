@@ -38,23 +38,12 @@
 	background: #FFC0CB;
 	/* -webkit-box-shadow: inset006pxrgba(0, 0, 0, 0.5); */
 }
-.bangumibackblog a{
-	background: rgba(255,255,255,0);
-	position: relative;
-    display: inline-block;
-    padding: 12px 46px;
-    min-width: 80px;
-    border: 2px solid #FFF;
-    border-radius: 40px;
-    font-size: 14px;
-    text-decoration: none;
-	text-align: center;
-	margin-top: 10px;
+.bgm-footer a{
+	color: #FF9BC1;
 	transition: all 0.3s ease;
 }
-.bangumibackblog a:hover{
-	background: rgba(255,255,255,0.5);
-	border: 2px solid #FFF;
+.bgm-footer a:hover{
+	color: #00BFFF;
 	transition: all 0.3s ease;
 }
 @media only screen and (max-width: 900px) {
