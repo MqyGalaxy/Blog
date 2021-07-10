@@ -1,4 +1,10 @@
 var anime = [{
+	"id" :"https://lain.bgm.tv/pic/cover/l/d4/a3/325281_CZa9A.jpg",
+	"src" :"https://bgm.tv/subject/325281",
+	"title" :"白沙的水族馆",
+	"subtitle" :"白い砂のアクアトープ",
+	"description" : "在水族馆工作的18岁女高中生·海咲野空琉，与在东京失去了自己的位置、因而逃走的前偶像宫泽风花相遇了。空琉和风花将各自的想法埋藏于心、在水族馆中度过了一段时光。但是，在那个重要的地方，闭馆的危机正在迫近。少女们的梦想与现实，孤独与朋友，羁绊与纠结——将会在这个夏天展开闪耀的新篇章。"
+}, {
 	"id" :"https://lain.bgm.tv/pic/cover/l/e0/8e/325727_U1eEj.jpg",
 	"src" :"https://bgm.tv/subject/325727",
 	"title" :"侦探已经死了。",
